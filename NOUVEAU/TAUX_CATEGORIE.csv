@@ -1,0 +1,4057 @@
+annee;region;categorie;pourcentage
+2016;Auvergne - Rhône-Alpes;hommes;49,75238385
+2017;Auvergne - Rhône-Alpes;hommes;50,94974514
+2018;Auvergne - Rhône-Alpes;hommes;52,14369543
+2019;Auvergne - Rhône-Alpes;hommes;49,19127597
+2020;Auvergne - Rhône-Alpes;hommes;51,37446103
+2016;Bourgogne - Franche-Comté;hommes;53,58945722
+2017;Bourgogne - Franche-Comté;hommes;51,69201664
+2018;Bourgogne - Franche-Comté;hommes;50,08987667
+2019;Bourgogne - Franche-Comté;hommes;49,48350476
+2020;Bourgogne - Franche-Comté;hommes;47,52702594
+2016;Bretagne;hommes;50,24554618
+2017;Bretagne;hommes;50,91953995
+2018;Bretagne;hommes;51,41882786
+2019;Bretagne;hommes;48,55287666
+2020;Bretagne;hommes;51,31398916
+2016;Centre - Val-de-Loire;hommes;53,51906991
+2017;Centre - Val-de-Loire;hommes;53,70206822
+2018;Centre - Val-de-Loire;hommes;50,90623084
+2019;Centre - Val-de-Loire;hommes;47,16316546
+2020;Centre - Val-de-Loire;hommes;48,0147668
+2016;Corse;hommes;
+2017;Corse;hommes;
+2018;Corse;hommes;
+2019;Corse;hommes;
+2020;Corse;hommes;
+2016;Grand-Est;hommes;56,94085591
+2017;Grand-Est;hommes;51,89381897
+2018;Grand-Est;hommes;52,74930661
+2019;Grand-Est;hommes;51,48689718
+2020;Grand-Est;hommes;54,82162598
+2016;Hauts-de-France;hommes;51,91538279
+2017;Hauts-de-France;hommes;52,12453337
+2018;Hauts-de-France;hommes;50,85083466
+2019;Hauts-de-France;hommes;48,36440577
+2020;Hauts-de-France;hommes;49,56240271
+2016;Ile-de-France;hommes;51,75104751
+2017;Ile-de-France;hommes;52,76228462
+2018;Ile-de-France;hommes;53,52067668
+2019;Ile-de-France;hommes;49,80442025
+2020;Ile-de-France;hommes;52,55758789
+2016;Normandie;hommes;50,99286752
+2017;Normandie;hommes;52,5650305
+2018;Normandie;hommes;49,18544581
+2019;Normandie;hommes;50,9917593
+2020;Normandie;hommes;49,96359521
+2016;Nouvelle Aquitaine;hommes;51,52360998
+2017;Nouvelle Aquitaine;hommes;51,98566414
+2018;Nouvelle Aquitaine;hommes;51,46449391
+2019;Nouvelle Aquitaine;hommes;49,85774257
+2020;Nouvelle Aquitaine;hommes;53,48688016
+2016;Occitanie;hommes;53,93466389
+2017;Occitanie;hommes;51,49007702
+2018;Occitanie;hommes;52,10983949
+2019;Occitanie;hommes;52,66581792
+2020;Occitanie;hommes;50,90213642
+2016;Pays de la Loire;hommes;53,72825334
+2017;Pays de la Loire;hommes;53,33981917
+2018;Pays de la Loire;hommes;51,97139779
+2019;Pays de la Loire;hommes;51,30139209
+2020;Pays de la Loire;hommes;54,25140431
+2016;Provence-Alpes-Côte-d'Azur;hommes;48,89453923
+2017;Provence-Alpes-Côte-d'Azur;hommes;52,70522458
+2018;Provence-Alpes-Côte-d'Azur;hommes;52,76125734
+2019;Provence-Alpes-Côte-d'Azur;hommes;49,98897625
+2020;Provence-Alpes-Côte-d'Azur;hommes;51,74008416
+2016;Auvergne - Rhône-Alpes;femmes;50,24761615
+2017;Auvergne - Rhône-Alpes;femmes;49,05025486
+2018;Auvergne - Rhône-Alpes;femmes;47,85630457
+2019;Auvergne - Rhône-Alpes;femmes;50,80872403
+2020;Auvergne - Rhône-Alpes;femmes;48,62553897
+2016;Bourgogne - Franche-Comté;femmes;46,41054278
+2017;Bourgogne - Franche-Comté;femmes;48,30798336
+2018;Bourgogne - Franche-Comté;femmes;49,91012333
+2019;Bourgogne - Franche-Comté;femmes;50,51649524
+2020;Bourgogne - Franche-Comté;femmes;52,47297406
+2016;Bretagne;femmes;49,75445382
+2017;Bretagne;femmes;49,08046005
+2018;Bretagne;femmes;48,58117214
+2019;Bretagne;femmes;51,44712334
+2020;Bretagne;femmes;48,68601084
+2016;Centre - Val-de-Loire;femmes;46,48093009
+2017;Centre - Val-de-Loire;femmes;46,29793178
+2018;Centre - Val-de-Loire;femmes;49,09376916
+2019;Centre - Val-de-Loire;femmes;52,83683454
+2020;Centre - Val-de-Loire;femmes;51,9852332
+2016;Corse;femmes;
+2017;Corse;femmes;
+2018;Corse;femmes;
+2019;Corse;femmes;
+2020;Corse;femmes;
+2016;Grand-Est;femmes;43,05914409
+2017;Grand-Est;femmes;48,10618103
+2018;Grand-Est;femmes;47,25069339
+2019;Grand-Est;femmes;48,51310282
+2020;Grand-Est;femmes;45,17837402
+2016;Hauts-de-France;femmes;48,08461721
+2017;Hauts-de-France;femmes;47,87546663
+2018;Hauts-de-France;femmes;49,14916534
+2019;Hauts-de-France;femmes;51,63559423
+2020;Hauts-de-France;femmes;50,43759729
+2016;Ile-de-France;femmes;48,24895249
+2017;Ile-de-France;femmes;47,23771538
+2018;Ile-de-France;femmes;46,47932332
+2019;Ile-de-France;femmes;50,19557975
+2020;Ile-de-France;femmes;47,44241211
+2016;Normandie;femmes;49,00713248
+2017;Normandie;femmes;47,4349695
+2018;Normandie;femmes;50,81455419
+2019;Normandie;femmes;49,0082407
+2020;Normandie;femmes;50,03640479
+2016;Nouvelle Aquitaine;femmes;48,47639002
+2017;Nouvelle Aquitaine;femmes;48,01433586
+2018;Nouvelle Aquitaine;femmes;48,53550609
+2019;Nouvelle Aquitaine;femmes;50,14225743
+2020;Nouvelle Aquitaine;femmes;46,51311984
+2016;Occitanie;femmes;46,06533611
+2017;Occitanie;femmes;48,50992298
+2018;Occitanie;femmes;47,89016051
+2019;Occitanie;femmes;47,33418208
+2020;Occitanie;femmes;49,09786358
+2016;Pays de la Loire;femmes;46,27174666
+2017;Pays de la Loire;femmes;46,66018083
+2018;Pays de la Loire;femmes;48,02860221
+2019;Pays de la Loire;femmes;48,69860791
+2020;Pays de la Loire;femmes;45,74859569
+2016;Provence-Alpes-Côte-d'Azur;femmes;51,10546077
+2017;Provence-Alpes-Côte-d'Azur;femmes;47,29477542
+2018;Provence-Alpes-Côte-d'Azur;femmes;47,23874266
+2019;Provence-Alpes-Côte-d'Azur;femmes;50,01102375
+2020;Provence-Alpes-Côte-d'Azur;femmes;48,25991584
+2016;Auvergne - Rhône-Alpes;enfants (3-14 ans);16,55388825
+2017;Auvergne - Rhône-Alpes;enfants (3-14 ans);17,68787471
+2018;Auvergne - Rhône-Alpes;enfants (3-14 ans);15,82548105
+2019;Auvergne - Rhône-Alpes;enfants (3-14 ans);18,47419852
+2020;Auvergne - Rhône-Alpes;enfants (3-14 ans);17,13888569
+2016;Bourgogne - Franche-Comté;enfants (3-14 ans);17,1503468
+2017;Bourgogne - Franche-Comté;enfants (3-14 ans);17,62932788
+2018;Bourgogne - Franche-Comté;enfants (3-14 ans);17,61210405
+2019;Bourgogne - Franche-Comté;enfants (3-14 ans);19,63817234
+2020;Bourgogne - Franche-Comté;enfants (3-14 ans);18,7358149
+2016;Bretagne;enfants (3-14 ans);14,22439962
+2017;Bretagne;enfants (3-14 ans);15,48389537
+2018;Bretagne;enfants (3-14 ans);17,34813182
+2019;Bretagne;enfants (3-14 ans);17,64776904
+2020;Bretagne;enfants (3-14 ans);16,66717035
+2016;Centre - Val-de-Loire;enfants (3-14 ans);15,48605017
+2017;Centre - Val-de-Loire;enfants (3-14 ans);15,68203894
+2018;Centre - Val-de-Loire;enfants (3-14 ans);15,95866251
+2019;Centre - Val-de-Loire;enfants (3-14 ans);19,17449986
+2020;Centre - Val-de-Loire;enfants (3-14 ans);18,12886894
+2016;Corse;enfants (3-14 ans);
+2017;Corse;enfants (3-14 ans);
+2018;Corse;enfants (3-14 ans);
+2019;Corse;enfants (3-14 ans);
+2020;Corse;enfants (3-14 ans);
+2016;Grand-Est;enfants (3-14 ans);14,13702218
+2017;Grand-Est;enfants (3-14 ans);15,41179993
+2018;Grand-Est;enfants (3-14 ans);15,61256355
+2019;Grand-Est;enfants (3-14 ans);18,35070931
+2020;Grand-Est;enfants (3-14 ans);18,7903603
+2016;Hauts-de-France;enfants (3-14 ans);17,12266898
+2017;Hauts-de-France;enfants (3-14 ans);17,02293091
+2018;Hauts-de-France;enfants (3-14 ans);17,00364586
+2019;Hauts-de-France;enfants (3-14 ans);20,58407776
+2020;Hauts-de-France;enfants (3-14 ans);18,68209934
+2016;Ile-de-France;enfants (3-14 ans);12,61813997
+2017;Ile-de-France;enfants (3-14 ans);14,4038993
+2018;Ile-de-France;enfants (3-14 ans);13,58130189
+2019;Ile-de-France;enfants (3-14 ans);14,92074857
+2020;Ile-de-France;enfants (3-14 ans);14,60949877
+2016;Normandie;enfants (3-14 ans);16,63421991
+2017;Normandie;enfants (3-14 ans);16,39259148
+2018;Normandie;enfants (3-14 ans);17,65560676
+2019;Normandie;enfants (3-14 ans);18,93966032
+2020;Normandie;enfants (3-14 ans);20,29283765
+2016;Nouvelle Aquitaine;enfants (3-14 ans);15,02690615
+2017;Nouvelle Aquitaine;enfants (3-14 ans);16,48035419
+2018;Nouvelle Aquitaine;enfants (3-14 ans);16,65126115
+2019;Nouvelle Aquitaine;enfants (3-14 ans);18,2775566
+2020;Nouvelle Aquitaine;enfants (3-14 ans);19,07602104
+2016;Occitanie;enfants (3-14 ans);15,85716329
+2017;Occitanie;enfants (3-14 ans);15,75862949
+2018;Occitanie;enfants (3-14 ans);16,24157717
+2019;Occitanie;enfants (3-14 ans);19,44862162
+2020;Occitanie;enfants (3-14 ans);18,38821259
+2016;Pays de la Loire;enfants (3-14 ans);15,64975445
+2017;Pays de la Loire;enfants (3-14 ans);16,69220469
+2018;Pays de la Loire;enfants (3-14 ans);17,69103322
+2019;Pays de la Loire;enfants (3-14 ans);19,19710686
+2020;Pays de la Loire;enfants (3-14 ans);19,19674368
+2016;Provence-Alpes-Côte-d'Azur;enfants (3-14 ans);13,86773995
+2017;Provence-Alpes-Côte-d'Azur;enfants (3-14 ans);13,81106589
+2018;Provence-Alpes-Côte-d'Azur;enfants (3-14 ans);14,42785352
+2019;Provence-Alpes-Côte-d'Azur;enfants (3-14 ans);15,94544639
+2020;Provence-Alpes-Côte-d'Azur;enfants (3-14 ans);16,10135685
+2016;Auvergne - Rhône-Alpes;jeunes (15-24 ans);18,11470506
+2017;Auvergne - Rhône-Alpes;jeunes (15-24 ans);18,94196007
+2018;Auvergne - Rhône-Alpes;jeunes (15-24 ans);19,80731627
+2019;Auvergne - Rhône-Alpes;jeunes (15-24 ans);18,41379033
+2020;Auvergne - Rhône-Alpes;jeunes (15-24 ans);20,65139142
+2016;Bourgogne - Franche-Comté;jeunes (15-24 ans);20,40853392
+2017;Bourgogne - Franche-Comté;jeunes (15-24 ans);21,66767368
+2018;Bourgogne - Franche-Comté;jeunes (15-24 ans);19,22162152
+2019;Bourgogne - Franche-Comté;jeunes (15-24 ans);17,73787438
+2020;Bourgogne - Franche-Comté;jeunes (15-24 ans);19,03064689
+2016;Bretagne;jeunes (15-24 ans);19,28810369
+2017;Bretagne;jeunes (15-24 ans);19,6949389
+2018;Bretagne;jeunes (15-24 ans);19,57643514
+2019;Bretagne;jeunes (15-24 ans);16,80608513
+2020;Bretagne;jeunes (15-24 ans);16,81394155
+2016;Centre - Val-de-Loire;jeunes (15-24 ans);16,38291681
+2017;Centre - Val-de-Loire;jeunes (15-24 ans);18,47277355
+2018;Centre - Val-de-Loire;jeunes (15-24 ans);21,6744224
+2019;Centre - Val-de-Loire;jeunes (15-24 ans);16,93179776
+2020;Centre - Val-de-Loire;jeunes (15-24 ans);19,00476013
+2016;Corse;jeunes (15-24 ans);
+2017;Corse;jeunes (15-24 ans);
+2018;Corse;jeunes (15-24 ans);
+2019;Corse;jeunes (15-24 ans);
+2020;Corse;jeunes (15-24 ans);
+2016;Grand-Est;jeunes (15-24 ans);17,54810002
+2017;Grand-Est;jeunes (15-24 ans);21,03262218
+2018;Grand-Est;jeunes (15-24 ans);19,67237873
+2019;Grand-Est;jeunes (15-24 ans);18,47012104
+2020;Grand-Est;jeunes (15-24 ans);19,78082503
+2016;Hauts-de-France;jeunes (15-24 ans);20,05795052
+2017;Hauts-de-France;jeunes (15-24 ans);21,10914278
+2018;Hauts-de-France;jeunes (15-24 ans);22,1466235
+2019;Hauts-de-France;jeunes (15-24 ans);18,45027818
+2020;Hauts-de-France;jeunes (15-24 ans);22,42702797
+2016;Ile-de-France;jeunes (15-24 ans);18,07534438
+2017;Ile-de-France;jeunes (15-24 ans);21,02985951
+2018;Ile-de-France;jeunes (15-24 ans);21,74519276
+2019;Ile-de-France;jeunes (15-24 ans);19,66285051
+2020;Ile-de-France;jeunes (15-24 ans);22,22211785
+2016;Normandie;jeunes (15-24 ans);18,99073823
+2017;Normandie;jeunes (15-24 ans);21,66557849
+2018;Normandie;jeunes (15-24 ans);22,79951545
+2019;Normandie;jeunes (15-24 ans);18,82279663
+2020;Normandie;jeunes (15-24 ans);18,95467415
+2016;Nouvelle Aquitaine;jeunes (15-24 ans);18,98776142
+2017;Nouvelle Aquitaine;jeunes (15-24 ans);20,0305144
+2018;Nouvelle Aquitaine;jeunes (15-24 ans);20,82422552
+2019;Nouvelle Aquitaine;jeunes (15-24 ans);18,02896883
+2020;Nouvelle Aquitaine;jeunes (15-24 ans);19,73491627
+2016;Occitanie;jeunes (15-24 ans);15,71971363
+2017;Occitanie;jeunes (15-24 ans);16,65087931
+2018;Occitanie;jeunes (15-24 ans);17,85405424
+2019;Occitanie;jeunes (15-24 ans);16,08099017
+2020;Occitanie;jeunes (15-24 ans);18,96973957
+2016;Pays de la Loire;jeunes (15-24 ans);17,92042244
+2017;Pays de la Loire;jeunes (15-24 ans);18,10909661
+2018;Pays de la Loire;jeunes (15-24 ans);18,94466702
+2019;Pays de la Loire;jeunes (15-24 ans);17,06412448
+2020;Pays de la Loire;jeunes (15-24 ans);15,9981787
+2016;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);17,44369553
+2017;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);17,29878471
+2018;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);17,43097847
+2019;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);15,616073
+2020;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);19,95198214
+2016;Auvergne - Rhône-Alpes;adultes (25-34 ans);12,76219072
+2017;Auvergne - Rhône-Alpes;adultes (25-34 ans);12,5349439
+2018;Auvergne - Rhône-Alpes;adultes (25-34 ans);13,88029466
+2019;Auvergne - Rhône-Alpes;adultes (25-34 ans);10,72130946
+2020;Auvergne - Rhône-Alpes;adultes (25-34 ans);10,84596668
+2016;Bourgogne - Franche-Comté;adultes (25-34 ans);11,84618993
+2017;Bourgogne - Franche-Comté;adultes (25-34 ans);11,96413677
+2018;Bourgogne - Franche-Comté;adultes (25-34 ans);13,75799035
+2019;Bourgogne - Franche-Comté;adultes (25-34 ans);10,42131998
+2020;Bourgogne - Franche-Comté;adultes (25-34 ans);12,36305502
+2016;Bretagne;adultes (25-34 ans);9,797083367
+2017;Bretagne;adultes (25-34 ans);9,088355713
+2018;Bretagne;adultes (25-34 ans);11,53332655
+2019;Bretagne;adultes (25-34 ans);11,20415479
+2020;Bretagne;adultes (25-34 ans);11,44036553
+2016;Centre - Val-de-Loire;adultes (25-34 ans);11,78047324
+2017;Centre - Val-de-Loire;adultes (25-34 ans);10,9795731
+2018;Centre - Val-de-Loire;adultes (25-34 ans);11,83229358
+2019;Centre - Val-de-Loire;adultes (25-34 ans);10,20899643
+2020;Centre - Val-de-Loire;adultes (25-34 ans);9,052873278
+2016;Corse;adultes (25-34 ans);
+2017;Corse;adultes (25-34 ans);
+2018;Corse;adultes (25-34 ans);
+2019;Corse;adultes (25-34 ans);
+2020;Corse;adultes (25-34 ans);
+2016;Grand-Est;adultes (25-34 ans);12,74462098
+2017;Grand-Est;adultes (25-34 ans);12,87639064
+2018;Grand-Est;adultes (25-34 ans);13,37774318
+2019;Grand-Est;adultes (25-34 ans);11,15021562
+2020;Grand-Est;adultes (25-34 ans);11,05282297
+2016;Hauts-de-France;adultes (25-34 ans);14,38020237
+2017;Hauts-de-France;adultes (25-34 ans);12,09378267
+2018;Hauts-de-France;adultes (25-34 ans);14,51020785
+2019;Hauts-de-France;adultes (25-34 ans);11,47084149
+2020;Hauts-de-France;adultes (25-34 ans);10,99932715
+2016;Ile-de-France;adultes (25-34 ans);13,80384791
+2017;Ile-de-France;adultes (25-34 ans);13,3761403
+2018;Ile-de-France;adultes (25-34 ans);14,44839239
+2019;Ile-de-France;adultes (25-34 ans);11,78591326
+2020;Ile-de-France;adultes (25-34 ans);12,2290344
+2016;Normandie;adultes (25-34 ans);11,83536315
+2017;Normandie;adultes (25-34 ans);10,39812313
+2018;Normandie;adultes (25-34 ans);11,97509131
+2019;Normandie;adultes (25-34 ans);9,095852024
+2020;Normandie;adultes (25-34 ans);11,78976856
+2016;Nouvelle Aquitaine;adultes (25-34 ans);11,3535979
+2017;Nouvelle Aquitaine;adultes (25-34 ans);10,85699217
+2018;Nouvelle Aquitaine;adultes (25-34 ans);11,64498647
+2019;Nouvelle Aquitaine;adultes (25-34 ans);9,126380167
+2020;Nouvelle Aquitaine;adultes (25-34 ans);10,27698205
+2016;Occitanie;adultes (25-34 ans);13,36618651
+2017;Occitanie;adultes (25-34 ans);10,94804132
+2018;Occitanie;adultes (25-34 ans);11,91982864
+2019;Occitanie;adultes (25-34 ans);8,704129112
+2020;Occitanie;adultes (25-34 ans);9,373332628
+2016;Pays de la Loire;adultes (25-34 ans);13,59426554
+2017;Pays de la Loire;adultes (25-34 ans);11,68387027
+2018;Pays de la Loire;adultes (25-34 ans);11,57581643
+2019;Pays de la Loire;adultes (25-34 ans);9,303281149
+2020;Pays de la Loire;adultes (25-34 ans);9,976987642
+2016;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);11,43146127
+2017;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);10,06186127
+2018;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);12,56168327
+2019;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);10,09076266
+2020;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);9,497077206
+2016;Auvergne - Rhône-Alpes;séniors (35-49 ans);16,95454571
+2017;Auvergne - Rhône-Alpes;séniors (35-49 ans);16,32776322
+2018;Auvergne - Rhône-Alpes;séniors (35-49 ans);17,73302584
+2019;Auvergne - Rhône-Alpes;séniors (35-49 ans);13,80647249
+2020;Auvergne - Rhône-Alpes;séniors (35-49 ans);13,29764343
+2016;Bourgogne - Franche-Comté;séniors (35-49 ans);17,52314944
+2017;Bourgogne - Franche-Comté;séniors (35-49 ans);15,35592005
+2018;Bourgogne - Franche-Comté;séniors (35-49 ans);17,20371526
+2019;Bourgogne - Franche-Comté;séniors (35-49 ans);13,5332635
+2020;Bourgogne - Franche-Comté;séniors (35-49 ans);12,36738949
+2016;Bretagne;séniors (35-49 ans);17,88672778
+2017;Bretagne;séniors (35-49 ans);15,04447161
+2018;Bretagne;séniors (35-49 ans);15,52970346
+2019;Bretagne;séniors (35-49 ans);13,0488941
+2020;Bretagne;séniors (35-49 ans);12,11999425
+2016;Centre - Val-de-Loire;séniors (35-49 ans);14,50722503
+2017;Centre - Val-de-Loire;séniors (35-49 ans);13,40351845
+2018;Centre - Val-de-Loire;séniors (35-49 ans);16,26027204
+2019;Centre - Val-de-Loire;séniors (35-49 ans);13,35449163
+2020;Centre - Val-de-Loire;séniors (35-49 ans);12,84490788
+2016;Corse;séniors (35-49 ans);
+2017;Corse;séniors (35-49 ans);
+2018;Corse;séniors (35-49 ans);
+2019;Corse;séniors (35-49 ans);
+2020;Corse;séniors (35-49 ans);
+2016;Grand-Est;séniors (35-49 ans);17,02854578
+2017;Grand-Est;séniors (35-49 ans);15,58713341
+2018;Grand-Est;séniors (35-49 ans);17,74716568
+2019;Grand-Est;séniors (35-49 ans);13,88502962
+2020;Grand-Est;séniors (35-49 ans);12,54565812
+2016;Hauts-de-France;séniors (35-49 ans);18,56047231
+2017;Hauts-de-France;séniors (35-49 ans);16,10687811
+2018;Hauts-de-France;séniors (35-49 ans);17,86046056
+2019;Hauts-de-France;séniors (35-49 ans);14,33133571
+2020;Hauts-de-France;séniors (35-49 ans);12,90637742
+2016;Ile-de-France;séniors (35-49 ans);15,87840775
+2017;Ile-de-France;séniors (35-49 ans);14,92644905
+2018;Ile-de-France;séniors (35-49 ans);15,75560075
+2019;Ile-de-France;séniors (35-49 ans);12,79627397
+2020;Ile-de-France;séniors (35-49 ans);11,16024143
+2016;Normandie;séniors (35-49 ans);16,00055924
+2017;Normandie;séniors (35-49 ans);13,97908477
+2018;Normandie;séniors (35-49 ans);15,65550417
+2019;Normandie;séniors (35-49 ans);12,46589885
+2020;Normandie;séniors (35-49 ans);11,97345643
+2016;Nouvelle Aquitaine;séniors (35-49 ans);16,06841245
+2017;Nouvelle Aquitaine;séniors (35-49 ans);15,29251502
+2018;Nouvelle Aquitaine;séniors (35-49 ans);16,81646576
+2019;Nouvelle Aquitaine;séniors (35-49 ans);13,98486401
+2020;Nouvelle Aquitaine;séniors (35-49 ans);13,32312833
+2016;Occitanie;séniors (35-49 ans);16,76319963
+2017;Occitanie;séniors (35-49 ans);15,50934796
+2018;Occitanie;séniors (35-49 ans);17,41699956
+2019;Occitanie;séniors (35-49 ans);14,39160188
+2020;Occitanie;séniors (35-49 ans);14,21873749
+2016;Pays de la Loire;séniors (35-49 ans);16,58390819
+2017;Pays de la Loire;séniors (35-49 ans);15,62166307
+2018;Pays de la Loire;séniors (35-49 ans);16,00809869
+2019;Pays de la Loire;séniors (35-49 ans);13,15367324
+2020;Pays de la Loire;séniors (35-49 ans);12,10221407
+2016;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);16,25209483
+2017;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);13,99256507
+2018;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);14,58944136
+2019;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);11,92621277
+2020;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);11,13674031
+2016;Auvergne - Rhône-Alpes;vétérans (50 ans et plus);35,61467026
+2017;Auvergne - Rhône-Alpes;vétérans (50 ans et plus);34,50745811
+2018;Auvergne - Rhône-Alpes;vétérans (50 ans et plus);32,75388219
+2019;Auvergne - Rhône-Alpes;vétérans (50 ans et plus);38,58422921
+2020;Auvergne - Rhône-Alpes;vétérans (50 ans et plus);38,06611278
+2016;Bourgogne - Franche-Comté;vétérans (50 ans et plus);33,0717799
+2017;Bourgogne - Franche-Comté;vétérans (50 ans et plus);33,38294162
+2018;Bourgogne - Franche-Comté;vétérans (50 ans et plus);32,20456882
+2019;Bourgogne - Franche-Comté;vétérans (50 ans et plus);38,6693698
+2020;Bourgogne - Franche-Comté;vétérans (50 ans et plus);37,50309369
+2016;Bretagne;vétérans (50 ans et plus);38,80368555
+2017;Bretagne;vétérans (50 ans et plus);40,6883384
+2018;Bretagne;vétérans (50 ans et plus);36,01240303
+2019;Bretagne;vétérans (50 ans et plus);41,29309693
+2020;Bretagne;vétérans (50 ans et plus);42,95852833
+2016;Centre - Val-de-Loire;vétérans (50 ans et plus);41,84333476
+2017;Centre - Val-de-Loire;vétérans (50 ans et plus);41,46209597
+2018;Centre - Val-de-Loire;vétérans (50 ans et plus);34,27434947
+2019;Centre - Val-de-Loire;vétérans (50 ans et plus);40,33021432
+2020;Centre - Val-de-Loire;vétérans (50 ans et plus);40,96858977
+2016;Corse;vétérans (50 ans et plus);
+2017;Corse;vétérans (50 ans et plus);
+2018;Corse;vétérans (50 ans et plus);
+2019;Corse;vétérans (50 ans et plus);
+2020;Corse;vétérans (50 ans et plus);
+2016;Grand-Est;vétérans (50 ans et plus);38,54171105
+2017;Grand-Est;vétérans (50 ans et plus);35,09205384
+2018;Grand-Est;vétérans (50 ans et plus);33,59014886
+2019;Grand-Est;vétérans (50 ans et plus);38,1439244
+2020;Grand-Est;vétérans (50 ans et plus);37,83033359
+2016;Hauts-de-France;vétérans (50 ans et plus);29,87870582
+2017;Hauts-de-France;vétérans (50 ans et plus);33,66726554
+2018;Hauts-de-France;vétérans (50 ans et plus);28,47906223
+2019;Hauts-de-France;vétérans (50 ans et plus);35,16346687
+2020;Hauts-de-France;vétérans (50 ans et plus);34,98516813
+2016;Ile-de-France;vétérans (50 ans et plus);39,62425999
+2017;Ile-de-France;vétérans (50 ans et plus);36,26365184
+2018;Ile-de-France;vétérans (50 ans et plus);34,46951222
+2019;Ile-de-France;vétérans (50 ans et plus);40,83421369
+2020;Ile-de-France;vétérans (50 ans et plus);39,77910755
+2016;Normandie;vétérans (50 ans et plus);36,53911946
+2017;Normandie;vétérans (50 ans et plus);37,56462213
+2018;Normandie;vétérans (50 ans et plus);31,91428231
+2019;Normandie;vétérans (50 ans et plus);40,67579217
+2020;Normandie;vétérans (50 ans et plus);36,98926321
+2016;Nouvelle Aquitaine;vétérans (50 ans et plus);38,56332209
+2017;Nouvelle Aquitaine;vétérans (50 ans et plus);37,33962422
+2018;Nouvelle Aquitaine;vétérans (50 ans et plus);34,0630611
+2019;Nouvelle Aquitaine;vétérans (50 ans et plus);40,5822304
+2020;Nouvelle Aquitaine;vétérans (50 ans et plus);37,58895231
+2016;Occitanie;vétérans (50 ans et plus);38,29373694
+2017;Occitanie;vétérans (50 ans et plus);41,13310192
+2018;Occitanie;vétérans (50 ans et plus);36,56754038
+2019;Occitanie;vétérans (50 ans et plus);41,37465722
+2020;Occitanie;vétérans (50 ans et plus);39,04997772
+2016;Pays de la Loire;vétérans (50 ans et plus);36,25164938
+2017;Pays de la Loire;vétérans (50 ans et plus);37,89316536
+2018;Pays de la Loire;vétérans (50 ans et plus);35,78038463
+2019;Pays de la Loire;vétérans (50 ans et plus);41,28181427
+2020;Pays de la Loire;vétérans (50 ans et plus);42,72587591
+2016;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);41,00500841
+2017;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);44,83572307
+2018;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);40,99004339
+2019;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);46,42150517
+2020;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);43,31284349
+2016;Auvergne - Rhône-Alpes;CSP+;28,38790171
+2017;Auvergne - Rhône-Alpes;CSP+;30,1799225
+2018;Auvergne - Rhône-Alpes;CSP+;30,16806857
+2019;Auvergne - Rhône-Alpes;CSP+;26,40937716
+2020;Auvergne - Rhône-Alpes;CSP+;27,76596612
+2016;Bourgogne - Franche-Comté;CSP+;25,00847094
+2017;Bourgogne - Franche-Comté;CSP+;27,04252671
+2018;Bourgogne - Franche-Comté;CSP+;28,85309224
+2019;Bourgogne - Franche-Comté;CSP+;24,79204818
+2020;Bourgogne - Franche-Comté;CSP+;24,3968545
+2016;Bretagne;CSP+;27,47933225
+2017;Bretagne;CSP+;28,59193365
+2018;Bretagne;CSP+;29,59405018
+2019;Bretagne;CSP+;27,18269784
+2020;Bretagne;CSP+;28,73708913
+2016;Centre - Val-de-Loire;CSP+;25,03290304
+2017;Centre - Val-de-Loire;CSP+;28,07109825
+2018;Centre - Val-de-Loire;CSP+;27,45168725
+2019;Centre - Val-de-Loire;CSP+;25,03133848
+2020;Centre - Val-de-Loire;CSP+;24,48983905
+2016;Corse;CSP+;
+2017;Corse;CSP+;
+2018;Corse;CSP+;
+2019;Corse;CSP+;
+2020;Corse;CSP+;
+2016;Grand-Est;CSP+;27,27387593
+2017;Grand-Est;CSP+;29,49363454
+2018;Grand-Est;CSP+;29,81360496
+2019;Grand-Est;CSP+;27,64348359
+2020;Grand-Est;CSP+;26,70769611
+2016;Hauts-de-France;CSP+;25,5963805
+2017;Hauts-de-France;CSP+;28,67321672
+2018;Hauts-de-France;CSP+;28,31712988
+2019;Hauts-de-France;CSP+;24,65503796
+2020;Hauts-de-France;CSP+;26,22283016
+2016;Ile-de-France;CSP+;36,38083595
+2017;Ile-de-France;CSP+;37,14010592
+2018;Ile-de-France;CSP+;37,83529472
+2019;Ile-de-France;CSP+;34,93253518
+2020;Ile-de-France;CSP+;34,90045757
+2016;Normandie;CSP+;25,75079426
+2017;Normandie;CSP+;27,48817
+2018;Normandie;CSP+;26,68151894
+2019;Normandie;CSP+;25,11520329
+2020;Normandie;CSP+;29,44569963
+2016;Nouvelle Aquitaine;CSP+;28,7425947
+2017;Nouvelle Aquitaine;CSP+;29,2008991
+2018;Nouvelle Aquitaine;CSP+;28,34660147
+2019;Nouvelle Aquitaine;CSP+;28,10424714
+2020;Nouvelle Aquitaine;CSP+;27,7903502
+2016;Occitanie;CSP+;29,53512395
+2017;Occitanie;CSP+;30,90816715
+2018;Occitanie;CSP+;30,42784203
+2019;Occitanie;CSP+;27,20102398
+2020;Occitanie;CSP+;28,22713097
+2016;Pays de la Loire;CSP+;24,63143188
+2017;Pays de la Loire;CSP+;26,37735245
+2018;Pays de la Loire;CSP+;24,88694259
+2019;Pays de la Loire;CSP+;24,28007345
+2020;Pays de la Loire;CSP+;22,78297371
+2016;Provence-Alpes-Côte-d'Azur;CSP+;31,47609788
+2017;Provence-Alpes-Côte-d'Azur;CSP+;32,27135861
+2018;Provence-Alpes-Côte-d'Azur;CSP+;31,85460385
+2019;Provence-Alpes-Côte-d'Azur;CSP+;29,98457494
+2020;Provence-Alpes-Côte-d'Azur;CSP+;30,95016278
+2016;Auvergne - Rhône-Alpes;CSP-;19,03954206
+2017;Auvergne - Rhône-Alpes;CSP-;18,06547809
+2018;Auvergne - Rhône-Alpes;CSP-;21,23952847
+2019;Auvergne - Rhône-Alpes;CSP-;17,84842194
+2020;Auvergne - Rhône-Alpes;CSP-;17,7526479
+2016;Bourgogne - Franche-Comté;CSP-;23,27009891
+2017;Bourgogne - Franche-Comté;CSP-;21,70640358
+2018;Bourgogne - Franche-Comté;CSP-;22,79393199
+2019;Bourgogne - Franche-Comté;CSP-;18,55947914
+2020;Bourgogne - Franche-Comté;CSP-;20,87870486
+2016;Bretagne;CSP-;20,6291296
+2017;Bretagne;CSP-;18,35570295
+2018;Bretagne;CSP-;21,24542804
+2019;Bretagne;CSP-;17,67642715
+2020;Bretagne;CSP-;17,31874773
+2016;Centre - Val-de-Loire;CSP-;21,18391534
+2017;Centre - Val-de-Loire;CSP-;19,70975913
+2018;Centre - Val-de-Loire;CSP-;20,81013171
+2019;Centre - Val-de-Loire;CSP-;17,16002752
+2020;Centre - Val-de-Loire;CSP-;17,71423997
+2016;Corse;CSP-;
+2017;Corse;CSP-;
+2018;Corse;CSP-;
+2019;Corse;CSP-;
+2020;Corse;CSP-;
+2016;Grand-Est;CSP-;21,68695822
+2017;Grand-Est;CSP-;20,67356668
+2018;Grand-Est;CSP-;22,19599578
+2019;Grand-Est;CSP-;18,2295405
+2020;Grand-Est;CSP-;17,18544522
+2016;Hauts-de-France;CSP-;23,21606956
+2017;Hauts-de-France;CSP-;19,85649866
+2018;Hauts-de-France;CSP-;23,17209251
+2019;Hauts-de-France;CSP-;20,02897043
+2020;Hauts-de-France;CSP-;19,22158712
+2016;Ile-de-France;CSP-;15,54307977
+2017;Ile-de-France;CSP-;15,10501878
+2018;Ile-de-France;CSP-;17,07176874
+2019;Ile-de-France;CSP-;14,47353619
+2020;Ile-de-France;CSP-;14,58580917
+2016;Normandie;CSP-;22,97018885
+2017;Normandie;CSP-;20,83675985
+2018;Normandie;CSP-;24,01422897
+2019;Normandie;CSP-;18,39166592
+2020;Normandie;CSP-;16,8676602
+2016;Nouvelle Aquitaine;CSP-;18,88830954
+2017;Nouvelle Aquitaine;CSP-;19,26725603
+2018;Nouvelle Aquitaine;CSP-;20,50900566
+2019;Nouvelle Aquitaine;CSP-;15,50684017
+2020;Nouvelle Aquitaine;CSP-;16,24667205
+2016;Occitanie;CSP-;20,30175867
+2017;Occitanie;CSP-;18,38820247
+2018;Occitanie;CSP-;20,79685233
+2019;Occitanie;CSP-;17,50811431
+2020;Occitanie;CSP-;17,33181427
+2016;Pays de la Loire;CSP-;21,74592974
+2017;Pays de la Loire;CSP-;19,90286669
+2018;Pays de la Loire;CSP-;20,80349875
+2019;Pays de la Loire;CSP-;15,29809946
+2020;Pays de la Loire;CSP-;18,14476675
+2016;Provence-Alpes-Côte-d'Azur;CSP-;17,9803067
+2017;Provence-Alpes-Côte-d'Azur;CSP-;16,41391592
+2018;Provence-Alpes-Côte-d'Azur;CSP-;19,94913652
+2019;Provence-Alpes-Côte-d'Azur;CSP-;17,06658852
+2020;Provence-Alpes-Côte-d'Azur;CSP-;15,19720788
+2016;Auvergne - Rhône-Alpes;inactif étudiant;28,26385472
+2017;Auvergne - Rhône-Alpes;inactif étudiant;30,32817068
+2018;Auvergne - Rhône-Alpes;inactif étudiant;28,56068506
+2019;Auvergne - Rhône-Alpes;inactif étudiant;33,3482356
+2020;Auvergne - Rhône-Alpes;inactif étudiant;31,73604184
+2016;Bourgogne - Franche-Comté;inactif étudiant;31,29226957
+2017;Bourgogne - Franche-Comté;inactif étudiant;31,89251432
+2018;Bourgogne - Franche-Comté;inactif étudiant;29,65171166
+2019;Bourgogne - Franche-Comté;inactif étudiant;33,82356214
+2020;Bourgogne - Franche-Comté;inactif étudiant;32,02110668
+2016;Bretagne;inactif étudiant;27,03401285
+2017;Bretagne;inactif étudiant;28,74265969
+2018;Bretagne;inactif étudiant;29,6899787
+2019;Bretagne;inactif étudiant;31,12336209
+2020;Bretagne;inactif étudiant;28,87375012
+2016;Centre - Val-de-Loire;inactif étudiant;26,43223042
+2017;Centre - Val-de-Loire;inactif étudiant;27,88589699
+2018;Centre - Val-de-Loire;inactif étudiant;30,385996
+2019;Centre - Val-de-Loire;inactif étudiant;32,4528345
+2020;Centre - Val-de-Loire;inactif étudiant;33,23861875
+2016;Corse;inactif étudiant;
+2017;Corse;inactif étudiant;
+2018;Corse;inactif étudiant;
+2019;Corse;inactif étudiant;
+2020;Corse;inactif étudiant;
+2016;Grand-Est;inactif étudiant;25,38241702
+2017;Grand-Est;inactif étudiant;30,20930976
+2018;Grand-Est;inactif étudiant;28,05558652
+2019;Grand-Est;inactif étudiant;32,82821538
+2020;Grand-Est;inactif étudiant;33,49607861
+2016;Hauts-de-France;inactif étudiant;29,75687592
+2017;Hauts-de-France;inactif étudiant;31,26400781
+2018;Hauts-de-France;inactif étudiant;30,50400881
+2019;Hauts-de-France;inactif étudiant;34,71532561
+2020;Hauts-de-France;inactif étudiant;36,03461425
+2016;Ile-de-France;inactif étudiant;24,17682662
+2017;Ile-de-France;inactif étudiant;28,55888728
+2018;Ile-de-France;inactif étudiant;26,97012646
+2019;Ile-de-France;inactif étudiant;30,29676122
+2020;Ile-de-France;inactif étudiant;31,0717615
+2016;Normandie;inactif étudiant;28,08067869
+2017;Normandie;inactif étudiant;30,42137101
+2018;Normandie;inactif étudiant;31,41677251
+2019;Normandie;inactif étudiant;33,64945992
+2020;Normandie;inactif étudiant;34,23607603
+2016;Nouvelle Aquitaine;inactif étudiant;28,10133082
+2017;Nouvelle Aquitaine;inactif étudiant;30,38683086
+2018;Nouvelle Aquitaine;inactif étudiant;30,68455513
+2019;Nouvelle Aquitaine;inactif étudiant;32,47334367
+2020;Nouvelle Aquitaine;inactif étudiant;34,44886408
+2016;Occitanie;inactif étudiant;26,85833273
+2017;Occitanie;inactif étudiant;27,11461676
+2018;Occitanie;inactif étudiant;27,85541196
+2019;Occitanie;inactif étudiant;31,76189685
+2020;Occitanie;inactif étudiant;33,10673415
+2016;Pays de la Loire;inactif étudiant;25,73662038
+2017;Pays de la Loire;inactif étudiant;28,24120097
+2018;Pays de la Loire;inactif étudiant;29,57803294
+2019;Pays de la Loire;inactif étudiant;32,52454921
+2020;Pays de la Loire;inactif étudiant;31,61088836
+2016;Provence-Alpes-Côte-d'Azur;inactif étudiant;25,0341281
+2017;Provence-Alpes-Côte-d'Azur;inactif étudiant;25,26131355
+2018;Provence-Alpes-Côte-d'Azur;inactif étudiant;25,06329896
+2019;Provence-Alpes-Côte-d'Azur;inactif étudiant;28,11717817
+2020;Provence-Alpes-Côte-d'Azur;inactif étudiant;31,59615232
+2016;Auvergne - Rhône-Alpes;inactifs non étudiant;24,30870151
+2017;Auvergne - Rhône-Alpes;inactifs non étudiant;21,42642874
+2018;Auvergne - Rhône-Alpes;inactifs non étudiant;20,03171789
+2019;Auvergne - Rhône-Alpes;inactifs non étudiant;22,3939653
+2020;Auvergne - Rhône-Alpes;inactifs non étudiant;22,74534414
+2016;Bourgogne - Franche-Comté;inactifs non étudiant;20,42916057
+2017;Bourgogne - Franche-Comté;inactifs non étudiant;19,3585554
+2018;Bourgogne - Franche-Comté;inactifs non étudiant;18,70126411
+2019;Bourgogne - Franche-Comté;inactifs non étudiant;22,82491054
+2020;Bourgogne - Franche-Comté;inactifs non étudiant;22,70333396
+2016;Bretagne;inactifs non étudiant;24,8575253
+2017;Bretagne;inactifs non étudiant;24,30970371
+2018;Bretagne;inactifs non étudiant;19,47054308
+2019;Bretagne;inactifs non étudiant;24,01751292
+2020;Bretagne;inactifs non étudiant;25,07041302
+2016;Centre - Val-de-Loire;inactifs non étudiant;27,3509512
+2017;Centre - Val-de-Loire;inactifs non étudiant;24,33324563
+2018;Centre - Val-de-Loire;inactifs non étudiant;21,35218504
+2019;Centre - Val-de-Loire;inactifs non étudiant;25,3557995
+2020;Centre - Val-de-Loire;inactifs non étudiant;24,55730223
+2016;Corse;inactifs non étudiant;
+2017;Corse;inactifs non étudiant;
+2018;Corse;inactifs non étudiant;
+2019;Corse;inactifs non étudiant;
+2020;Corse;inactifs non étudiant;
+2016;Grand-Est;inactifs non étudiant;25,65674883
+2017;Grand-Est;inactifs non étudiant;19,62348902
+2018;Grand-Est;inactifs non étudiant;19,93481275
+2019;Grand-Est;inactifs non étudiant;21,29876053
+2020;Grand-Est;inactifs non étudiant;22,61078005
+2016;Hauts-de-France;inactifs non étudiant;21,43067403
+2017;Hauts-de-France;inactifs non étudiant;20,20627681
+2018;Hauts-de-France;inactifs non étudiant;18,0067688
+2019;Hauts-de-France;inactifs non étudiant;20,600666
+2020;Hauts-de-France;inactifs non étudiant;18,52096848
+2016;Ile-de-France;inactifs non étudiant;23,89925766
+2017;Ile-de-France;inactifs non étudiant;19,19598802
+2018;Ile-de-France;inactifs non étudiant;18,12281009
+2019;Ile-de-France;inactifs non étudiant;20,2971674
+2020;Ile-de-France;inactifs non étudiant;19,44197176
+2016;Normandie;inactifs non étudiant;23,19833819
+2017;Normandie;inactifs non étudiant;21,25369914
+2018;Normandie;inactifs non étudiant;17,88747958
+2019;Normandie;inactifs non étudiant;22,84367087
+2020;Normandie;inactifs non étudiant;19,45056414
+2016;Nouvelle Aquitaine;inactifs non étudiant;24,26776495
+2017;Nouvelle Aquitaine;inactifs non étudiant;21,14501401
+2018;Nouvelle Aquitaine;inactifs non étudiant;20,45983774
+2019;Nouvelle Aquitaine;inactifs non étudiant;23,91556901
+2020;Nouvelle Aquitaine;inactifs non étudiant;21,51411368
+2016;Occitanie;inactifs non étudiant;23,30478466
+2017;Occitanie;inactifs non étudiant;23,58901362
+2018;Occitanie;inactifs non étudiant;20,91989368
+2019;Occitanie;inactifs non étudiant;23,52896486
+2020;Occitanie;inactifs non étudiant;21,33432061
+2016;Pays de la Loire;inactifs non étudiant;27,88601799
+2017;Pays de la Loire;inactifs non étudiant;25,4785799
+2018;Pays de la Loire;inactifs non étudiant;24,73152572
+2019;Pays de la Loire;inactifs non étudiant;27,89727787
+2020;Pays de la Loire;inactifs non étudiant;27,46137117
+2016;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;25,50946733
+2017;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;26,05341192
+2018;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;23,13296067
+2019;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;24,83165837
+2020;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;22,25647702
+2016;Auvergne - Rhône-Alpes;habitués assidus;14,28824239
+2017;Auvergne - Rhône-Alpes;habitués assidus;10,57956629
+2018;Auvergne - Rhône-Alpes;habitués assidus;16,05819988
+2019;Auvergne - Rhône-Alpes;habitués assidus;13,13022187
+2020;Auvergne - Rhône-Alpes;habitués assidus;18,44086557
+2016;Bourgogne - Franche-Comté;habitués assidus;16,12248596
+2017;Bourgogne - Franche-Comté;habitués assidus;12,82951824
+2018;Bourgogne - Franche-Comté;habitués assidus;15,28838426
+2019;Bourgogne - Franche-Comté;habitués assidus;12,8846224
+2020;Bourgogne - Franche-Comté;habitués assidus;16,27108245
+2016;Bretagne;habitués assidus;14,2788009
+2017;Bretagne;habitués assidus;9,985498487
+2018;Bretagne;habitués assidus;12,51129447
+2019;Bretagne;habitués assidus;9,797325833
+2020;Bretagne;habitués assidus;13,09360362
+2016;Centre - Val-de-Loire;habitués assidus;19,11837239
+2017;Centre - Val-de-Loire;habitués assidus;12,37100288
+2018;Centre - Val-de-Loire;habitués assidus;14,84946843
+2019;Centre - Val-de-Loire;habitués assidus;12,82932227
+2020;Centre - Val-de-Loire;habitués assidus;16,27947105
+2016;Corse;habitués assidus;
+2017;Corse;habitués assidus;
+2018;Corse;habitués assidus;
+2019;Corse;habitués assidus;
+2020;Corse;habitués assidus;
+2016;Grand-Est;habitués assidus;15,39429179
+2017;Grand-Est;habitués assidus;9,916413389
+2018;Grand-Est;habitués assidus;13,29683128
+2019;Grand-Est;habitués assidus;10,82364198
+2020;Grand-Est;habitués assidus;12,19060629
+2016;Hauts-de-France;habitués assidus;15,51871565
+2017;Hauts-de-France;habitués assidus;9,42632643
+2018;Hauts-de-France;habitués assidus;13,54369134
+2019;Hauts-de-France;habitués assidus;12,13474064
+2020;Hauts-de-France;habitués assidus;12,38591523
+2016;Ile-de-France;habitués assidus;25,42800466
+2017;Ile-de-France;habitués assidus;18,1993824
+2018;Ile-de-France;habitués assidus;26,2890123
+2019;Ile-de-France;habitués assidus;22,39557862
+2020;Ile-de-France;habitués assidus;23,7618876
+2016;Normandie;habitués assidus;12,82789404
+2017;Normandie;habitués assidus;8,550762611
+2018;Normandie;habitués assidus;12,66559436
+2019;Normandie;habitués assidus;12,00302986
+2020;Normandie;habitués assidus;12,01334369
+2016;Nouvelle Aquitaine;habitués assidus;14,39233043
+2017;Nouvelle Aquitaine;habitués assidus;9,104334864
+2018;Nouvelle Aquitaine;habitués assidus;11,74592007
+2019;Nouvelle Aquitaine;habitués assidus;10,66434313
+2020;Nouvelle Aquitaine;habitués assidus;11,81977224
+2016;Occitanie;habitués assidus;13,72638169
+2017;Occitanie;habitués assidus;10,68564952
+2018;Occitanie;habitués assidus;15,84155662
+2019;Occitanie;habitués assidus;13,94868731
+2020;Occitanie;habitués assidus;15,82120738
+2016;Pays de la Loire;habitués assidus;13,05491237
+2017;Pays de la Loire;habitués assidus;8,649041903
+2018;Pays de la Loire;habitués assidus;11,96340628
+2019;Pays de la Loire;habitués assidus;10,41945612
+2020;Pays de la Loire;habitués assidus;11,08429672
+2016;Provence-Alpes-Côte-d'Azur;habitués assidus;16,19125147
+2017;Provence-Alpes-Côte-d'Azur;habitués assidus;10,6026
+2018;Provence-Alpes-Côte-d'Azur;habitués assidus;16,287463
+2019;Provence-Alpes-Côte-d'Azur;habitués assidus;14,1854442
+2020;Provence-Alpes-Côte-d'Azur;habitués assidus;15,18675293
+2016;Auvergne - Rhône-Alpes;habitués réguliers;44,43307828
+2017;Auvergne - Rhône-Alpes;habitués réguliers;40,63916193
+2018;Auvergne - Rhône-Alpes;habitués réguliers;48,59404592
+2019;Auvergne - Rhône-Alpes;habitués réguliers;43,42573921
+2020;Auvergne - Rhône-Alpes;habitués réguliers;42,45888423
+2016;Bourgogne - Franche-Comté;habitués réguliers;44,79118323
+2017;Bourgogne - Franche-Comté;habitués réguliers;38,96095253
+2018;Bourgogne - Franche-Comté;habitués réguliers;46,60570529
+2019;Bourgogne - Franche-Comté;habitués réguliers;41,20655209
+2020;Bourgogne - Franche-Comté;habitués réguliers;39,79107559
+2016;Bretagne;habitués réguliers;47,60873766
+2017;Bretagne;habitués réguliers;44,82497475
+2018;Bretagne;habitués réguliers;50,97593097
+2019;Bretagne;habitués réguliers;45,16207041
+2020;Bretagne;habitués réguliers;46,30425485
+2016;Centre - Val-de-Loire;habitués réguliers;39,4652929
+2017;Centre - Val-de-Loire;habitués réguliers;39,99362756
+2018;Centre - Val-de-Loire;habitués réguliers;46,44776288
+2019;Centre - Val-de-Loire;habitués réguliers;42,48338043
+2020;Centre - Val-de-Loire;habitués réguliers;45,61399704
+2016;Corse;habitués réguliers;
+2017;Corse;habitués réguliers;
+2018;Corse;habitués réguliers;
+2019;Corse;habitués réguliers;
+2020;Corse;habitués réguliers;
+2016;Grand-Est;habitués réguliers;49,49496389
+2017;Grand-Est;habitués réguliers;44,26376377
+2018;Grand-Est;habitués réguliers;48,62990374
+2019;Grand-Est;habitués réguliers;44,23235985
+2020;Grand-Est;habitués réguliers;45,09554224
+2016;Hauts-de-France;habitués réguliers;46,86857307
+2017;Hauts-de-France;habitués réguliers;44,49099506
+2018;Hauts-de-France;habitués réguliers;49,30773384
+2019;Hauts-de-France;habitués réguliers;45,56224787
+2020;Hauts-de-France;habitués réguliers;44,98784186
+2016;Ile-de-France;habitués réguliers;44,14774998
+2017;Ile-de-France;habitués réguliers;46,3222745
+2018;Ile-de-France;habitués réguliers;49,35854332
+2019;Ile-de-France;habitués réguliers;45,95259319
+2020;Ile-de-France;habitués réguliers;47,89880716
+2016;Normandie;habitués réguliers;43,3730845
+2017;Normandie;habitués réguliers;37,58787001
+2018;Normandie;habitués réguliers;42,77881292
+2019;Normandie;habitués réguliers;39,94669262
+2020;Normandie;habitués réguliers;42,85583441
+2016;Nouvelle Aquitaine;habitués réguliers;46,38873608
+2017;Nouvelle Aquitaine;habitués réguliers;43,87608772
+2018;Nouvelle Aquitaine;habitués réguliers;50,17047126
+2019;Nouvelle Aquitaine;habitués réguliers;46,37865395
+2020;Nouvelle Aquitaine;habitués réguliers;51,83753008
+2016;Occitanie;habitués réguliers;50,71199505
+2017;Occitanie;habitués réguliers;47,52869908
+2018;Occitanie;habitués réguliers;50,40913719
+2019;Occitanie;habitués réguliers;45,37843317
+2020;Occitanie;habitués réguliers;51,91766048
+2016;Pays de la Loire;habitués réguliers;41,73407405
+2017;Pays de la Loire;habitués réguliers;40,59692261
+2018;Pays de la Loire;habitués réguliers;48,38991545
+2019;Pays de la Loire;habitués réguliers;43,4827454
+2020;Pays de la Loire;habitués réguliers;45,94490482
+2016;Provence-Alpes-Côte-d'Azur;habitués réguliers;48,66180072
+2017;Provence-Alpes-Côte-d'Azur;habitués réguliers;48,0239869
+2018;Provence-Alpes-Côte-d'Azur;habitués réguliers;51,26538125
+2019;Provence-Alpes-Côte-d'Azur;habitués réguliers;48,02027895
+2020;Provence-Alpes-Côte-d'Azur;habitués réguliers;50,4564411
+2016;Auvergne - Rhône-Alpes;occasionnels;41,27867933
+2017;Auvergne - Rhône-Alpes;occasionnels;48,78127178
+2018;Auvergne - Rhône-Alpes;occasionnels;35,34775421
+2019;Auvergne - Rhône-Alpes;occasionnels;43,44403892
+2020;Auvergne - Rhône-Alpes;occasionnels;39,1002502
+2016;Bourgogne - Franche-Comté;occasionnels;39,08633081
+2017;Bourgogne - Franche-Comté;occasionnels;48,20952923
+2018;Bourgogne - Franche-Comté;occasionnels;38,10591045
+2019;Bourgogne - Franche-Comté;occasionnels;45,90882551
+2020;Bourgogne - Franche-Comté;occasionnels;43,93784196
+2016;Bretagne;occasionnels;38,11246143
+2017;Bretagne;occasionnels;45,18952676
+2018;Bretagne;occasionnels;36,51277456
+2019;Bretagne;occasionnels;45,04060376
+2020;Bretagne;occasionnels;40,60214153
+2016;Centre - Val-de-Loire;occasionnels;41,41633471
+2017;Centre - Val-de-Loire;occasionnels;47,63536956
+2018;Centre - Val-de-Loire;occasionnels;38,7027687
+2019;Centre - Val-de-Loire;occasionnels;44,6872973
+2020;Centre - Val-de-Loire;occasionnels;38,10653191
+2016;Corse;occasionnels;
+2017;Corse;occasionnels;
+2018;Corse;occasionnels;
+2019;Corse;occasionnels;
+2020;Corse;occasionnels;
+2016;Grand-Est;occasionnels;35,11074432
+2017;Grand-Est;occasionnels;45,81982284
+2018;Grand-Est;occasionnels;38,07326498
+2019;Grand-Est;occasionnels;44,94399817
+2020;Grand-Est;occasionnels;42,71385147
+2016;Hauts-de-France;occasionnels;37,61271128
+2017;Hauts-de-France;occasionnels;46,08267851
+2018;Hauts-de-France;occasionnels;37,14857482
+2019;Hauts-de-France;occasionnels;42,30301149
+2020;Hauts-de-France;occasionnels;42,62624291
+2016;Ile-de-France;occasionnels;30,42424536
+2017;Ile-de-France;occasionnels;35,4783431
+2018;Ile-de-France;occasionnels;24,35244438
+2019;Ile-de-France;occasionnels;31,65182819
+2020;Ile-de-France;occasionnels;28,33930524
+2016;Normandie;occasionnels;43,79902146
+2017;Normandie;occasionnels;53,86136738
+2018;Normandie;occasionnels;44,55559272
+2019;Normandie;occasionnels;48,05027751
+2020;Normandie;occasionnels;45,1308219
+2016;Nouvelle Aquitaine;occasionnels;39,21893349
+2017;Nouvelle Aquitaine;occasionnels;47,01957742
+2018;Nouvelle Aquitaine;occasionnels;38,08360867
+2019;Nouvelle Aquitaine;occasionnels;42,95700292
+2020;Nouvelle Aquitaine;occasionnels;36,34269769
+2016;Occitanie;occasionnels;35,56162327
+2017;Occitanie;occasionnels;41,7856514
+2018;Occitanie;occasionnels;33,74930619
+2019;Occitanie;occasionnels;40,67287952
+2020;Occitanie;occasionnels;32,26113214
+2016;Pays de la Loire;occasionnels;45,21101358
+2017;Pays de la Loire;occasionnels;50,75403548
+2018;Pays de la Loire;occasionnels;39,64667827
+2019;Pays de la Loire;occasionnels;46,09779848
+2020;Pays de la Loire;occasionnels;42,97079845
+2016;Provence-Alpes-Côte-d'Azur;occasionnels;35,14694781
+2017;Provence-Alpes-Côte-d'Azur;occasionnels;41,3734131
+2018;Provence-Alpes-Côte-d'Azur;occasionnels;32,44715575
+2019;Provence-Alpes-Côte-d'Azur;occasionnels;37,79427685
+2020;Provence-Alpes-Côte-d'Azur;occasionnels;34,35680597
+2005;Alsace;hommes;47,6
+2006;Alsace;hommes;47,8
+2007;Alsace;hommes;50,2
+2008;Alsace;hommes;50,91623037
+2009;Alsace;hommes;48,33997344
+2010;Alsace;hommes;52,74151436
+2011;Alsace;hommes;50,35629454
+2012;Alsace;hommes;48,43945069
+2013;Alsace;hommes;46,66844683
+2014;Alsace;hommes;49,20525971
+2015;Alsace;hommes;58,41364363
+2005;Aquitaine;hommes;42,7
+2006;Aquitaine;hommes;47,8
+2007;Aquitaine;hommes;46,3
+2008;Aquitaine;hommes;44,59352802
+2009;Aquitaine;hommes;44,33416046
+2010;Aquitaine;hommes;48,89473684
+2011;Aquitaine;hommes;45,87289993
+2012;Aquitaine;hommes;48,12085483
+2013;Aquitaine;hommes;48,83948238
+2014;Aquitaine;hommes;44,21002263
+2015;Aquitaine;hommes;48,0171551
+2005;Auvergne;hommes;45,8
+2006;Auvergne;hommes;50,2
+2007;Auvergne;hommes;48,6
+2008;Auvergne;hommes;49,88913525
+2009;Auvergne;hommes;49,46236559
+2010;Auvergne;hommes;52,85285285
+2011;Auvergne;hommes;48,01864802
+2012;Auvergne;hommes;47,89915966
+2013;Auvergne;hommes;47,34658674
+2014;Auvergne;hommes;48,21765685
+2015;Auvergne;hommes;42,39566626
+2005;Basse-Normandie;hommes;48
+2006;Basse-Normandie;hommes;49,7
+2007;Basse-Normandie;hommes;47,6
+2008;Basse-Normandie;hommes;38,10526316
+2009;Basse-Normandie;hommes;40,4494382
+2010;Basse-Normandie;hommes;42,61168385
+2011;Basse-Normandie;hommes;43,38235294
+2012;Basse-Normandie;hommes;46,89922481
+2013;Basse-Normandie;hommes;48,61336572
+2014;Basse-Normandie;hommes;43,41097305
+2015;Basse-Normandie;hommes;44,12334197
+2005;Bourgogne;hommes;49,5
+2006;Bourgogne;hommes;47,8
+2007;Bourgogne;hommes;48,3
+2008;Bourgogne;hommes;39,8245614
+2009;Bourgogne;hommes;43,27272727
+2010;Bourgogne;hommes;48,08184143
+2011;Bourgogne;hommes;45,74468085
+2012;Bourgogne;hommes;47,29520866
+2013;Bourgogne;hommes;46,12792623
+2014;Bourgogne;hommes;44,97708217
+2015;Bourgogne;hommes;44,0830263
+2005;Bretagne;hommes;47,4
+2006;Bretagne;hommes;47
+2007;Bretagne;hommes;46,3
+2008;Bretagne;hommes;43,74482187
+2009;Bretagne;hommes;43,56357928
+2010;Bretagne;hommes;46,60246121
+2011;Bretagne;hommes;41,19937695
+2012;Bretagne;hommes;41,93548387
+2013;Bretagne;hommes;43,86903085
+2014;Bretagne;hommes;48,52128495
+2015;Bretagne;hommes;45,12070662
+2005;Centre;hommes;47,3
+2006;Centre;hommes;44,6
+2007;Centre;hommes;42,5
+2008;Centre;hommes;44,79917611
+2009;Centre;hommes;45,1446281
+2010;Centre;hommes;46,97933227
+2011;Centre;hommes;44,84210526
+2012;Centre;hommes;42,68177526
+2013;Centre;hommes;42,82866448
+2014;Centre;hommes;42,88735244
+2015;Centre;hommes;40,62325431
+2005;Champagne-Ardenne;hommes;45,8
+2006;Champagne-Ardenne;hommes;46,6
+2007;Champagne-Ardenne;hommes;45,4
+2008;Champagne-Ardenne;hommes;45,4308094
+2009;Champagne-Ardenne;hommes;38,61892583
+2010;Champagne-Ardenne;hommes;44,90196078
+2011;Champagne-Ardenne;hommes;41,11405836
+2012;Champagne-Ardenne;hommes;46,13636364
+2013;Champagne-Ardenne;hommes;41,91894926
+2014;Champagne-Ardenne;hommes;43,79443668
+2015;Champagne-Ardenne;hommes;43,32256381
+2005;Corse;hommes;
+2006;Corse;hommes;
+2007;Corse;hommes;
+2008;Corse;hommes;
+2009;Corse;hommes;
+2010;Corse;hommes;
+2011;Corse;hommes;
+2012;Corse;hommes;
+2013;Corse;hommes;
+2014;Corse;hommes;
+2015;Corse;hommes;
+2005;Franche-Comté;hommes;50,3
+2006;Franche-Comté;hommes;50,9
+2007;Franche-Comté;hommes;50,2
+2008;Franche-Comté;hommes;46,99453552
+2009;Franche-Comté;hommes;51,29533679
+2010;Franche-Comté;hommes;52,51937984
+2011;Franche-Comté;hommes;50,58139535
+2012;Franche-Comté;hommes;50,99150142
+2013;Franche-Comté;hommes;51,39743702
+2014;Franche-Comté;hommes;56,1909915
+2015;Franche-Comté;hommes;55,39890834
+2005;Haute-Normandie;hommes;43,9
+2006;Haute-Normandie;hommes;48,6
+2007;Haute-Normandie;hommes;45,8
+2008;Haute-Normandie;hommes;44,76843911
+2009;Haute-Normandie;hommes;45,33333333
+2010;Haute-Normandie;hommes;49,11392405
+2011;Haute-Normandie;hommes;42,17687075
+2012;Haute-Normandie;hommes;47,17285945
+2013;Haute-Normandie;hommes;43,84904118
+2014;Haute-Normandie;hommes;44,37781944
+2015;Haute-Normandie;hommes;42,22398221
+2005;Ile-de-France;hommes;45,8
+2006;Ile-de-France;hommes;44
+2007;Ile-de-France;hommes;45,3
+2008;Ile-de-France;hommes;42,98428328
+2009;Ile-de-France;hommes;48,27979472
+2010;Ile-de-France;hommes;51,17260206
+2011;Ile-de-France;hommes;46,83609074
+2012;Ile-de-France;hommes;44,74501109
+2013;Ile-de-France;hommes;47,86777003
+2014;Ile-de-France;hommes;47,20669763
+2015;Ile-de-France;hommes;46,30230597
+2005;Languedoc-Roussillon;hommes;52,4
+2006;Languedoc-Roussillon;hommes;48,7
+2007;Languedoc-Roussillon;hommes;47,3
+2008;Languedoc-Roussillon;hommes;43,85521886
+2009;Languedoc-Roussillon;hommes;46,51837524
+2010;Languedoc-Roussillon;hommes;46,03283174
+2011;Languedoc-Roussillon;hommes;43,88625592
+2012;Languedoc-Roussillon;hommes;42,65799257
+2013;Languedoc-Roussillon;hommes;41,58929787
+2014;Languedoc-Roussillon;hommes;41,98943614
+2015;Languedoc-Roussillon;hommes;41,58128919
+2005;Limousin;hommes;
+2006;Limousin;hommes;
+2007;Limousin;hommes;
+2008;Limousin;hommes;
+2009;Limousin;hommes;
+2010;Limousin;hommes;44
+2011;Limousin;hommes;
+2012;Limousin;hommes;
+2013;Limousin;hommes;
+2014;Limousin;hommes;
+2015;Limousin;hommes;
+2005;Lorraine;hommes;49,2
+2006;Lorraine;hommes;50,6
+2007;Lorraine;hommes;47,3
+2008;Lorraine;hommes;42,65033408
+2009;Lorraine;hommes;50,33407572
+2010;Lorraine;hommes;51,61538462
+2011;Lorraine;hommes;44,23963134
+2012;Lorraine;hommes;46,08788853
+2013;Lorraine;hommes;47,75764089
+2014;Lorraine;hommes;49,54516464
+2015;Lorraine;hommes;46,36008908
+2005;Midi-Pyrénées;hommes;47,2
+2006;Midi-Pyrénées;hommes;47,6
+2007;Midi-Pyrénées;hommes;50,1
+2008;Midi-Pyrénées;hommes;47,98567592
+2009;Midi-Pyrénées;hommes;46,02903501
+2010;Midi-Pyrénées;hommes;49,61742201
+2011;Midi-Pyrénées;hommes;45,86709887
+2012;Midi-Pyrénées;hommes;48,66264021
+2013;Midi-Pyrénées;hommes;49,57398681
+2014;Midi-Pyrénées;hommes;49,72725555
+2015;Midi-Pyrénées;hommes;47,36832989
+2005;Nord-Pas-de-Calais;hommes;44,8
+2006;Nord-Pas-de-Calais;hommes;46,5
+2007;Nord-Pas-de-Calais;hommes;42,7
+2008;Nord-Pas-de-Calais;hommes;44,08967391
+2009;Nord-Pas-de-Calais;hommes;43,86084584
+2010;Nord-Pas-de-Calais;hommes;49,68944099
+2011;Nord-Pas-de-Calais;hommes;47,61575674
+2012;Nord-Pas-de-Calais;hommes;44,56902593
+2013;Nord-Pas-de-Calais;hommes;45,07307215
+2014;Nord-Pas-de-Calais;hommes;45,9508148
+2015;Nord-Pas-de-Calais;hommes;44,78471741
+2005;Pays de la Loire;hommes;48,8
+2006;Pays de la Loire;hommes;50,5
+2007;Pays de la Loire;hommes;48,5
+2008;Pays de la Loire;hommes;46,78899083
+2009;Pays de la Loire;hommes;44,65675867
+2010;Pays de la Loire;hommes;48,09411765
+2011;Pays de la Loire;hommes;44,62290503
+2012;Pays de la Loire;hommes;40,76086957
+2013;Pays de la Loire;hommes;44,38939696
+2014;Pays de la Loire;hommes;47,10763224
+2015;Pays de la Loire;hommes;48,36915275
+2005;Picardie;hommes;43,9
+2006;Picardie;hommes;47,1
+2007;Picardie;hommes;45,1
+2008;Picardie;hommes;42,3670669
+2009;Picardie;hommes;46,9924812
+2010;Picardie;hommes;48,35858586
+2011;Picardie;hommes;43,35154827
+2012;Picardie;hommes;49,32038835
+2013;Picardie;hommes;46,9440014
+2014;Picardie;hommes;46,43711194
+2015;Picardie;hommes;46,27790642
+2005;Poitou-Charentes;hommes;48,4
+2006;Poitou-Charentes;hommes;49,5
+2007;Poitou-Charentes;hommes;48
+2008;Poitou-Charentes;hommes;46,79487179
+2009;Poitou-Charentes;hommes;45,40983607
+2010;Poitou-Charentes;hommes;50,11574074
+2011;Poitou-Charentes;hommes;46,36785162
+2012;Poitou-Charentes;hommes;45,37931034
+2013;Poitou-Charentes;hommes;42,45218162
+2014;Poitou-Charentes;hommes;48,31864983
+2015;Poitou-Charentes;hommes;48,20515289
+2005;Provence-Alpes-Côte-d'Azur;hommes;48,4
+2006;Provence-Alpes-Côte-d'Azur;hommes;47,3
+2007;Provence-Alpes-Côte-d'Azur;hommes;46
+2008;Provence-Alpes-Côte-d'Azur;hommes;45,26476578
+2009;Provence-Alpes-Côte-d'Azur;hommes;43,45922277
+2010;Provence-Alpes-Côte-d'Azur;hommes;46,5184105
+2011;Provence-Alpes-Côte-d'Azur;hommes;44,17525773
+2012;Provence-Alpes-Côte-d'Azur;hommes;43,30835118
+2013;Provence-Alpes-Côte-d'Azur;hommes;46,37674782
+2014;Provence-Alpes-Côte-d'Azur;hommes;47,24916784
+2015;Provence-Alpes-Côte-d'Azur;hommes;45,82834905
+2005;Rhône-Alpes;hommes;48,3
+2006;Rhône-Alpes;hommes;48,4
+2007;Rhône-Alpes;hommes;47,7
+2008;Rhône-Alpes;hommes;42,7961165
+2009;Rhône-Alpes;hommes;43,78551136
+2010;Rhône-Alpes;hommes;47,95162883
+2011;Rhône-Alpes;hommes;43,24894515
+2012;Rhône-Alpes;hommes;45,94202899
+2013;Rhône-Alpes;hommes;45,25344153
+2014;Rhône-Alpes;hommes;46,15244025
+2015;Rhône-Alpes;hommes;50,253744
+2005;Alsace;femmes;52,4
+2006;Alsace;femmes;52,2
+2007;Alsace;femmes;49,8
+2008;Alsace;femmes;49,08376963
+2009;Alsace;femmes;51,66002656
+2010;Alsace;femmes;47,25848564
+2011;Alsace;femmes;49,64370546
+2012;Alsace;femmes;51,56054931
+2013;Alsace;femmes;53,33155317
+2014;Alsace;femmes;50,79474029
+2015;Alsace;femmes;41,58635637
+2005;Aquitaine;femmes;57,4
+2006;Aquitaine;femmes;52,2
+2007;Aquitaine;femmes;53,6
+2008;Aquitaine;femmes;55,40647198
+2009;Aquitaine;femmes;55,66583954
+2010;Aquitaine;femmes;51,10526316
+2011;Aquitaine;femmes;54,12710007
+2012;Aquitaine;femmes;51,87914517
+2013;Aquitaine;femmes;51,16051762
+2014;Aquitaine;femmes;55,78997737
+2015;Aquitaine;femmes;51,9828449
+2005;Auvergne;femmes;53,7
+2006;Auvergne;femmes;49,8
+2007;Auvergne;femmes;51,1
+2008;Auvergne;femmes;50,11086475
+2009;Auvergne;femmes;50,53763441
+2010;Auvergne;femmes;47,14714715
+2011;Auvergne;femmes;51,98135198
+2012;Auvergne;femmes;52,10084034
+2013;Auvergne;femmes;52,65341326
+2014;Auvergne;femmes;51,78234315
+2015;Auvergne;femmes;57,60433374
+2005;Basse-Normandie;femmes;51,6
+2006;Basse-Normandie;femmes;50,3
+2007;Basse-Normandie;femmes;52,6
+2008;Basse-Normandie;femmes;61,89473684
+2009;Basse-Normandie;femmes;59,5505618
+2010;Basse-Normandie;femmes;57,38831615
+2011;Basse-Normandie;femmes;56,61764706
+2012;Basse-Normandie;femmes;53,10077519
+2013;Basse-Normandie;femmes;51,38663428
+2014;Basse-Normandie;femmes;56,58902695
+2015;Basse-Normandie;femmes;55,87665803
+2005;Bourgogne;femmes;50,7
+2006;Bourgogne;femmes;52,2
+2007;Bourgogne;femmes;51,8
+2008;Bourgogne;femmes;60,1754386
+2009;Bourgogne;femmes;56,72727273
+2010;Bourgogne;femmes;51,91815857
+2011;Bourgogne;femmes;54,25531915
+2012;Bourgogne;femmes;52,70479134
+2013;Bourgogne;femmes;53,87207377
+2014;Bourgogne;femmes;55,02291783
+2015;Bourgogne;femmes;55,9169737
+2005;Bretagne;femmes;52,6
+2006;Bretagne;femmes;53
+2007;Bretagne;femmes;53,8
+2008;Bretagne;femmes;56,25517813
+2009;Bretagne;femmes;56,43642072
+2010;Bretagne;femmes;53,39753879
+2011;Bretagne;femmes;58,80062305
+2012;Bretagne;femmes;58,06451613
+2013;Bretagne;femmes;56,13096915
+2014;Bretagne;femmes;51,47871505
+2015;Bretagne;femmes;54,87929338
+2005;Centre;femmes;52,7
+2006;Centre;femmes;55,4
+2007;Centre;femmes;57,4
+2008;Centre;femmes;55,20082389
+2009;Centre;femmes;54,8553719
+2010;Centre;femmes;53,02066773
+2011;Centre;femmes;55,15789474
+2012;Centre;femmes;57,31822474
+2013;Centre;femmes;57,17133552
+2014;Centre;femmes;57,11264756
+2015;Centre;femmes;59,37674569
+2005;Champagne-Ardenne;femmes;54,4
+2006;Champagne-Ardenne;femmes;53,4
+2007;Champagne-Ardenne;femmes;54,4
+2008;Champagne-Ardenne;femmes;54,5691906
+2009;Champagne-Ardenne;femmes;61,38107417
+2010;Champagne-Ardenne;femmes;55,09803922
+2011;Champagne-Ardenne;femmes;58,88594164
+2012;Champagne-Ardenne;femmes;53,86363636
+2013;Champagne-Ardenne;femmes;58,08105074
+2014;Champagne-Ardenne;femmes;56,20556332
+2015;Champagne-Ardenne;femmes;56,67743619
+2005;Corse;femmes;
+2006;Corse;femmes;
+2007;Corse;femmes;
+2008;Corse;femmes;
+2009;Corse;femmes;
+2010;Corse;femmes;
+2011;Corse;femmes;
+2012;Corse;femmes;
+2013;Corse;femmes;
+2014;Corse;femmes;
+2015;Corse;femmes;
+2005;Franche-Comté;femmes;49,7
+2006;Franche-Comté;femmes;49,1
+2007;Franche-Comté;femmes;49,8
+2008;Franche-Comté;femmes;53,00546448
+2009;Franche-Comté;femmes;48,70466321
+2010;Franche-Comté;femmes;47,48062016
+2011;Franche-Comté;femmes;49,41860465
+2012;Franche-Comté;femmes;49,00849858
+2013;Franche-Comté;femmes;48,60256298
+2014;Franche-Comté;femmes;43,8090085
+2015;Franche-Comté;femmes;44,60109166
+2005;Haute-Normandie;femmes;55,9
+2006;Haute-Normandie;femmes;51,4
+2007;Haute-Normandie;femmes;54,2
+2008;Haute-Normandie;femmes;55,23156089
+2009;Haute-Normandie;femmes;54,66666667
+2010;Haute-Normandie;femmes;50,88607595
+2011;Haute-Normandie;femmes;57,82312925
+2012;Haute-Normandie;femmes;52,82714055
+2013;Haute-Normandie;femmes;56,15095882
+2014;Haute-Normandie;femmes;55,62218056
+2015;Haute-Normandie;femmes;57,77601779
+2005;Ile-de-France;femmes;54,2
+2006;Ile-de-France;femmes;56
+2007;Ile-de-France;femmes;54,7
+2008;Ile-de-France;femmes;57,01571672
+2009;Ile-de-France;femmes;51,72020528
+2010;Ile-de-France;femmes;48,82739794
+2011;Ile-de-France;femmes;53,16390926
+2012;Ile-de-France;femmes;55,25498891
+2013;Ile-de-France;femmes;52,13222997
+2014;Ile-de-France;femmes;52,79330237
+2015;Ile-de-France;femmes;53,69769403
+2005;Languedoc-Roussillon;femmes;47,6
+2006;Languedoc-Roussillon;femmes;51,3
+2007;Languedoc-Roussillon;femmes;52,6
+2008;Languedoc-Roussillon;femmes;56,14478114
+2009;Languedoc-Roussillon;femmes;53,48162476
+2010;Languedoc-Roussillon;femmes;53,96716826
+2011;Languedoc-Roussillon;femmes;56,11374408
+2012;Languedoc-Roussillon;femmes;57,34200743
+2013;Languedoc-Roussillon;femmes;58,41070213
+2014;Languedoc-Roussillon;femmes;58,01056386
+2015;Languedoc-Roussillon;femmes;58,41871081
+2005;Limousin;femmes;
+2006;Limousin;femmes;
+2007;Limousin;femmes;
+2008;Limousin;femmes;
+2009;Limousin;femmes;
+2010;Limousin;femmes;56
+2011;Limousin;femmes;
+2012;Limousin;femmes;
+2013;Limousin;femmes;
+2014;Limousin;femmes;
+2015;Limousin;femmes;
+2005;Lorraine;femmes;50,8
+2006;Lorraine;femmes;49,4
+2007;Lorraine;femmes;52,6
+2008;Lorraine;femmes;57,34966592
+2009;Lorraine;femmes;49,66592428
+2010;Lorraine;femmes;48,38461538
+2011;Lorraine;femmes;55,76036866
+2012;Lorraine;femmes;53,91211147
+2013;Lorraine;femmes;52,24235911
+2014;Lorraine;femmes;50,45483536
+2015;Lorraine;femmes;53,63991092
+2005;Midi-Pyrénées;femmes;52,6
+2006;Midi-Pyrénées;femmes;52,4
+2007;Midi-Pyrénées;femmes;49,9
+2008;Midi-Pyrénées;femmes;52,01432408
+2009;Midi-Pyrénées;femmes;53,97096499
+2010;Midi-Pyrénées;femmes;50,38257799
+2011;Midi-Pyrénées;femmes;54,13290113
+2012;Midi-Pyrénées;femmes;51,33735979
+2013;Midi-Pyrénées;femmes;50,42601319
+2014;Midi-Pyrénées;femmes;50,27274445
+2015;Midi-Pyrénées;femmes;52,63167011
+2005;Nord-Pas-de-Calais;femmes;55,2
+2006;Nord-Pas-de-Calais;femmes;53,5
+2007;Nord-Pas-de-Calais;femmes;57,3
+2008;Nord-Pas-de-Calais;femmes;55,91032609
+2009;Nord-Pas-de-Calais;femmes;56,13915416
+2010;Nord-Pas-de-Calais;femmes;50,31055901
+2011;Nord-Pas-de-Calais;femmes;52,38424326
+2012;Nord-Pas-de-Calais;femmes;55,43097407
+2013;Nord-Pas-de-Calais;femmes;54,92692785
+2014;Nord-Pas-de-Calais;femmes;54,0491852
+2015;Nord-Pas-de-Calais;femmes;55,21528259
+2005;Pays de la Loire;femmes;51,1
+2006;Pays de la Loire;femmes;49,5
+2007;Pays de la Loire;femmes;51,6
+2008;Pays de la Loire;femmes;53,21100917
+2009;Pays de la Loire;femmes;55,34324133
+2010;Pays de la Loire;femmes;51,90588235
+2011;Pays de la Loire;femmes;55,37709497
+2012;Pays de la Loire;femmes;59,23913043
+2013;Pays de la Loire;femmes;55,61060304
+2014;Pays de la Loire;femmes;52,89236776
+2015;Pays de la Loire;femmes;51,63084725
+2005;Picardie;femmes;56,1
+2006;Picardie;femmes;52,9
+2007;Picardie;femmes;54,9
+2008;Picardie;femmes;57,6329331
+2009;Picardie;femmes;53,0075188
+2010;Picardie;femmes;51,64141414
+2011;Picardie;femmes;56,64845173
+2012;Picardie;femmes;50,67961165
+2013;Picardie;femmes;53,0559986
+2014;Picardie;femmes;53,56288806
+2015;Picardie;femmes;53,72209358
+2005;Poitou-Charentes;femmes;51,8
+2006;Poitou-Charentes;femmes;50,5
+2007;Poitou-Charentes;femmes;52,1
+2008;Poitou-Charentes;femmes;53,20512821
+2009;Poitou-Charentes;femmes;54,59016393
+2010;Poitou-Charentes;femmes;49,88425926
+2011;Poitou-Charentes;femmes;53,63214838
+2012;Poitou-Charentes;femmes;54,62068966
+2013;Poitou-Charentes;femmes;57,54781838
+2014;Poitou-Charentes;femmes;51,68135017
+2015;Poitou-Charentes;femmes;51,79484711
+2005;Provence-Alpes-Côte-d'Azur;femmes;51,6
+2006;Provence-Alpes-Côte-d'Azur;femmes;52,7
+2007;Provence-Alpes-Côte-d'Azur;femmes;54
+2008;Provence-Alpes-Côte-d'Azur;femmes;54,73523422
+2009;Provence-Alpes-Côte-d'Azur;femmes;56,54077723
+2010;Provence-Alpes-Côte-d'Azur;femmes;53,4815895
+2011;Provence-Alpes-Côte-d'Azur;femmes;55,82474227
+2012;Provence-Alpes-Côte-d'Azur;femmes;56,69164882
+2013;Provence-Alpes-Côte-d'Azur;femmes;53,62325218
+2014;Provence-Alpes-Côte-d'Azur;femmes;52,75083216
+2015;Provence-Alpes-Côte-d'Azur;femmes;54,17165095
+2005;Rhône-Alpes;femmes;51,7
+2006;Rhône-Alpes;femmes;51,6
+2007;Rhône-Alpes;femmes;52,2
+2008;Rhône-Alpes;femmes;57,2038835
+2009;Rhône-Alpes;femmes;56,21448864
+2010;Rhône-Alpes;femmes;52,04837117
+2011;Rhône-Alpes;femmes;56,75105485
+2012;Rhône-Alpes;femmes;54,05797101
+2013;Rhône-Alpes;femmes;54,74655847
+2014;Rhône-Alpes;femmes;53,84755975
+2015;Rhône-Alpes;femmes;49,746256
+2005;Alsace;jeunes (15-24 ans);31,1
+2006;Alsace;jeunes (15-24 ans);29,8
+2007;Alsace;jeunes (15-24 ans);31,7
+2008;Alsace;jeunes (15-24 ans);31,54450262
+2009;Alsace;jeunes (15-24 ans);33,99734396
+2010;Alsace;jeunes (15-24 ans);26,63185379
+2011;Alsace;jeunes (15-24 ans);18,17102138
+2012;Alsace;jeunes (15-24 ans);21,72284644
+2013;Alsace;jeunes (15-24 ans);22,08022143
+2014;Alsace;jeunes (15-24 ans);21,24715803
+2015;Alsace;jeunes (15-24 ans);18,3047798
+2005;Aquitaine;jeunes (15-24 ans);21,3
+2006;Aquitaine;jeunes (15-24 ans);20,9
+2007;Aquitaine;jeunes (15-24 ans);25,2
+2008;Aquitaine;jeunes (15-24 ans);25,33543804
+2009;Aquitaine;jeunes (15-24 ans);25,22746071
+2010;Aquitaine;jeunes (15-24 ans);20,73684211
+2011;Aquitaine;jeunes (15-24 ans);15,70489408
+2012;Aquitaine;jeunes (15-24 ans);19,60206338
+2013;Aquitaine;jeunes (15-24 ans);19,54302466
+2014;Aquitaine;jeunes (15-24 ans);16,75900015
+2015;Aquitaine;jeunes (15-24 ans);16,89229667
+2005;Auvergne;jeunes (15-24 ans);24,3
+2006;Auvergne;jeunes (15-24 ans);22,1
+2007;Auvergne;jeunes (15-24 ans);26,9
+2008;Auvergne;jeunes (15-24 ans);31,92904656
+2009;Auvergne;jeunes (15-24 ans);29,24731183
+2010;Auvergne;jeunes (15-24 ans);24,92492492
+2011;Auvergne;jeunes (15-24 ans);17,94871795
+2012;Auvergne;jeunes (15-24 ans);24,3697479
+2013;Auvergne;jeunes (15-24 ans);20,15481799
+2014;Auvergne;jeunes (15-24 ans);22,76331556
+2015;Auvergne;jeunes (15-24 ans);19,60884405
+2005;Basse-Normandie;jeunes (15-24 ans);25,1
+2006;Basse-Normandie;jeunes (15-24 ans);23,1
+2007;Basse-Normandie;jeunes (15-24 ans);31,7
+2008;Basse-Normandie;jeunes (15-24 ans);30,52631579
+2009;Basse-Normandie;jeunes (15-24 ans);28,31460674
+2010;Basse-Normandie;jeunes (15-24 ans);22,16494845
+2011;Basse-Normandie;jeunes (15-24 ans);18,87254902
+2012;Basse-Normandie;jeunes (15-24 ans);23,8372093
+2013;Basse-Normandie;jeunes (15-24 ans);21,78825528
+2014;Basse-Normandie;jeunes (15-24 ans);22,73953665
+2015;Basse-Normandie;jeunes (15-24 ans);22,15879311
+2005;Bourgogne;jeunes (15-24 ans);27,5
+2006;Bourgogne;jeunes (15-24 ans);27,8
+2007;Bourgogne;jeunes (15-24 ans);29,9
+2008;Bourgogne;jeunes (15-24 ans);32,98245614
+2009;Bourgogne;jeunes (15-24 ans);29,09090909
+2010;Bourgogne;jeunes (15-24 ans);26,59846547
+2011;Bourgogne;jeunes (15-24 ans);17,73049645
+2012;Bourgogne;jeunes (15-24 ans);22,7202473
+2013;Bourgogne;jeunes (15-24 ans);21,69002271
+2014;Bourgogne;jeunes (15-24 ans);16,70585161
+2015;Bourgogne;jeunes (15-24 ans);18,13237131
+2005;Bretagne;jeunes (15-24 ans);31
+2006;Bretagne;jeunes (15-24 ans);27,2
+2007;Bretagne;jeunes (15-24 ans);30,4
+2008;Bretagne;jeunes (15-24 ans);31,89726595
+2009;Bretagne;jeunes (15-24 ans);32,02511774
+2010;Bretagne;jeunes (15-24 ans);24,98662386
+2011;Bretagne;jeunes (15-24 ans);18,92523364
+2012;Bretagne;jeunes (15-24 ans);23,15412186
+2013;Bretagne;jeunes (15-24 ans);23,39905221
+2014;Bretagne;jeunes (15-24 ans);19,87312569
+2015;Bretagne;jeunes (15-24 ans);18,29100673
+2005;Centre;jeunes (15-24 ans);26,9
+2006;Centre;jeunes (15-24 ans);25,2
+2007;Centre;jeunes (15-24 ans);28,8
+2008;Centre;jeunes (15-24 ans);29,76313079
+2009;Centre;jeunes (15-24 ans);29,23553719
+2010;Centre;jeunes (15-24 ans);28,06041335
+2011;Centre;jeunes (15-24 ans);20,52631579
+2012;Centre;jeunes (15-24 ans);21,71860246
+2013;Centre;jeunes (15-24 ans);21,32757202
+2014;Centre;jeunes (15-24 ans);18,04265736
+2015;Centre;jeunes (15-24 ans);19,48112505
+2005;Champagne-Ardenne;jeunes (15-24 ans);29,1
+2006;Champagne-Ardenne;jeunes (15-24 ans);27
+2007;Champagne-Ardenne;jeunes (15-24 ans);29,9
+2008;Champagne-Ardenne;jeunes (15-24 ans);26,10966057
+2009;Champagne-Ardenne;jeunes (15-24 ans);31,45780051
+2010;Champagne-Ardenne;jeunes (15-24 ans);23,33333333
+2011;Champagne-Ardenne;jeunes (15-24 ans);22,28116711
+2012;Champagne-Ardenne;jeunes (15-24 ans);29,09090909
+2013;Champagne-Ardenne;jeunes (15-24 ans);21,75648358
+2014;Champagne-Ardenne;jeunes (15-24 ans);26,03172716
+2015;Champagne-Ardenne;jeunes (15-24 ans);26,6626753
+2005;Corse;jeunes (15-24 ans);
+2006;Corse;jeunes (15-24 ans);
+2007;Corse;jeunes (15-24 ans);
+2008;Corse;jeunes (15-24 ans);
+2009;Corse;jeunes (15-24 ans);
+2010;Corse;jeunes (15-24 ans);
+2011;Corse;jeunes (15-24 ans);
+2012;Corse;jeunes (15-24 ans);
+2013;Corse;jeunes (15-24 ans);
+2014;Corse;jeunes (15-24 ans);
+2015;Corse;jeunes (15-24 ans);
+2005;Franche-Comté;jeunes (15-24 ans);29,6
+2006;Franche-Comté;jeunes (15-24 ans);29,9
+2007;Franche-Comté;jeunes (15-24 ans);29,7
+2008;Franche-Comté;jeunes (15-24 ans);33,06010929
+2009;Franche-Comté;jeunes (15-24 ans);25,64766839
+2010;Franche-Comté;jeunes (15-24 ans);26,9379845
+2011;Franche-Comté;jeunes (15-24 ans);20,93023256
+2012;Franche-Comté;jeunes (15-24 ans);27,76203966
+2013;Franche-Comté;jeunes (15-24 ans);21,23457314
+2014;Franche-Comté;jeunes (15-24 ans);19,54351205
+2015;Franche-Comté;jeunes (15-24 ans);18,72654634
+2005;Haute-Normandie;jeunes (15-24 ans);24,6
+2006;Haute-Normandie;jeunes (15-24 ans);23,8
+2007;Haute-Normandie;jeunes (15-24 ans);30,8
+2008;Haute-Normandie;jeunes (15-24 ans);29,84562607
+2009;Haute-Normandie;jeunes (15-24 ans);29
+2010;Haute-Normandie;jeunes (15-24 ans);23,41772152
+2011;Haute-Normandie;jeunes (15-24 ans);19,3877551
+2012;Haute-Normandie;jeunes (15-24 ans);29,40226171
+2013;Haute-Normandie;jeunes (15-24 ans);25,07187357
+2014;Haute-Normandie;jeunes (15-24 ans);27,14028465
+2015;Haute-Normandie;jeunes (15-24 ans);27,58156228
+2005;Ile-de-France;jeunes (15-24 ans);19,4
+2006;Ile-de-France;jeunes (15-24 ans);23,7
+2007;Ile-de-France;jeunes (15-24 ans);30,9
+2008;Ile-de-France;jeunes (15-24 ans);30,73281575
+2009;Ile-de-France;jeunes (15-24 ans);29,11993918
+2010;Ile-de-France;jeunes (15-24 ans);24,97828515
+2011;Ile-de-France;jeunes (15-24 ans);17,00494627
+2012;Ile-de-France;jeunes (15-24 ans);23,3481153
+2013;Ile-de-France;jeunes (15-24 ans);18,13742095
+2014;Ile-de-France;jeunes (15-24 ans);15,29810794
+2015;Ile-de-France;jeunes (15-24 ans);17,01528858
+2005;Languedoc-Roussillon;jeunes (15-24 ans);16,8
+2006;Languedoc-Roussillon;jeunes (15-24 ans);18,4
+2007;Languedoc-Roussillon;jeunes (15-24 ans);21,8
+2008;Languedoc-Roussillon;jeunes (15-24 ans);22,47474747
+2009;Languedoc-Roussillon;jeunes (15-24 ans);25,72533849
+2010;Languedoc-Roussillon;jeunes (15-24 ans);20,7250342
+2011;Languedoc-Roussillon;jeunes (15-24 ans);13,83886256
+2012;Languedoc-Roussillon;jeunes (15-24 ans);22,58364312
+2013;Languedoc-Roussillon;jeunes (15-24 ans);21,65335318
+2014;Languedoc-Roussillon;jeunes (15-24 ans);20,9140169
+2015;Languedoc-Roussillon;jeunes (15-24 ans);19,32234107
+2005;Limousin;jeunes (15-24 ans);
+2006;Limousin;jeunes (15-24 ans);
+2007;Limousin;jeunes (15-24 ans);
+2008;Limousin;jeunes (15-24 ans);
+2009;Limousin;jeunes (15-24 ans);
+2010;Limousin;jeunes (15-24 ans);21
+2011;Limousin;jeunes (15-24 ans);
+2012;Limousin;jeunes (15-24 ans);
+2013;Limousin;jeunes (15-24 ans);
+2014;Limousin;jeunes (15-24 ans);
+2015;Limousin;jeunes (15-24 ans);
+2005;Lorraine;jeunes (15-24 ans);25,2
+2006;Lorraine;jeunes (15-24 ans);25,3
+2007;Lorraine;jeunes (15-24 ans);28,6
+2008;Lorraine;jeunes (15-24 ans);27,72828508
+2009;Lorraine;jeunes (15-24 ans);35,30066815
+2010;Lorraine;jeunes (15-24 ans);30,15384615
+2011;Lorraine;jeunes (15-24 ans);17,74193548
+2012;Lorraine;jeunes (15-24 ans);25,72347267
+2013;Lorraine;jeunes (15-24 ans);20,36135722
+2014;Lorraine;jeunes (15-24 ans);20,93133698
+2015;Lorraine;jeunes (15-24 ans);20,97479178
+2005;Midi-Pyrénées;jeunes (15-24 ans);26
+2006;Midi-Pyrénées;jeunes (15-24 ans);22,4
+2007;Midi-Pyrénées;jeunes (15-24 ans);26,7
+2008;Midi-Pyrénées;jeunes (15-24 ans);28,64816473
+2009;Midi-Pyrénées;jeunes (15-24 ans);29,54739539
+2010;Midi-Pyrénées;jeunes (15-24 ans);24,42613302
+2011;Midi-Pyrénées;jeunes (15-24 ans);17,99027553
+2012;Midi-Pyrénées;jeunes (15-24 ans);21,57031924
+2013;Midi-Pyrénées;jeunes (15-24 ans);20,58057317
+2014;Midi-Pyrénées;jeunes (15-24 ans);19,29112423
+2015;Midi-Pyrénées;jeunes (15-24 ans);20,69180383
+2005;Nord-Pas-de-Calais;jeunes (15-24 ans);30,6
+2006;Nord-Pas-de-Calais;jeunes (15-24 ans);28,7
+2007;Nord-Pas-de-Calais;jeunes (15-24 ans);32,2
+2008;Nord-Pas-de-Calais;jeunes (15-24 ans);27,85326087
+2009;Nord-Pas-de-Calais;jeunes (15-24 ans);31,03683492
+2010;Nord-Pas-de-Calais;jeunes (15-24 ans);27,23363593
+2011;Nord-Pas-de-Calais;jeunes (15-24 ans);17,55355909
+2012;Nord-Pas-de-Calais;jeunes (15-24 ans);27,54029432
+2013;Nord-Pas-de-Calais;jeunes (15-24 ans);24,01449511
+2014;Nord-Pas-de-Calais;jeunes (15-24 ans);23,95452356
+2015;Nord-Pas-de-Calais;jeunes (15-24 ans);25,25962515
+2005;Pays de la Loire;jeunes (15-24 ans);28,9
+2006;Pays de la Loire;jeunes (15-24 ans);28,8
+2007;Pays de la Loire;jeunes (15-24 ans);31,7
+2008;Pays de la Loire;jeunes (15-24 ans);34,29781228
+2009;Pays de la Loire;jeunes (15-24 ans);34,67799009
+2010;Pays de la Loire;jeunes (15-24 ans);27,29411765
+2011;Pays de la Loire;jeunes (15-24 ans);19,55307263
+2012;Pays de la Loire;jeunes (15-24 ans);22,48641304
+2013;Pays de la Loire;jeunes (15-24 ans);24,7908654
+2014;Pays de la Loire;jeunes (15-24 ans);23,25120911
+2015;Pays de la Loire;jeunes (15-24 ans);22,40578479
+2005;Picardie;jeunes (15-24 ans);26
+2006;Picardie;jeunes (15-24 ans);24,7
+2007;Picardie;jeunes (15-24 ans);31,1
+2008;Picardie;jeunes (15-24 ans);27,44425386
+2009;Picardie;jeunes (15-24 ans);27,81954887
+2010;Picardie;jeunes (15-24 ans);25,75757576
+2011;Picardie;jeunes (15-24 ans);19,30783242
+2012;Picardie;jeunes (15-24 ans);25,82524272
+2013;Picardie;jeunes (15-24 ans);26,8877533
+2014;Picardie;jeunes (15-24 ans);26,66202446
+2015;Picardie;jeunes (15-24 ans);25,26871509
+2005;Poitou-Charentes;jeunes (15-24 ans);24,1
+2006;Poitou-Charentes;jeunes (15-24 ans);21,2
+2007;Poitou-Charentes;jeunes (15-24 ans);25,7
+2008;Poitou-Charentes;jeunes (15-24 ans);27,24358974
+2009;Poitou-Charentes;jeunes (15-24 ans);29,83606557
+2010;Poitou-Charentes;jeunes (15-24 ans);19,90740741
+2011;Poitou-Charentes;jeunes (15-24 ans);18,39258114
+2012;Poitou-Charentes;jeunes (15-24 ans);19,72413793
+2013;Poitou-Charentes;jeunes (15-24 ans);18,64589965
+2014;Poitou-Charentes;jeunes (15-24 ans);20,02820939
+2015;Poitou-Charentes;jeunes (15-24 ans);20,07480602
+2005;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);17,3
+2006;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);18
+2007;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);21
+2008;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);20,46843177
+2009;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);22,27695676
+2010;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);20,59788553
+2011;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);13,91752577
+2012;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);19,3254818
+2013;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);17,84449783
+2014;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);16,26830541
+2015;Provence-Alpes-Côte-d'Azur;jeunes (15-24 ans);15,94958659
+2005;Rhône-Alpes;jeunes (15-24 ans);26,6
+2006;Rhône-Alpes;jeunes (15-24 ans);22,8
+2007;Rhône-Alpes;jeunes (15-24 ans);29,3
+2008;Rhône-Alpes;jeunes (15-24 ans);31,65048544
+2009;Rhône-Alpes;jeunes (15-24 ans);31,35653409
+2010;Rhône-Alpes;jeunes (15-24 ans);23,54392892
+2011;Rhône-Alpes;jeunes (15-24 ans);18,74120956
+2012;Rhône-Alpes;jeunes (15-24 ans);21,5942029
+2013;Rhône-Alpes;jeunes (15-24 ans);20,37717966
+2014;Rhône-Alpes;jeunes (15-24 ans);19,77595328
+2015;Rhône-Alpes;jeunes (15-24 ans);18,69096155
+2005;Alsace;adultes (25-34 ans);20,3
+2006;Alsace;adultes (25-34 ans);18,6
+2007;Alsace;adultes (25-34 ans);19,2
+2008;Alsace;adultes (25-34 ans);19,37172775
+2009;Alsace;adultes (25-34 ans);18,99070385
+2010;Alsace;adultes (25-34 ans);18,45082681
+2011;Alsace;adultes (25-34 ans);21,6152019
+2012;Alsace;adultes (25-34 ans);20,2247191
+2013;Alsace;adultes (25-34 ans);17,83418103
+2014;Alsace;adultes (25-34 ans);14,05142125
+2015;Alsace;adultes (25-34 ans);17,84138823
+2005;Aquitaine;adultes (25-34 ans);17,1
+2006;Aquitaine;adultes (25-34 ans);16
+2007;Aquitaine;adultes (25-34 ans);14,6
+2008;Aquitaine;adultes (25-34 ans);16,96921863
+2009;Aquitaine;adultes (25-34 ans);16,54259719
+2010;Aquitaine;adultes (25-34 ans);15,78947368
+2011;Aquitaine;adultes (25-34 ans);15,99707816
+2012;Aquitaine;adultes (25-34 ans);14,95946942
+2013;Aquitaine;adultes (25-34 ans);14,399822
+2014;Aquitaine;adultes (25-34 ans);12,85562553
+2015;Aquitaine;adultes (25-34 ans);12,37040969
+2005;Auvergne;adultes (25-34 ans);20,5
+2006;Auvergne;adultes (25-34 ans);19,3
+2007;Auvergne;adultes (25-34 ans);15,7
+2008;Auvergne;adultes (25-34 ans);16,85144124
+2009;Auvergne;adultes (25-34 ans);16,55913978
+2010;Auvergne;adultes (25-34 ans);14,71471471
+2011;Auvergne;adultes (25-34 ans);17,71561772
+2012;Auvergne;adultes (25-34 ans);15,12605042
+2013;Auvergne;adultes (25-34 ans);13,35780709
+2014;Auvergne;adultes (25-34 ans);14,687052
+2015;Auvergne;adultes (25-34 ans);14,45292248
+2005;Basse-Normandie;adultes (25-34 ans);16,1
+2006;Basse-Normandie;adultes (25-34 ans);20,3
+2007;Basse-Normandie;adultes (25-34 ans);15,4
+2008;Basse-Normandie;adultes (25-34 ans);21,05263158
+2009;Basse-Normandie;adultes (25-34 ans);22,69662921
+2010;Basse-Normandie;adultes (25-34 ans);22,16494845
+2011;Basse-Normandie;adultes (25-34 ans);22,30392157
+2012;Basse-Normandie;adultes (25-34 ans);19,18604651
+2013;Basse-Normandie;adultes (25-34 ans);19,94454063
+2014;Basse-Normandie;adultes (25-34 ans);12,70223507
+2015;Basse-Normandie;adultes (25-34 ans);14,3685441
+2005;Bourgogne;adultes (25-34 ans);22,4
+2006;Bourgogne;adultes (25-34 ans);19,1
+2007;Bourgogne;adultes (25-34 ans);15,5
+2008;Bourgogne;adultes (25-34 ans);17,71929825
+2009;Bourgogne;adultes (25-34 ans);17,27272727
+2010;Bourgogne;adultes (25-34 ans);18,54219949
+2011;Bourgogne;adultes (25-34 ans);17,55319149
+2012;Bourgogne;adultes (25-34 ans);13,60123648
+2013;Bourgogne;adultes (25-34 ans);12,43914727
+2014;Bourgogne;adultes (25-34 ans);14,8061305
+2015;Bourgogne;adultes (25-34 ans);15,42050145
+2005;Bretagne;adultes (25-34 ans);17,5
+2006;Bretagne;adultes (25-34 ans);17,9
+2007;Bretagne;adultes (25-34 ans);15,6
+2008;Bretagne;adultes (25-34 ans);17,89560895
+2009;Bretagne;adultes (25-34 ans);19,1522763
+2010;Bretagne;adultes (25-34 ans);18,56607812
+2011;Bretagne;adultes (25-34 ans);20,17133956
+2012;Bretagne;adultes (25-34 ans);17,6344086
+2013;Bretagne;adultes (25-34 ans);16,8887966
+2014;Bretagne;adultes (25-34 ans);15,20611273
+2015;Bretagne;adultes (25-34 ans);14,10941639
+2005;Centre;adultes (25-34 ans);18
+2006;Centre;adultes (25-34 ans);16,6
+2007;Centre;adultes (25-34 ans);16,3
+2008;Centre;adultes (25-34 ans);19,05252317
+2009;Centre;adultes (25-34 ans);20,1446281
+2010;Centre;adultes (25-34 ans);18,12400636
+2011;Centre;adultes (25-34 ans);18,84210526
+2012;Centre;adultes (25-34 ans);18,31916903
+2013;Centre;adultes (25-34 ans);14,33951969
+2014;Centre;adultes (25-34 ans);14,83757856
+2015;Centre;adultes (25-34 ans);13,28112045
+2005;Champagne-Ardenne;adultes (25-34 ans);19,6
+2006;Champagne-Ardenne;adultes (25-34 ans);20,1
+2007;Champagne-Ardenne;adultes (25-34 ans);18,1
+2008;Champagne-Ardenne;adultes (25-34 ans);19,58224543
+2009;Champagne-Ardenne;adultes (25-34 ans);17,64705882
+2010;Champagne-Ardenne;adultes (25-34 ans);18,62745098
+2011;Champagne-Ardenne;adultes (25-34 ans);18,56763926
+2012;Champagne-Ardenne;adultes (25-34 ans);13,86363636
+2013;Champagne-Ardenne;adultes (25-34 ans);15,56587142
+2014;Champagne-Ardenne;adultes (25-34 ans);16,51371084
+2015;Champagne-Ardenne;adultes (25-34 ans);13,81504915
+2005;Corse;adultes (25-34 ans);
+2006;Corse;adultes (25-34 ans);
+2007;Corse;adultes (25-34 ans);
+2008;Corse;adultes (25-34 ans);
+2009;Corse;adultes (25-34 ans);
+2010;Corse;adultes (25-34 ans);
+2011;Corse;adultes (25-34 ans);
+2012;Corse;adultes (25-34 ans);
+2013;Corse;adultes (25-34 ans);
+2014;Corse;adultes (25-34 ans);
+2015;Corse;adultes (25-34 ans);
+2005;Franche-Comté;adultes (25-34 ans);16,9
+2006;Franche-Comté;adultes (25-34 ans);15,8
+2007;Franche-Comté;adultes (25-34 ans);17,6
+2008;Franche-Comté;adultes (25-34 ans);21,03825137
+2009;Franche-Comté;adultes (25-34 ans);22,5388601
+2010;Franche-Comté;adultes (25-34 ans);16,66666667
+2011;Franche-Comté;adultes (25-34 ans);17,15116279
+2012;Franche-Comté;adultes (25-34 ans);19,54674221
+2013;Franche-Comté;adultes (25-34 ans);11,86212186
+2014;Franche-Comté;adultes (25-34 ans);14,27801372
+2015;Franche-Comté;adultes (25-34 ans);11,12944929
+2005;Haute-Normandie;adultes (25-34 ans);18,9
+2006;Haute-Normandie;adultes (25-34 ans);22,2
+2007;Haute-Normandie;adultes (25-34 ans);16,4
+2008;Haute-Normandie;adultes (25-34 ans);16,80960549
+2009;Haute-Normandie;adultes (25-34 ans);19,16666667
+2010;Haute-Normandie;adultes (25-34 ans);20,50632911
+2011;Haute-Normandie;adultes (25-34 ans);18,53741497
+2012;Haute-Normandie;adultes (25-34 ans);15,67043619
+2013;Haute-Normandie;adultes (25-34 ans);15,38043008
+2014;Haute-Normandie;adultes (25-34 ans);11,62296308
+2015;Haute-Normandie;adultes (25-34 ans);12,34936703
+2005;Ile-de-France;adultes (25-34 ans);20,9
+2006;Ile-de-France;adultes (25-34 ans);21,2
+2007;Ile-de-France;adultes (25-34 ans);20,8
+2008;Ile-de-France;adultes (25-34 ans);18,87900019
+2009;Ile-de-France;adultes (25-34 ans);21,782931
+2010;Ile-de-France;adultes (25-34 ans);20,77180792
+2011;Ile-de-France;adultes (25-34 ans);21,55892888
+2012;Ile-de-France;adultes (25-34 ans);20,64301552
+2013;Ile-de-France;adultes (25-34 ans);20,71545008
+2014;Ile-de-France;adultes (25-34 ans);20,41829399
+2015;Ile-de-France;adultes (25-34 ans);20,9605079
+2005;Languedoc-Roussillon;adultes (25-34 ans);15,3
+2006;Languedoc-Roussillon;adultes (25-34 ans);14,1
+2007;Languedoc-Roussillon;adultes (25-34 ans);15,8
+2008;Languedoc-Roussillon;adultes (25-34 ans);18,51851852
+2009;Languedoc-Roussillon;adultes (25-34 ans);15,37717602
+2010;Languedoc-Roussillon;adultes (25-34 ans);14,91108071
+2011;Languedoc-Roussillon;adultes (25-34 ans);16,58767773
+2012;Languedoc-Roussillon;adultes (25-34 ans);12,82527881
+2013;Languedoc-Roussillon;adultes (25-34 ans);14,75509683
+2014;Languedoc-Roussillon;adultes (25-34 ans);13,17613944
+2015;Languedoc-Roussillon;adultes (25-34 ans);15,17230965
+2005;Limousin;adultes (25-34 ans);
+2006;Limousin;adultes (25-34 ans);
+2007;Limousin;adultes (25-34 ans);
+2008;Limousin;adultes (25-34 ans);
+2009;Limousin;adultes (25-34 ans);
+2010;Limousin;adultes (25-34 ans);20,33333333
+2011;Limousin;adultes (25-34 ans);
+2012;Limousin;adultes (25-34 ans);
+2013;Limousin;adultes (25-34 ans);
+2014;Limousin;adultes (25-34 ans);
+2015;Limousin;adultes (25-34 ans);
+2005;Lorraine;adultes (25-34 ans);22,8
+2006;Lorraine;adultes (25-34 ans);19,3
+2007;Lorraine;adultes (25-34 ans);20,1
+2008;Lorraine;adultes (25-34 ans);22,3830735
+2009;Lorraine;adultes (25-34 ans);18,26280624
+2010;Lorraine;adultes (25-34 ans);19,76923077
+2011;Lorraine;adultes (25-34 ans);22,58064516
+2012;Lorraine;adultes (25-34 ans);18,43515541
+2013;Lorraine;adultes (25-34 ans);17,68903451
+2014;Lorraine;adultes (25-34 ans);15,01978389
+2015;Lorraine;adultes (25-34 ans);16,87685212
+2005;Midi-Pyrénées;adultes (25-34 ans);15,9
+2006;Midi-Pyrénées;adultes (25-34 ans);16,2
+2007;Midi-Pyrénées;adultes (25-34 ans);16,5
+2008;Midi-Pyrénées;adultes (25-34 ans);21,03849597
+2009;Midi-Pyrénées;adultes (25-34 ans);20,32450897
+2010;Midi-Pyrénées;adultes (25-34 ans);19,83519717
+2011;Midi-Pyrénées;adultes (25-34 ans);20,42139384
+2012;Midi-Pyrénées;adultes (25-34 ans);19,41328732
+2013;Midi-Pyrénées;adultes (25-34 ans);18,90774464
+2014;Midi-Pyrénées;adultes (25-34 ans);19,15945339
+2015;Midi-Pyrénées;adultes (25-34 ans);16,15232624
+2005;Nord-Pas-de-Calais;adultes (25-34 ans);20,1
+2006;Nord-Pas-de-Calais;adultes (25-34 ans);20,3
+2007;Nord-Pas-de-Calais;adultes (25-34 ans);18,7
+2008;Nord-Pas-de-Calais;adultes (25-34 ans);21,33152174
+2009;Nord-Pas-de-Calais;adultes (25-34 ans);18,07639836
+2010;Nord-Pas-de-Calais;adultes (25-34 ans);18,10797898
+2011;Nord-Pas-de-Calais;adultes (25-34 ans);19,6959226
+2012;Nord-Pas-de-Calais;adultes (25-34 ans);18,57042747
+2013;Nord-Pas-de-Calais;adultes (25-34 ans);18,03089264
+2014;Nord-Pas-de-Calais;adultes (25-34 ans);16,08396465
+2015;Nord-Pas-de-Calais;adultes (25-34 ans);17,69278702
+2005;Pays de la Loire;adultes (25-34 ans);17,8
+2006;Pays de la Loire;adultes (25-34 ans);15,5
+2007;Pays de la Loire;adultes (25-34 ans);18,5
+2008;Pays de la Loire;adultes (25-34 ans);19,68948483
+2009;Pays de la Loire;adultes (25-34 ans);19,74522293
+2010;Pays de la Loire;adultes (25-34 ans);19,38823529
+2011;Pays de la Loire;adultes (25-34 ans);21,01955307
+2012;Pays de la Loire;adultes (25-34 ans);22,07880435
+2013;Pays de la Loire;adultes (25-34 ans);19,16955049
+2014;Pays de la Loire;adultes (25-34 ans);19,03018011
+2015;Pays de la Loire;adultes (25-34 ans);17,67277659
+2005;Picardie;adultes (25-34 ans);17,3
+2006;Picardie;adultes (25-34 ans);19
+2007;Picardie;adultes (25-34 ans);16,6
+2008;Picardie;adultes (25-34 ans);20,41166381
+2009;Picardie;adultes (25-34 ans);18,98496241
+2010;Picardie;adultes (25-34 ans);18,56060606
+2011;Picardie;adultes (25-34 ans);20,4007286
+2012;Picardie;adultes (25-34 ans);18,6407767
+2013;Picardie;adultes (25-34 ans);13,77327615
+2014;Picardie;adultes (25-34 ans);16,3454508
+2015;Picardie;adultes (25-34 ans);16,323569
+2005;Poitou-Charentes;adultes (25-34 ans);12,6
+2006;Poitou-Charentes;adultes (25-34 ans);17,9
+2007;Poitou-Charentes;adultes (25-34 ans);18
+2008;Poitou-Charentes;adultes (25-34 ans);16,98717949
+2009;Poitou-Charentes;adultes (25-34 ans);14,75409836
+2010;Poitou-Charentes;adultes (25-34 ans);17,70833333
+2011;Poitou-Charentes;adultes (25-34 ans);17,77434312
+2012;Poitou-Charentes;adultes (25-34 ans);15,17241379
+2013;Poitou-Charentes;adultes (25-34 ans);14,7344719
+2014;Poitou-Charentes;adultes (25-34 ans);10,80430726
+2015;Poitou-Charentes;adultes (25-34 ans);14,29902907
+2005;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);16,9
+2006;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);17
+2007;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);15,3
+2008;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);18,22810591
+2009;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);14,8877942
+2010;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);15,20233321
+2011;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);16,44329897
+2012;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);14,34689507
+2013;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);13,45824335
+2014;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);14,71223437
+2015;Provence-Alpes-Côte-d'Azur;adultes (25-34 ans);13,58949867
+2005;Rhône-Alpes;adultes (25-34 ans);19,7
+2006;Rhône-Alpes;adultes (25-34 ans);20,6
+2007;Rhône-Alpes;adultes (25-34 ans);19
+2008;Rhône-Alpes;adultes (25-34 ans);19,14563107
+2009;Rhône-Alpes;adultes (25-34 ans);19,49573864
+2010;Rhône-Alpes;adultes (25-34 ans);20,33563672
+2011;Rhône-Alpes;adultes (25-34 ans);22,15189873
+2012;Rhône-Alpes;adultes (25-34 ans);19,63768116
+2013;Rhône-Alpes;adultes (25-34 ans);17,67815741
+2014;Rhône-Alpes;adultes (25-34 ans);16,9205314
+2015;Rhône-Alpes;adultes (25-34 ans);16,13468593
+2005;Alsace;séniors (35-49 ans);23,3
+2006;Alsace;séniors (35-49 ans);26,1
+2007;Alsace;séniors (35-49 ans);25,8
+2008;Alsace;séniors (35-49 ans);26,83246073
+2009;Alsace;séniors (35-49 ans);23,10756972
+2010;Alsace;séniors (35-49 ans);30,54830287
+2011;Alsace;séniors (35-49 ans);30,04750594
+2012;Alsace;séniors (35-49 ans);31,96004994
+2013;Alsace;séniors (35-49 ans);27,35347666
+2014;Alsace;séniors (35-49 ans);28,35097401
+2015;Alsace;séniors (35-49 ans);26,35537009
+2005;Aquitaine;séniors (35-49 ans);30,4
+2006;Aquitaine;séniors (35-49 ans);28,4
+2007;Aquitaine;séniors (35-49 ans);28,1
+2008;Aquitaine;séniors (35-49 ans);25,01973165
+2009;Aquitaine;séniors (35-49 ans);26,88172043
+2010;Aquitaine;séniors (35-49 ans);27,73684211
+2011;Aquitaine;séniors (35-49 ans);25,05478451
+2012;Aquitaine;séniors (35-49 ans);29,91893884
+2013;Aquitaine;séniors (35-49 ans);28,11988482
+2014;Aquitaine;séniors (35-49 ans);26,96779327
+2015;Aquitaine;séniors (35-49 ans);28,25040771
+2005;Auvergne;séniors (35-49 ans);27,3
+2006;Auvergne;séniors (35-49 ans);25,8
+2007;Auvergne;séniors (35-49 ans);31,7
+2008;Auvergne;séniors (35-49 ans);26,16407982
+2009;Auvergne;séniors (35-49 ans);27,31182796
+2010;Auvergne;séniors (35-49 ans);32,43243243
+2011;Auvergne;séniors (35-49 ans);31,23543124
+2012;Auvergne;séniors (35-49 ans);32,98319328
+2013;Auvergne;séniors (35-49 ans);26,03082973
+2014;Auvergne;séniors (35-49 ans);22,219375
+2015;Auvergne;séniors (35-49 ans);23,86781898
+2005;Basse-Normandie;séniors (35-49 ans);24,9
+2006;Basse-Normandie;séniors (35-49 ans);22,5
+2007;Basse-Normandie;séniors (35-49 ans);27,5
+2008;Basse-Normandie;séniors (35-49 ans);24
+2009;Basse-Normandie;séniors (35-49 ans);28,53932584
+2010;Basse-Normandie;séniors (35-49 ans);27,49140893
+2011;Basse-Normandie;séniors (35-49 ans);26,47058824
+2012;Basse-Normandie;séniors (35-49 ans);27,71317829
+2013;Basse-Normandie;séniors (35-49 ans);23,41390016
+2014;Basse-Normandie;séniors (35-49 ans);22,04327785
+2015;Basse-Normandie;séniors (35-49 ans);24,62780759
+2005;Bourgogne;séniors (35-49 ans);23,4
+2006;Bourgogne;séniors (35-49 ans);27,4
+2007;Bourgogne;séniors (35-49 ans);28,8
+2008;Bourgogne;séniors (35-49 ans);24,38596491
+2009;Bourgogne;séniors (35-49 ans);26,36363636
+2010;Bourgogne;séniors (35-49 ans);25,95907928
+2011;Bourgogne;séniors (35-49 ans);28,54609929
+2012;Bourgogne;séniors (35-49 ans);28,28438949
+2013;Bourgogne;séniors (35-49 ans);25,80162685
+2014;Bourgogne;séniors (35-49 ans);27,75430004
+2015;Bourgogne;séniors (35-49 ans);23,14233912
+2005;Bretagne;séniors (35-49 ans);24,4
+2006;Bretagne;séniors (35-49 ans);24,8
+2007;Bretagne;séniors (35-49 ans);26,6
+2008;Bretagne;séniors (35-49 ans);25,26926263
+2009;Bretagne;séniors (35-49 ans);24,33281005
+2010;Bretagne;séniors (35-49 ans);29,53451043
+2011;Bretagne;séniors (35-49 ans);29,12772586
+2012;Bretagne;séniors (35-49 ans);31,7562724
+2013;Bretagne;séniors (35-49 ans);27,15431531
+2014;Bretagne;séniors (35-49 ans);27,06909426
+2015;Bretagne;séniors (35-49 ans);24,92727851
+2005;Centre;séniors (35-49 ans);25,8
+2006;Centre;séniors (35-49 ans);26,8
+2007;Centre;séniors (35-49 ans);25,7
+2008;Centre;séniors (35-49 ans);26,77651905
+2009;Centre;séniors (35-49 ans);24,48347107
+2010;Centre;séniors (35-49 ans);25,59618442
+2011;Centre;séniors (35-49 ans);29,15789474
+2012;Centre;séniors (35-49 ans);28,98961284
+2013;Centre;séniors (35-49 ans);30,13176781
+2014;Centre;séniors (35-49 ans);28,56227689
+2015;Centre;séniors (35-49 ans);26,40465466
+2005;Champagne-Ardenne;séniors (35-49 ans);28,4
+2006;Champagne-Ardenne;séniors (35-49 ans);25,2
+2007;Champagne-Ardenne;séniors (35-49 ans);31,8
+2008;Champagne-Ardenne;séniors (35-49 ans);25,32637076
+2009;Champagne-Ardenne;séniors (35-49 ans);25,83120205
+2010;Champagne-Ardenne;séniors (35-49 ans);29,60784314
+2011;Champagne-Ardenne;séniors (35-49 ans);27,5862069
+2012;Champagne-Ardenne;séniors (35-49 ans);34,09090909
+2013;Champagne-Ardenne;séniors (35-49 ans);33,76725484
+2014;Champagne-Ardenne;séniors (35-49 ans);25,25477971
+2015;Champagne-Ardenne;séniors (35-49 ans);22,4458383
+2005;Corse;séniors (35-49 ans);
+2006;Corse;séniors (35-49 ans);
+2007;Corse;séniors (35-49 ans);
+2008;Corse;séniors (35-49 ans);
+2009;Corse;séniors (35-49 ans);
+2010;Corse;séniors (35-49 ans);
+2011;Corse;séniors (35-49 ans);
+2012;Corse;séniors (35-49 ans);
+2013;Corse;séniors (35-49 ans);
+2014;Corse;séniors (35-49 ans);
+2015;Corse;séniors (35-49 ans);
+2005;Franche-Comté;séniors (35-49 ans);28,2
+2006;Franche-Comté;séniors (35-49 ans);30
+2007;Franche-Comté;séniors (35-49 ans);30
+2008;Franche-Comté;séniors (35-49 ans);24,59016393
+2009;Franche-Comté;séniors (35-49 ans);26,68393782
+2010;Franche-Comté;séniors (35-49 ans);27,13178295
+2011;Franche-Comté;séniors (35-49 ans);26,74418605
+2012;Franche-Comté;séniors (35-49 ans);29,74504249
+2013;Franche-Comté;séniors (35-49 ans);28,00986651
+2014;Franche-Comté;séniors (35-49 ans);29,92085444
+2015;Franche-Comté;séniors (35-49 ans);33,30937467
+2005;Haute-Normandie;séniors (35-49 ans);30,2
+2006;Haute-Normandie;séniors (35-49 ans);25,4
+2007;Haute-Normandie;séniors (35-49 ans);29
+2008;Haute-Normandie;séniors (35-49 ans);29,5025729
+2009;Haute-Normandie;séniors (35-49 ans);27,83333333
+2010;Haute-Normandie;séniors (35-49 ans);29,11392405
+2011;Haute-Normandie;séniors (35-49 ans);29,25170068
+2012;Haute-Normandie;séniors (35-49 ans);24,23263328
+2013;Haute-Normandie;séniors (35-49 ans);22,95015921
+2014;Haute-Normandie;séniors (35-49 ans);21,8372602
+2015;Haute-Normandie;séniors (35-49 ans);22,51951327
+2005;Ile-de-France;séniors (35-49 ans);24,3
+2006;Ile-de-France;séniors (35-49 ans);25,1
+2007;Ile-de-France;séniors (35-49 ans);19,8
+2008;Ile-de-France;séniors (35-49 ans);22,74190494
+2009;Ile-de-France;séniors (35-49 ans);22,98042197
+2010;Ile-de-France;séniors (35-49 ans);25,32572279
+2011;Ile-de-France;séniors (35-49 ans);25,58417193
+2012;Ile-de-France;séniors (35-49 ans);26,16407982
+2013;Ile-de-France;séniors (35-49 ans);26,2615698
+2014;Ile-de-France;séniors (35-49 ans);24,36657363
+2015;Ile-de-France;séniors (35-49 ans);25,04482404
+2005;Languedoc-Roussillon;séniors (35-49 ans);30,4
+2006;Languedoc-Roussillon;séniors (35-49 ans);29,2
+2007;Languedoc-Roussillon;séniors (35-49 ans);28,7
+2008;Languedoc-Roussillon;séniors (35-49 ans);23,90572391
+2009;Languedoc-Roussillon;séniors (35-49 ans);24,9516441
+2010;Languedoc-Roussillon;séniors (35-49 ans);27,49658003
+2011;Languedoc-Roussillon;séniors (35-49 ans);27,01421801
+2012;Languedoc-Roussillon;séniors (35-49 ans);28,0669145
+2013;Languedoc-Roussillon;séniors (35-49 ans);24,84480322
+2014;Languedoc-Roussillon;séniors (35-49 ans);21,81057302
+2015;Languedoc-Roussillon;séniors (35-49 ans);22,49776692
+2005;Limousin;séniors (35-49 ans);
+2006;Limousin;séniors (35-49 ans);
+2007;Limousin;séniors (35-49 ans);
+2008;Limousin;séniors (35-49 ans);
+2009;Limousin;séniors (35-49 ans);
+2010;Limousin;séniors (35-49 ans);26,66666667
+2011;Limousin;séniors (35-49 ans);
+2012;Limousin;séniors (35-49 ans);
+2013;Limousin;séniors (35-49 ans);
+2014;Limousin;séniors (35-49 ans);
+2015;Limousin;séniors (35-49 ans);
+2005;Lorraine;séniors (35-49 ans);25,6
+2006;Lorraine;séniors (35-49 ans);27,4
+2007;Lorraine;séniors (35-49 ans);27,9
+2008;Lorraine;séniors (35-49 ans);28,17371938
+2009;Lorraine;séniors (35-49 ans);25,50111359
+2010;Lorraine;séniors (35-49 ans);26,46153846
+2011;Lorraine;séniors (35-49 ans);31,33640553
+2012;Lorraine;séniors (35-49 ans);29,15326902
+2013;Lorraine;séniors (35-49 ans);31,24405291
+2014;Lorraine;séniors (35-49 ans);26,91365358
+2015;Lorraine;séniors (35-49 ans);29,66994858
+2005;Midi-Pyrénées;séniors (35-49 ans);29,6
+2006;Midi-Pyrénées;séniors (35-49 ans);30,7
+2007;Midi-Pyrénées;séniors (35-49 ans);28,3
+2008;Midi-Pyrénées;séniors (35-49 ans);26,76812892
+2009;Midi-Pyrénées;séniors (35-49 ans);27,32707088
+2010;Midi-Pyrénées;séniors (35-49 ans);29,01706886
+2011;Midi-Pyrénées;séniors (35-49 ans);27,39059968
+2012;Midi-Pyrénées;séniors (35-49 ans);28,4728214
+2013;Midi-Pyrénées;séniors (35-49 ans);26,34884815
+2014;Midi-Pyrénées;séniors (35-49 ans);27,63380097
+2015;Midi-Pyrénées;séniors (35-49 ans);25,44310606
+2005;Nord-Pas-de-Calais;séniors (35-49 ans);26,1
+2006;Nord-Pas-de-Calais;séniors (35-49 ans);26,5
+2007;Nord-Pas-de-Calais;séniors (35-49 ans);26,7
+2008;Nord-Pas-de-Calais;séniors (35-49 ans);24,25271739
+2009;Nord-Pas-de-Calais;séniors (35-49 ans);26,19372442
+2010;Nord-Pas-de-Calais;séniors (35-49 ans);29,19254658
+2011;Nord-Pas-de-Calais;séniors (35-49 ans);29,23289565
+2012;Nord-Pas-de-Calais;séniors (35-49 ans);26,06867554
+2013;Nord-Pas-de-Calais;séniors (35-49 ans);25,58915265
+2014;Nord-Pas-de-Calais;séniors (35-49 ans);24,97679414
+2015;Nord-Pas-de-Calais;séniors (35-49 ans);22,05441341
+2005;Pays de la Loire;séniors (35-49 ans);22,5
+2006;Pays de la Loire;séniors (35-49 ans);24,3
+2007;Pays de la Loire;séniors (35-49 ans);26,4
+2008;Pays de la Loire;séniors (35-49 ans);24,20606916
+2009;Pays de la Loire;séniors (35-49 ans);21,65605096
+2010;Pays de la Loire;séniors (35-49 ans);27,34117647
+2011;Pays de la Loire;séniors (35-49 ans);26,88547486
+2012;Pays de la Loire;séniors (35-49 ans);27,7173913
+2013;Pays de la Loire;séniors (35-49 ans);25,50702601
+2014;Pays de la Loire;séniors (35-49 ans);22,21756753
+2015;Pays de la Loire;séniors (35-49 ans);24,43977533
+2005;Picardie;séniors (35-49 ans);28,2
+2006;Picardie;séniors (35-49 ans);25,2
+2007;Picardie;séniors (35-49 ans);27,7
+2008;Picardie;séniors (35-49 ans);26,58662093
+2009;Picardie;séniors (35-49 ans);27,81954887
+2010;Picardie;séniors (35-49 ans);28,03030303
+2011;Picardie;séniors (35-49 ans);27,14025501
+2012;Picardie;séniors (35-49 ans);27,76699029
+2013;Picardie;séniors (35-49 ans);27,01089737
+2014;Picardie;séniors (35-49 ans);22,65883761
+2015;Picardie;séniors (35-49 ans);24,64008738
+2005;Poitou-Charentes;séniors (35-49 ans);27,2
+2006;Poitou-Charentes;séniors (35-49 ans);25,6
+2007;Poitou-Charentes;séniors (35-49 ans);26,4
+2008;Poitou-Charentes;séniors (35-49 ans);22,91666667
+2009;Poitou-Charentes;séniors (35-49 ans);24,42622951
+2010;Poitou-Charentes;séniors (35-49 ans);28,93518519
+2011;Poitou-Charentes;séniors (35-49 ans);27,82071097
+2012;Poitou-Charentes;séniors (35-49 ans);29,51724138
+2013;Poitou-Charentes;séniors (35-49 ans);23,20833086
+2014;Poitou-Charentes;séniors (35-49 ans);22,19217116
+2015;Poitou-Charentes;séniors (35-49 ans);18,84289345
+2005;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);30,6
+2006;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);28,8
+2007;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);29,1
+2008;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);27,44399185
+2009;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);30,48713738
+2010;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);28,39956252
+2011;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);27,73195876
+2012;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);29,49678801
+2013;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);26,11499192
+2014;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);24,53511238
+2015;Provence-Alpes-Côte-d'Azur;séniors (35-49 ans);25,45107315
+2005;Rhône-Alpes;séniors (35-49 ans);25,8
+2006;Rhône-Alpes;séniors (35-49 ans);27,7
+2007;Rhône-Alpes;séniors (35-49 ans);26,3
+2008;Rhône-Alpes;séniors (35-49 ans);23,41747573
+2009;Rhône-Alpes;séniors (35-49 ans);25,88778409
+2010;Rhône-Alpes;séniors (35-49 ans);28,99802567
+2011;Rhône-Alpes;séniors (35-49 ans);27,46132208
+2012;Rhône-Alpes;séniors (35-49 ans);28,36956522
+2013;Rhône-Alpes;séniors (35-49 ans);26,26550527
+2014;Rhône-Alpes;séniors (35-49 ans);26,31826802
+2015;Rhône-Alpes;séniors (35-49 ans);26,67900037
+2005;Alsace;vétérans (50 ans et plus);25,1
+2006;Alsace;vétérans (50 ans et plus);25,5
+2007;Alsace;vétérans (50 ans et plus);23,6
+2008;Alsace;vétérans (50 ans et plus);22,2513089
+2009;Alsace;vétérans (50 ans et plus);23,90438247
+2010;Alsace;vétérans (50 ans et plus);24,36901654
+2011;Alsace;vétérans (50 ans et plus);30,16627078
+2012;Alsace;vétérans (50 ans et plus);26,09238452
+2013;Alsace;vétérans (50 ans et plus);32,73212087
+2014;Alsace;vétérans (50 ans et plus);36,35044671
+2015;Alsace;vétérans (50 ans et plus);37,49846189
+2005;Aquitaine;vétérans (50 ans et plus);31,2
+2006;Aquitaine;vétérans (50 ans et plus);34,6
+2007;Aquitaine;vétérans (50 ans et plus);32
+2008;Aquitaine;vétérans (50 ans et plus);32,67561168
+2009;Aquitaine;vétérans (50 ans et plus);31,34822167
+2010;Aquitaine;vétérans (50 ans et plus);35,73684211
+2011;Aquitaine;vétérans (50 ans et plus);43,24324324
+2012;Aquitaine;vétérans (50 ans et plus);35,51952837
+2013;Aquitaine;vétérans (50 ans et plus);37,93726852
+2014;Aquitaine;vétérans (50 ans et plus);43,41758105
+2015;Aquitaine;vétérans (50 ans et plus);42,48688593
+2005;Auvergne;vétérans (50 ans et plus);28,1
+2006;Auvergne;vétérans (50 ans et plus);32,8
+2007;Auvergne;vétérans (50 ans et plus);25,9
+2008;Auvergne;vétérans (50 ans et plus);25,05543237
+2009;Auvergne;vétérans (50 ans et plus);26,88172043
+2010;Auvergne;vétérans (50 ans et plus);27,92792793
+2011;Auvergne;vétérans (50 ans et plus);33,1002331
+2012;Auvergne;vétérans (50 ans et plus);27,5210084
+2013;Auvergne;vétérans (50 ans et plus);40,45654518
+2014;Auvergne;vétérans (50 ans et plus);40,33025744
+2015;Auvergne;vétérans (50 ans et plus);42,07041449
+2005;Basse-Normandie;vétérans (50 ans et plus);33,3
+2006;Basse-Normandie;vétérans (50 ans et plus);34
+2007;Basse-Normandie;vétérans (50 ans et plus);25,8
+2008;Basse-Normandie;vétérans (50 ans et plus);24,42105263
+2009;Basse-Normandie;vétérans (50 ans et plus);20,4494382
+2010;Basse-Normandie;vétérans (50 ans et plus);28,17869416
+2011;Basse-Normandie;vétérans (50 ans et plus);32,35294118
+2012;Basse-Normandie;vétérans (50 ans et plus);29,26356589
+2013;Basse-Normandie;vétérans (50 ans et plus);34,85330394
+2014;Basse-Normandie;vétérans (50 ans et plus);42,51495043
+2015;Basse-Normandie;vétérans (50 ans et plus);38,8448552
+2005;Bourgogne;vétérans (50 ans et plus);26,9
+2006;Bourgogne;vétérans (50 ans et plus);25,7
+2007;Bourgogne;vétérans (50 ans et plus);25,6
+2008;Bourgogne;vétérans (50 ans et plus);24,9122807
+2009;Bourgogne;vétérans (50 ans et plus);27,27272727
+2010;Bourgogne;vétérans (50 ans et plus);28,90025575
+2011;Bourgogne;vétérans (50 ans et plus);36,17021277
+2012;Bourgogne;vétérans (50 ans et plus);35,39412674
+2013;Bourgogne;vétérans (50 ans et plus);40,06920318
+2014;Bourgogne;vétérans (50 ans et plus);40,73371784
+2015;Bourgogne;vétérans (50 ans et plus);43,30478812
+2005;Bretagne;vétérans (50 ans et plus);27,2
+2006;Bretagne;vétérans (50 ans et plus);30,1
+2007;Bretagne;vétérans (50 ans et plus);27,5
+2008;Bretagne;vétérans (50 ans et plus);24,93786247
+2009;Bretagne;vétérans (50 ans et plus);24,48979592
+2010;Bretagne;vétérans (50 ans et plus);26,91278759
+2011;Bretagne;vétérans (50 ans et plus);31,77570093
+2012;Bretagne;vétérans (50 ans et plus);27,45519713
+2013;Bretagne;vétérans (50 ans et plus);32,55783588
+2014;Bretagne;vétérans (50 ans et plus);37,85166732
+2015;Bretagne;vétérans (50 ans et plus);42,67229836
+2005;Centre;vétérans (50 ans et plus);29,7
+2006;Centre;vétérans (50 ans et plus);31,3
+2007;Centre;vétérans (50 ans et plus);29
+2008;Centre;vétérans (50 ans et plus);24,40782698
+2009;Centre;vétérans (50 ans et plus);26,13636364
+2010;Centre;vétérans (50 ans et plus);28,21939587
+2011;Centre;vétérans (50 ans et plus);31,47368421
+2012;Centre;vétérans (50 ans et plus);30,97261568
+2013;Centre;vétérans (50 ans et plus);34,20114048
+2014;Centre;vétérans (50 ans et plus);38,55748719
+2015;Centre;vétérans (50 ans et plus);40,83309984
+2005;Champagne-Ardenne;vétérans (50 ans et plus);22,9
+2006;Champagne-Ardenne;vétérans (50 ans et plus);27,7
+2007;Champagne-Ardenne;vétérans (50 ans et plus);20,4
+2008;Champagne-Ardenne;vétérans (50 ans et plus);28,98172324
+2009;Champagne-Ardenne;vétérans (50 ans et plus);25,06393862
+2010;Champagne-Ardenne;vétérans (50 ans et plus);28,43137255
+2011;Champagne-Ardenne;vétérans (50 ans et plus);31,56498674
+2012;Champagne-Ardenne;vétérans (50 ans et plus);22,95454545
+2013;Champagne-Ardenne;vétérans (50 ans et plus);28,91039016
+2014;Champagne-Ardenne;vétérans (50 ans et plus);32,19978229
+2015;Champagne-Ardenne;vétérans (50 ans et plus);37,07643725
+2005;Corse;vétérans (50 ans et plus);
+2006;Corse;vétérans (50 ans et plus);
+2007;Corse;vétérans (50 ans et plus);
+2008;Corse;vétérans (50 ans et plus);
+2009;Corse;vétérans (50 ans et plus);
+2010;Corse;vétérans (50 ans et plus);
+2011;Corse;vétérans (50 ans et plus);
+2012;Corse;vétérans (50 ans et plus);
+2013;Corse;vétérans (50 ans et plus);
+2014;Corse;vétérans (50 ans et plus);
+2015;Corse;vétérans (50 ans et plus);
+2005;Franche-Comté;vétérans (50 ans et plus);25,6
+2006;Franche-Comté;vétérans (50 ans et plus);24,2
+2007;Franche-Comté;vétérans (50 ans et plus);22,7
+2008;Franche-Comté;vétérans (50 ans et plus);21,31147541
+2009;Franche-Comté;vétérans (50 ans et plus);25,12953368
+2010;Franche-Comté;vétérans (50 ans et plus);29,26356589
+2011;Franche-Comté;vétérans (50 ans et plus);35,1744186
+2012;Franche-Comté;vétérans (50 ans et plus);22,94617564
+2013;Franche-Comté;vétérans (50 ans et plus);38,89343849
+2014;Franche-Comté;vétérans (50 ans et plus);36,25761979
+2015;Franche-Comté;vétérans (50 ans et plus);36,8346297
+2005;Haute-Normandie;vétérans (50 ans et plus);26,5
+2006;Haute-Normandie;vétérans (50 ans et plus);28,7
+2007;Haute-Normandie;vétérans (50 ans et plus);23,9
+2008;Haute-Normandie;vétérans (50 ans et plus);23,84219554
+2009;Haute-Normandie;vétérans (50 ans et plus);24
+2010;Haute-Normandie;vétérans (50 ans et plus);26,96202532
+2011;Haute-Normandie;vétérans (50 ans et plus);32,82312925
+2012;Haute-Normandie;vétérans (50 ans et plus);30,69466882
+2013;Haute-Normandie;vétérans (50 ans et plus);36,59753715
+2014;Haute-Normandie;vétérans (50 ans et plus);39,39949207
+2015;Haute-Normandie;vétérans (50 ans et plus);37,54955742
+2005;Ile-de-France;vétérans (50 ans et plus);35,4
+2006;Ile-de-France;vétérans (50 ans et plus);30
+2007;Ile-de-France;vétérans (50 ans et plus);28,5
+2008;Ile-de-France;vétérans (50 ans et plus);27,64627911
+2009;Ile-de-France;vétérans (50 ans et plus);26,11670785
+2010;Ile-de-France;vétérans (50 ans et plus);28,92418414
+2011;Ile-de-France;vétérans (50 ans et plus);35,85195293
+2012;Ile-de-France;vétérans (50 ans et plus);29,84478936
+2013;Ile-de-France;vétérans (50 ans et plus);34,88555916
+2014;Ile-de-France;vétérans (50 ans et plus);39,91702445
+2015;Ile-de-France;vétérans (50 ans et plus);36,97937948
+2005;Languedoc-Roussillon;vétérans (50 ans et plus);37,3
+2006;Languedoc-Roussillon;vétérans (50 ans et plus);38,2
+2007;Languedoc-Roussillon;vétérans (50 ans et plus);33,6
+2008;Languedoc-Roussillon;vétérans (50 ans et plus);35,1010101
+2009;Languedoc-Roussillon;vétérans (50 ans et plus);33,94584139
+2010;Languedoc-Roussillon;vétérans (50 ans et plus);36,86730506
+2011;Languedoc-Roussillon;vétérans (50 ans et plus);42,55924171
+2012;Languedoc-Roussillon;vétérans (50 ans et plus);36,52416357
+2013;Languedoc-Roussillon;vétérans (50 ans et plus);38,74674677
+2014;Languedoc-Roussillon;vétérans (50 ans et plus);44,09927064
+2015;Languedoc-Roussillon;vétérans (50 ans et plus);43,00758236
+2005;Limousin;vétérans (50 ans et plus);
+2006;Limousin;vétérans (50 ans et plus);
+2007;Limousin;vétérans (50 ans et plus);
+2008;Limousin;vétérans (50 ans et plus);
+2009;Limousin;vétérans (50 ans et plus);
+2010;Limousin;vétérans (50 ans et plus);32
+2011;Limousin;vétérans (50 ans et plus);
+2012;Limousin;vétérans (50 ans et plus);
+2013;Limousin;vétérans (50 ans et plus);
+2014;Limousin;vétérans (50 ans et plus);
+2015;Limousin;vétérans (50 ans et plus);
+2005;Lorraine;vétérans (50 ans et plus);26,4
+2006;Lorraine;vétérans (50 ans et plus);28
+2007;Lorraine;vétérans (50 ans et plus);23,1
+2008;Lorraine;vétérans (50 ans et plus);21,71492205
+2009;Lorraine;vétérans (50 ans et plus);20,93541203
+2010;Lorraine;vétérans (50 ans et plus);23,61538462
+2011;Lorraine;vétérans (50 ans et plus);28,34101382
+2012;Lorraine;vétérans (50 ans et plus);26,68810289
+2013;Lorraine;vétérans (50 ans et plus);30,70555535
+2014;Lorraine;vétérans (50 ans et plus);37,13522555
+2015;Lorraine;vétérans (50 ans et plus);32,47840752
+2005;Midi-Pyrénées;vétérans (50 ans et plus);28,7
+2006;Midi-Pyrénées;vétérans (50 ans et plus);30,6
+2007;Midi-Pyrénées;vétérans (50 ans et plus);28,7
+2008;Midi-Pyrénées;vétérans (50 ans et plus);23,54521038
+2009;Midi-Pyrénées;vétérans (50 ans et plus);22,80102477
+2010;Midi-Pyrénées;vétérans (50 ans et plus);26,72160094
+2011;Midi-Pyrénées;vétérans (50 ans et plus);34,19773096
+2012;Midi-Pyrénées;vétérans (50 ans et plus);30,54357204
+2013;Midi-Pyrénées;vétérans (50 ans et plus);34,16283405
+2014;Midi-Pyrénées;vétérans (50 ans et plus);33,91562141
+2015;Midi-Pyrénées;vétérans (50 ans et plus);37,71276387
+2005;Nord-Pas-de-Calais;vétérans (50 ans et plus);23
+2006;Nord-Pas-de-Calais;vétérans (50 ans et plus);24,5
+2007;Nord-Pas-de-Calais;vétérans (50 ans et plus);22,5
+2008;Nord-Pas-de-Calais;vétérans (50 ans et plus);26,5625
+2009;Nord-Pas-de-Calais;vétérans (50 ans et plus);24,69304229
+2010;Nord-Pas-de-Calais;vétérans (50 ans et plus);25,46583851
+2011;Nord-Pas-de-Calais;vétérans (50 ans et plus);33,51762267
+2012;Nord-Pas-de-Calais;vétérans (50 ans et plus);27,82060266
+2013;Nord-Pas-de-Calais;vétérans (50 ans et plus);32,3654596
+2014;Nord-Pas-de-Calais;vétérans (50 ans et plus);34,98471765
+2015;Nord-Pas-de-Calais;vétérans (50 ans et plus);34,99317442
+2005;Pays de la Loire;vétérans (50 ans et plus);30,6
+2006;Pays de la Loire;vétérans (50 ans et plus);31,4
+2007;Pays de la Loire;vétérans (50 ans et plus);23,7
+2008;Pays de la Loire;vétérans (50 ans et plus);21,80663373
+2009;Pays de la Loire;vétérans (50 ans et plus);23,92073602
+2010;Pays de la Loire;vétérans (50 ans et plus);25,97647059
+2011;Pays de la Loire;vétérans (50 ans et plus);32,54189944
+2012;Pays de la Loire;vétérans (50 ans et plus);27,7173913
+2013;Pays de la Loire;vétérans (50 ans et plus);30,5325581
+2014;Pays de la Loire;vétérans (50 ans et plus);35,50104325
+2015;Pays de la Loire;vétérans (50 ans et plus);35,48166328
+2005;Picardie;vétérans (50 ans et plus);28
+2006;Picardie;vétérans (50 ans et plus);31
+2007;Picardie;vétérans (50 ans et plus);24,8
+2008;Picardie;vétérans (50 ans et plus);25,55746141
+2009;Picardie;vétérans (50 ans et plus);25,37593985
+2010;Picardie;vétérans (50 ans et plus);27,65151515
+2011;Picardie;vétérans (50 ans et plus);33,15118397
+2012;Picardie;vétérans (50 ans et plus);27,76699029
+2013;Picardie;vétérans (50 ans et plus);32,32807318
+2014;Picardie;vétérans (50 ans et plus);34,33368713
+2015;Picardie;vétérans (50 ans et plus);33,76762853
+2005;Poitou-Charentes;vétérans (50 ans et plus);36,3
+2006;Poitou-Charentes;vétérans (50 ans et plus);35,3
+2007;Poitou-Charentes;vétérans (50 ans et plus);29,8
+2008;Poitou-Charentes;vétérans (50 ans et plus);32,8525641
+2009;Poitou-Charentes;vétérans (50 ans et plus);30,98360656
+2010;Poitou-Charentes;vétérans (50 ans et plus);33,44907407
+2011;Poitou-Charentes;vétérans (50 ans et plus);36,01236476
+2012;Poitou-Charentes;vétérans (50 ans et plus);35,5862069
+2013;Poitou-Charentes;vétérans (50 ans et plus);43,41129758
+2014;Poitou-Charentes;vétérans (50 ans et plus);46,97531219
+2015;Poitou-Charentes;vétérans (50 ans et plus);46,78327146
+2005;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);35,2
+2006;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);36,2
+2007;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);34,6
+2008;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);33,85947047
+2009;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);32,34811166
+2010;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);35,80021874
+2011;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);41,90721649
+2012;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);36,83083512
+2013;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);42,5822669
+2014;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);44,48434784
+2015;Provence-Alpes-Côte-d'Azur;vétérans (50 ans et plus);45,00984159
+2005;Rhône-Alpes;vétérans (50 ans et plus);27,9
+2006;Rhône-Alpes;vétérans (50 ans et plus);29
+2007;Rhône-Alpes;vétérans (50 ans et plus);25,4
+2008;Rhône-Alpes;vétérans (50 ans et plus);25,78640777
+2009;Rhône-Alpes;vétérans (50 ans et plus);23,25994318
+2010;Rhône-Alpes;vétérans (50 ans et plus);27,12240869
+2011;Rhône-Alpes;vétérans (50 ans et plus);31,64556962
+2012;Rhône-Alpes;vétérans (50 ans et plus);30,39855072
+2013;Rhône-Alpes;vétérans (50 ans et plus);35,67915766
+2014;Rhône-Alpes;vétérans (50 ans et plus);36,9852473
+2015;Rhône-Alpes;vétérans (50 ans et plus);38,49535215
+2005;Alsace;CSP+;26,4
+2006;Alsace;CSP+;25,8
+2007;Alsace;CSP+;25,9
+2008;Alsace;CSP+;23,69109948
+2009;Alsace;CSP+;27,22443559
+2010;Alsace;CSP+;26,02262837
+2011;Alsace;CSP+;37,05463183
+2012;Alsace;CSP+;28,33957553
+2013;Alsace;CSP+;28,32203533
+2014;Alsace;CSP+;28,89553301
+2015;Alsace;CSP+;28,99119211
+2005;Aquitaine;CSP+;24,3
+2006;Aquitaine;CSP+;25,2
+2007;Aquitaine;CSP+;29,4
+2008;Aquitaine;CSP+;25,01973165
+2009;Aquitaine;CSP+;25,97187758
+2010;Aquitaine;CSP+;24,10526316
+2011;Aquitaine;CSP+;27,02702703
+2012;Aquitaine;CSP+;24,90788504
+2013;Aquitaine;CSP+;27,25967758
+2014;Aquitaine;CSP+;25,34478935
+2015;Aquitaine;CSP+;28,27479723
+2005;Auvergne;CSP+;25,3
+2006;Auvergne;CSP+;23
+2007;Auvergne;CSP+;28,6
+2008;Auvergne;CSP+;29,93348115
+2009;Auvergne;CSP+;26,66666667
+2010;Auvergne;CSP+;27,77777778
+2011;Auvergne;CSP+;29,37062937
+2012;Auvergne;CSP+;26,68067227
+2013;Auvergne;CSP+;24,9209117
+2014;Auvergne;CSP+;28,10069356
+2015;Auvergne;CSP+;30,24085492
+2005;Basse-Normandie;CSP+;26,6
+2006;Basse-Normandie;CSP+;24,8
+2007;Basse-Normandie;CSP+;27,8
+2008;Basse-Normandie;CSP+;26,52631579
+2009;Basse-Normandie;CSP+;24,71910112
+2010;Basse-Normandie;CSP+;19,75945017
+2011;Basse-Normandie;CSP+;23,52941176
+2012;Basse-Normandie;CSP+;24,41860465
+2013;Basse-Normandie;CSP+;26,19770589
+2014;Basse-Normandie;CSP+;21,81796799
+2015;Basse-Normandie;CSP+;24,87494194
+2005;Bourgogne;CSP+;25,5
+2006;Bourgogne;CSP+;23,7
+2007;Bourgogne;CSP+;26,1
+2008;Bourgogne;CSP+;25,43859649
+2009;Bourgogne;CSP+;28,54545455
+2010;Bourgogne;CSP+;22,76214834
+2011;Bourgogne;CSP+;28,90070922
+2012;Bourgogne;CSP+;28,28438949
+2013;Bourgogne;CSP+;23,11011664
+2014;Bourgogne;CSP+;25,2003013
+2015;Bourgogne;CSP+;25,97940917
+2005;Bretagne;CSP+;20,6
+2006;Bretagne;CSP+;26,3
+2007;Bretagne;CSP+;28,4
+2008;Bretagne;CSP+;26,67771334
+2009;Bretagne;CSP+;24,72527473
+2010;Bretagne;CSP+;24,50508293
+2011;Bretagne;CSP+;28,894081
+2012;Bretagne;CSP+;25,59139785
+2013;Bretagne;CSP+;23,64792734
+2014;Bretagne;CSP+;26,11262067
+2015;Bretagne;CSP+;25,34383544
+2005;Centre;CSP+;19,1
+2006;Centre;CSP+;26,1
+2007;Centre;CSP+;28,2
+2008;Centre;CSP+;28,52729145
+2009;Centre;CSP+;25
+2010;Centre;CSP+;26,94753577
+2011;Centre;CSP+;30,63157895
+2012;Centre;CSP+;26,25118036
+2013;Centre;CSP+;29,20737902
+2014;Centre;CSP+;26,58395416
+2015;Centre;CSP+;28,50608495
+2005;Champagne-Ardenne;CSP+;27,9
+2006;Champagne-Ardenne;CSP+;29,1
+2007;Champagne-Ardenne;CSP+;31
+2008;Champagne-Ardenne;CSP+;24,80417755
+2009;Champagne-Ardenne;CSP+;23,52941176
+2010;Champagne-Ardenne;CSP+;24,90196078
+2011;Champagne-Ardenne;CSP+;25,99469496
+2012;Champagne-Ardenne;CSP+;29,77272727
+2013;Champagne-Ardenne;CSP+;24,79815846
+2014;Champagne-Ardenne;CSP+;23,51558647
+2015;Champagne-Ardenne;CSP+;23,60411066
+2005;Corse;CSP+;
+2006;Corse;CSP+;
+2007;Corse;CSP+;
+2008;Corse;CSP+;
+2009;Corse;CSP+;
+2010;Corse;CSP+;
+2011;Corse;CSP+;
+2012;Corse;CSP+;
+2013;Corse;CSP+;
+2014;Corse;CSP+;
+2015;Corse;CSP+;
+2005;Franche-Comté;CSP+;22,4
+2006;Franche-Comté;CSP+;24
+2007;Franche-Comté;CSP+;25,4
+2008;Franche-Comté;CSP+;25,13661202
+2009;Franche-Comté;CSP+;24,61139896
+2010;Franche-Comté;CSP+;24,2248062
+2011;Franche-Comté;CSP+;29,06976744
+2012;Franche-Comté;CSP+;24,36260623
+2013;Franche-Comté;CSP+;24,78431489
+2014;Franche-Comté;CSP+;22,65307345
+2015;Franche-Comté;CSP+;22,99605357
+2005;Haute-Normandie;CSP+;28,3
+2006;Haute-Normandie;CSP+;23,9
+2007;Haute-Normandie;CSP+;28,3
+2008;Haute-Normandie;CSP+;26,9296741
+2009;Haute-Normandie;CSP+;30,83333333
+2010;Haute-Normandie;CSP+;24,81012658
+2011;Haute-Normandie;CSP+;25,68027211
+2012;Haute-Normandie;CSP+;25,04038772
+2013;Haute-Normandie;CSP+;25,71009119
+2014;Haute-Normandie;CSP+;23,33741175
+2015;Haute-Normandie;CSP+;21,32336342
+2005;Ile-de-France;CSP+;39,5
+2006;Ile-de-France;CSP+;36,2
+2007;Ile-de-France;CSP+;32,2
+2008;Ile-de-France;CSP+;36,94376065
+2009;Ile-de-France;CSP+;38,75689033
+2010;Ile-de-France;CSP+;37,7342102
+2011;Ile-de-France;CSP+;41,83864916
+2012;Ile-de-France;CSP+;40,17738359
+2013;Ile-de-France;CSP+;42,14488881
+2014;Ile-de-France;CSP+;42,95462277
+2015;Ile-de-France;CSP+;42,42999239
+2005;Languedoc-Roussillon;CSP+;23,1
+2006;Languedoc-Roussillon;CSP+;24,9
+2007;Languedoc-Roussillon;CSP+;29,4
+2008;Languedoc-Roussillon;CSP+;26,26262626
+2009;Languedoc-Roussillon;CSP+;23,98452611
+2010;Languedoc-Roussillon;CSP+;25,44459644
+2011;Languedoc-Roussillon;CSP+;27,96208531
+2012;Languedoc-Roussillon;CSP+;26,95167286
+2013;Languedoc-Roussillon;CSP+;24,97674386
+2014;Languedoc-Roussillon;CSP+;27,27947869
+2015;Languedoc-Roussillon;CSP+;25,36673289
+2005;Limousin;CSP+;
+2006;Limousin;CSP+;
+2007;Limousin;CSP+;
+2008;Limousin;CSP+;
+2009;Limousin;CSP+;
+2010;Limousin;CSP+;20,66666667
+2011;Limousin;CSP+;
+2012;Limousin;CSP+;
+2013;Limousin;CSP+;
+2014;Limousin;CSP+;
+2015;Limousin;CSP+;
+2005;Lorraine;CSP+;21,9
+2006;Lorraine;CSP+;23,8
+2007;Lorraine;CSP+;28,8
+2008;Lorraine;CSP+;25,38975501
+2009;Lorraine;CSP+;27,1714922
+2010;Lorraine;CSP+;21,07692308
+2011;Lorraine;CSP+;27,30414747
+2012;Lorraine;CSP+;24,65166131
+2013;Lorraine;CSP+;26,49506903
+2014;Lorraine;CSP+;27,89516474
+2015;Lorraine;CSP+;28,25565154
+2005;Midi-Pyrénées;CSP+;28,4
+2006;Midi-Pyrénées;CSP+;28
+2007;Midi-Pyrénées;CSP+;31,4
+2008;Midi-Pyrénées;CSP+;29,18531782
+2009;Midi-Pyrénées;CSP+;29,80358668
+2010;Midi-Pyrénées;CSP+;28,13419659
+2011;Midi-Pyrénées;CSP+;30,71312804
+2012;Midi-Pyrénées;CSP+;31,8377912
+2013;Midi-Pyrénées;CSP+;32,12301495
+2014;Midi-Pyrénées;CSP+;35,09541432
+2015;Midi-Pyrénées;CSP+;33,30971863
+2005;Nord-Pas-de-Calais;CSP+;26,3
+2006;Nord-Pas-de-Calais;CSP+;24,9
+2007;Nord-Pas-de-Calais;CSP+;24,8
+2008;Nord-Pas-de-Calais;CSP+;25,4076087
+2009;Nord-Pas-de-Calais;CSP+;25,579809
+2010;Nord-Pas-de-Calais;CSP+;24,3191591
+2011;Nord-Pas-de-Calais;CSP+;29,30200415
+2012;Nord-Pas-de-Calais;CSP+;25,50805886
+2013;Nord-Pas-de-Calais;CSP+;27,20014726
+2014;Nord-Pas-de-Calais;CSP+;26,74859592
+2015;Nord-Pas-de-Calais;CSP+;25,89830469
+2005;Pays de la Loire;CSP+;21,8
+2006;Pays de la Loire;CSP+;22,9
+2007;Pays de la Loire;CSP+;26,8
+2008;Pays de la Loire;CSP+;24,34721242
+2009;Pays de la Loire;CSP+;25,76079264
+2010;Pays de la Loire;CSP+;20,70588235
+2011;Pays de la Loire;CSP+;23,25418994
+2012;Pays de la Loire;CSP+;25,67934783
+2013;Pays de la Loire;CSP+;25,26592482
+2014;Pays de la Loire;CSP+;23,90557482
+2015;Pays de la Loire;CSP+;25,62259694
+2005;Picardie;CSP+;25,3
+2006;Picardie;CSP+;24,8
+2007;Picardie;CSP+;28
+2008;Picardie;CSP+;28,81646655
+2009;Picardie;CSP+;27,44360902
+2010;Picardie;CSP+;25,63131313
+2011;Picardie;CSP+;33,15118397
+2012;Picardie;CSP+;29,32038835
+2013;Picardie;CSP+;28,03245854
+2014;Picardie;CSP+;28,31027392
+2015;Picardie;CSP+;32,23551957
+2005;Poitou-Charentes;CSP+;22,3
+2006;Poitou-Charentes;CSP+;21,2
+2007;Poitou-Charentes;CSP+;22,4
+2008;Poitou-Charentes;CSP+;25,16025641
+2009;Poitou-Charentes;CSP+;25,73770492
+2010;Poitou-Charentes;CSP+;22,10648148
+2011;Poitou-Charentes;CSP+;22,56568779
+2012;Poitou-Charentes;CSP+;22,75862069
+2013;Poitou-Charentes;CSP+;25,04297121
+2014;Poitou-Charentes;CSP+;25,14719428
+2015;Poitou-Charentes;CSP+;24,02320678
+2005;Provence-Alpes-Côte-d'Azur;CSP+;29
+2006;Provence-Alpes-Côte-d'Azur;CSP+;28,9
+2007;Provence-Alpes-Côte-d'Azur;CSP+;31,2
+2008;Provence-Alpes-Côte-d'Azur;CSP+;30,0407332
+2009;Provence-Alpes-Côte-d'Azur;CSP+;30,10399562
+2010;Provence-Alpes-Côte-d'Azur;CSP+;25,15493985
+2011;Provence-Alpes-Côte-d'Azur;CSP+;31,59793814
+2012;Provence-Alpes-Côte-d'Azur;CSP+;30,29978587
+2013;Provence-Alpes-Côte-d'Azur;CSP+;28,64379128
+2014;Provence-Alpes-Côte-d'Azur;CSP+;30,25452917
+2015;Provence-Alpes-Côte-d'Azur;CSP+;29,79959715
+2005;Rhône-Alpes;CSP+;25,7
+2006;Rhône-Alpes;CSP+;28,6
+2007;Rhône-Alpes;CSP+;30
+2008;Rhône-Alpes;CSP+;28,77669903
+2009;Rhône-Alpes;CSP+;29,26136364
+2010;Rhône-Alpes;CSP+;27,98617966
+2011;Rhône-Alpes;CSP+;31,50492264
+2012;Rhône-Alpes;CSP+;29,56521739
+2013;Rhône-Alpes;CSP+;29,91745689
+2014;Rhône-Alpes;CSP+;30,15007655
+2015;Rhône-Alpes;CSP+;29,24537503
+2005;Alsace;CSP-;30,9
+2006;Alsace;CSP-;32
+2007;Alsace;CSP-;33,6
+2008;Alsace;CSP-;33,37696335
+2009;Alsace;CSP-;31,73970784
+2010;Alsace;CSP-;34,46475196
+2011;Alsace;CSP-;31,47268409
+2012;Alsace;CSP-;33,70786517
+2013;Alsace;CSP-;31,6816439
+2014;Alsace;CSP-;32,7443828
+2015;Alsace;CSP-;32,84980448
+2005;Aquitaine;CSP-;27,1
+2006;Aquitaine;CSP-;28,8
+2007;Aquitaine;CSP-;27,9
+2008;Aquitaine;CSP-;28,25572218
+2009;Aquitaine;CSP-;27,95698925
+2010;Aquitaine;CSP-;30,78947368
+2011;Aquitaine;CSP-;28,70708546
+2012;Aquitaine;CSP-;28,07663965
+2013;Aquitaine;CSP-;28,79182647
+2014;Aquitaine;CSP-;27,72452463
+2015;Aquitaine;CSP-;28,93474581
+2005;Auvergne;CSP-;28,6
+2006;Auvergne;CSP-;27,4
+2007;Auvergne;CSP-;28,2
+2008;Auvergne;CSP-;26,38580931
+2009;Auvergne;CSP-;31,1827957
+2010;Auvergne;CSP-;31,38138138
+2011;Auvergne;CSP-;33,56643357
+2012;Auvergne;CSP-;32,98319328
+2013;Auvergne;CSP-;27,18142452
+2014;Auvergne;CSP-;25,21237939
+2015;Auvergne;CSP-;23,0441004
+2005;Basse-Normandie;CSP-;25,6
+2006;Basse-Normandie;CSP-;26,9
+2007;Basse-Normandie;CSP-;28,5
+2008;Basse-Normandie;CSP-;27,15789474
+2009;Basse-Normandie;CSP-;34,38202247
+2010;Basse-Normandie;CSP-;36,59793814
+2011;Basse-Normandie;CSP-;33,33333333
+2012;Basse-Normandie;CSP-;31,20155039
+2013;Basse-Normandie;CSP-;32,03079494
+2014;Basse-Normandie;CSP-;33,42665325
+2015;Basse-Normandie;CSP-;29,0326674
+2005;Bourgogne;CSP-;28,1
+2006;Bourgogne;CSP-;31,1
+2007;Bourgogne;CSP-;30,2
+2008;Bourgogne;CSP-;31,05263158
+2009;Bourgogne;CSP-;30
+2010;Bourgogne;CSP-;35,03836317
+2011;Bourgogne;CSP-;34,75177305
+2012;Bourgogne;CSP-;27,66615147
+2013;Bourgogne;CSP-;32,35614604
+2014;Bourgogne;CSP-;30,10559356
+2015;Bourgogne;CSP-;28,50857832
+2005;Bretagne;CSP-;27,4
+2006;Bretagne;CSP-;26,8
+2007;Bretagne;CSP-;26,9
+2008;Bretagne;CSP-;27,75476388
+2009;Bretagne;CSP-;28,64992151
+2010;Bretagne;CSP-;34,67094703
+2011;Bretagne;CSP-;33,48909657
+2012;Bretagne;CSP-;31,46953405
+2013;Bretagne;CSP-;29,39093895
+2014;Bretagne;CSP-;26,67925726
+2015;Bretagne;CSP-;28,10044439
+2005;Centre;CSP-;30,6
+2006;Centre;CSP-;28,6
+2007;Centre;CSP-;31
+2008;Centre;CSP-;28,42430484
+2009;Centre;CSP-;28,51239669
+2010;Centre;CSP-;32,59141494
+2011;Centre;CSP-;34,94736842
+2012;Centre;CSP-;33,89990557
+2013;Centre;CSP-;30,80470619
+2014;Centre;CSP-;31,04313544
+2015;Centre;CSP-;28,38951532
+2005;Champagne-Ardenne;CSP-;32,5
+2006;Champagne-Ardenne;CSP-;28,1
+2007;Champagne-Ardenne;CSP-;27,3
+2008;Champagne-Ardenne;CSP-;31,8537859
+2009;Champagne-Ardenne;CSP-;30,43478261
+2010;Champagne-Ardenne;CSP-;32,35294118
+2011;Champagne-Ardenne;CSP-;32,09549072
+2012;Champagne-Ardenne;CSP-;29,77272727
+2013;Champagne-Ardenne;CSP-;37,07108844
+2014;Champagne-Ardenne;CSP-;31,5424999
+2015;Champagne-Ardenne;CSP-;30,60396588
+2005;Corse;CSP-;
+2006;Corse;CSP-;
+2007;Corse;CSP-;
+2008;Corse;CSP-;
+2009;Corse;CSP-;
+2010;Corse;CSP-;
+2011;Corse;CSP-;
+2012;Corse;CSP-;
+2013;Corse;CSP-;
+2014;Corse;CSP-;
+2015;Corse;CSP-;
+2005;Franche-Comté;CSP-;32,8
+2006;Franche-Comté;CSP-;32,4
+2007;Franche-Comté;CSP-;32
+2008;Franche-Comté;CSP-;25,40983607
+2009;Franche-Comté;CSP-;29,2746114
+2010;Franche-Comté;CSP-;29,06976744
+2011;Franche-Comté;CSP-;26,45348837
+2012;Franche-Comté;CSP-;31,16147309
+2013;Franche-Comté;CSP-;33,92845983
+2014;Franche-Comté;CSP-;36,04417014
+2015;Franche-Comté;CSP-;31,23243809
+2005;Haute-Normandie;CSP-;28,3
+2006;Haute-Normandie;CSP-;35,1
+2007;Haute-Normandie;CSP-;27,9
+2008;Haute-Normandie;CSP-;28,13036021
+2009;Haute-Normandie;CSP-;30,5
+2010;Haute-Normandie;CSP-;31,64556962
+2011;Haute-Normandie;CSP-;29,25170068
+2012;Haute-Normandie;CSP-;27,14054927
+2013;Haute-Normandie;CSP-;31,13038597
+2014;Haute-Normandie;CSP-;26,48546485
+2015;Haute-Normandie;CSP-;29,73760175
+2005;Ile-de-France;CSP-;27
+2006;Ile-de-France;CSP-;27,8
+2007;Ile-de-France;CSP-;27,3
+2008;Ile-de-France;CSP-;24,04847567
+2009;Ile-de-France;CSP-;24,3109675
+2010;Ile-de-France;CSP-;24,38267775
+2011;Ile-de-France;CSP-;24,25379499
+2012;Ile-de-France;CSP-;22,54988914
+2013;Ile-de-France;CSP-;22,10668662
+2014;Ile-de-France;CSP-;22,14955822
+2015;Ile-de-France;CSP-;22,81416465
+2005;Languedoc-Roussillon;CSP-;25,8
+2006;Languedoc-Roussillon;CSP-;26,1
+2007;Languedoc-Roussillon;CSP-;27,5
+2008;Languedoc-Roussillon;CSP-;28,36700337
+2009;Languedoc-Roussillon;CSP-;26,11218569
+2010;Languedoc-Roussillon;CSP-;28,04377565
+2011;Languedoc-Roussillon;CSP-;27,67772512
+2012;Languedoc-Roussillon;CSP-;22,76951673
+2013;Languedoc-Roussillon;CSP-;26,69083873
+2014;Languedoc-Roussillon;CSP-;23,85118157
+2015;Languedoc-Roussillon;CSP-;26,05368742
+2005;Limousin;CSP-;
+2006;Limousin;CSP-;
+2007;Limousin;CSP-;
+2008;Limousin;CSP-;
+2009;Limousin;CSP-;
+2010;Limousin;CSP-;40,66666667
+2011;Limousin;CSP-;
+2012;Limousin;CSP-;
+2013;Limousin;CSP-;
+2014;Limousin;CSP-;
+2015;Limousin;CSP-;
+2005;Lorraine;CSP-;36,1
+2006;Lorraine;CSP-;32,9
+2007;Lorraine;CSP-;32,1
+2008;Lorraine;CSP-;33,18485523
+2009;Lorraine;CSP-;30,95768374
+2010;Lorraine;CSP-;33,07692308
+2011;Lorraine;CSP-;36,40552995
+2012;Lorraine;CSP-;30,33226152
+2013;Lorraine;CSP-;33,25406148
+2014;Lorraine;CSP-;29,63144021
+2015;Lorraine;CSP-;34,72402196
+2005;Midi-Pyrénées;CSP-;29,2
+2006;Midi-Pyrénées;CSP-;27,7
+2007;Midi-Pyrénées;CSP-;25,3
+2008;Midi-Pyrénées;CSP-;28,55863921
+2009;Midi-Pyrénées;CSP-;27,24167378
+2010;Midi-Pyrénées;CSP-;30,0765156
+2011;Midi-Pyrénées;CSP-;31,9286872
+2012;Midi-Pyrénées;CSP-;28,04141501
+2013;Midi-Pyrénées;CSP-;25,54290537
+2014;Midi-Pyrénées;CSP-;24,6716645
+2015;Midi-Pyrénées;CSP-;23,1473886
+2005;Nord-Pas-de-Calais;CSP-;28,7
+2006;Nord-Pas-de-Calais;CSP-;28,3
+2007;Nord-Pas-de-Calais;CSP-;29
+2008;Nord-Pas-de-Calais;CSP-;28,26086957
+2009;Nord-Pas-de-Calais;CSP-;28,78581173
+2010;Nord-Pas-de-Calais;CSP-;31,15145724
+2011;Nord-Pas-de-Calais;CSP-;29,64754665
+2012;Nord-Pas-de-Calais;CSP-;28,03083392
+2013;Nord-Pas-de-Calais;CSP-;27,90334187
+2014;Nord-Pas-de-Calais;CSP-;26,90590074
+2015;Nord-Pas-de-Calais;CSP-;25,42821709
+2005;Pays de la Loire;CSP-;28,4
+2006;Pays de la Loire;CSP-;29,2
+2007;Pays de la Loire;CSP-;28,9
+2008;Pays de la Loire;CSP-;30,20465773
+2009;Pays de la Loire;CSP-;29,72399151
+2010;Pays de la Loire;CSP-;37,41176471
+2011;Pays de la Loire;CSP-;36,24301676
+2012;Pays de la Loire;CSP-;34,51086957
+2013;Pays de la Loire;CSP-;30,2320584
+2014;Pays de la Loire;CSP-;32,92074863
+2015;Pays de la Loire;CSP-;32,71327786
+2005;Picardie;CSP-;27,5
+2006;Picardie;CSP-;30,1
+2007;Picardie;CSP-;29,4
+2008;Picardie;CSP-;28,98799314
+2009;Picardie;CSP-;34,39849624
+2010;Picardie;CSP-;34,5959596
+2011;Picardie;CSP-;30,96539162
+2012;Picardie;CSP-;26,01941748
+2013;Picardie;CSP-;24,02783408
+2014;Picardie;CSP-;25,61125301
+2015;Picardie;CSP-;25,49718184
+2005;Poitou-Charentes;CSP-;28,4
+2006;Poitou-Charentes;CSP-;29,3
+2007;Poitou-Charentes;CSP-;32,1
+2008;Poitou-Charentes;CSP-;23,55769231
+2009;Poitou-Charentes;CSP-;24,59016393
+2010;Poitou-Charentes;CSP-;32,75462963
+2011;Poitou-Charentes;CSP-;34,77588872
+2012;Poitou-Charentes;CSP-;31,17241379
+2013;Poitou-Charentes;CSP-;28,00517991
+2014;Poitou-Charentes;CSP-;26,27187709
+2015;Poitou-Charentes;CSP-;24,62719084
+2005;Provence-Alpes-Côte-d'Azur;CSP-;28,9
+2006;Provence-Alpes-Côte-d'Azur;CSP-;28,5
+2007;Provence-Alpes-Côte-d'Azur;CSP-;26,9
+2008;Provence-Alpes-Côte-d'Azur;CSP-;29,27698574
+2009;Provence-Alpes-Côte-d'Azur;CSP-;27,20306513
+2010;Provence-Alpes-Côte-d'Azur;CSP-;30,8056872
+2011;Provence-Alpes-Côte-d'Azur;CSP-;26,95876289
+2012;Provence-Alpes-Côte-d'Azur;CSP-;26,28479657
+2013;Provence-Alpes-Côte-d'Azur;CSP-;25,24338813
+2014;Provence-Alpes-Côte-d'Azur;CSP-;24,51451763
+2015;Provence-Alpes-Côte-d'Azur;CSP-;25,53004881
+2005;Rhône-Alpes;CSP-;31
+2006;Rhône-Alpes;CSP-;29,8
+2007;Rhône-Alpes;CSP-;30,4
+2008;Rhône-Alpes;CSP-;29,78640777
+2009;Rhône-Alpes;CSP-;30,89488636
+2010;Rhône-Alpes;CSP-;31,61401777
+2011;Rhône-Alpes;CSP-;31,64556962
+2012;Rhône-Alpes;CSP-;30,50724638
+2013;Rhône-Alpes;CSP-;28,95814469
+2014;Rhône-Alpes;CSP-;29,95892002
+2015;Rhône-Alpes;CSP-;29,03554687
+2005;Alsace;inactif étudiant;21,7
+2006;Alsace;inactif étudiant;19,6
+2007;Alsace;inactif étudiant;19,7
+2008;Alsace;inactif étudiant;18,97905759
+2009;Alsace;inactif étudiant;18,06108898
+2010;Alsace;inactif étudiant;14,53437772
+2011;Alsace;inactif étudiant;10,33254157
+2012;Alsace;inactif étudiant;12,7340824
+2013;Alsace;inactif étudiant;12,27075089
+2014;Alsace;inactif étudiant;10,80834928
+2015;Alsace;inactif étudiant;9,513836045
+2005;Aquitaine;inactif étudiant;16,9
+2006;Aquitaine;inactif étudiant;16,1
+2007;Aquitaine;inactif étudiant;17,4
+2008;Aquitaine;inactif étudiant;16,81136543
+2009;Aquitaine;inactif étudiant;16,12903226
+2010;Aquitaine;inactif étudiant;12,26315789
+2011;Aquitaine;inactif étudiant;9,861212564
+2012;Aquitaine;inactif étudiant;13,48563007
+2013;Aquitaine;inactif étudiant;12,28361067
+2014;Aquitaine;inactif étudiant;9,247473198
+2015;Aquitaine;inactif étudiant;10,1320561
+2005;Auvergne;inactif étudiant;18,7
+2006;Auvergne;inactif étudiant;15,7
+2007;Auvergne;inactif étudiant;19
+2008;Auvergne;inactif étudiant;22,172949
+2009;Auvergne;inactif étudiant;17,20430108
+2010;Auvergne;inactif étudiant;14,11411411
+2011;Auvergne;inactif étudiant;10,02331002
+2012;Auvergne;inactif étudiant;13,65546218
+2013;Auvergne;inactif étudiant;13,00029482
+2014;Auvergne;inactif étudiant;11,10272053
+2015;Auvergne;inactif étudiant;13,38437649
+2005;Basse-Normandie;inactif étudiant;19,7
+2006;Basse-Normandie;inactif étudiant;17,9
+2007;Basse-Normandie;inactif étudiant;21,6
+2008;Basse-Normandie;inactif étudiant;20
+2009;Basse-Normandie;inactif étudiant;20,4494382
+2010;Basse-Normandie;inactif étudiant;12,02749141
+2011;Basse-Normandie;inactif étudiant;10,29411765
+2012;Basse-Normandie;inactif étudiant;14,34108527
+2013;Basse-Normandie;inactif étudiant;12,91092998
+2014;Basse-Normandie;inactif étudiant;10,38326855
+2015;Basse-Normandie;inactif étudiant;14,04814337
+2005;Bourgogne;inactif étudiant;19
+2006;Bourgogne;inactif étudiant;20,7
+2007;Bourgogne;inactif étudiant;20,4
+2008;Bourgogne;inactif étudiant;22,45614035
+2009;Bourgogne;inactif étudiant;19,81818182
+2010;Bourgogne;inactif étudiant;15,60102302
+2011;Bourgogne;inactif étudiant;8,865248227
+2012;Bourgogne;inactif étudiant;13,60123648
+2013;Bourgogne;inactif étudiant;11,77314692
+2014;Bourgogne;inactif étudiant;8,326485192
+2015;Bourgogne;inactif étudiant;10,57170263
+2005;Bretagne;inactif étudiant;22,4
+2006;Bretagne;inactif étudiant;20,6
+2007;Bretagne;inactif étudiant;21,5
+2008;Bretagne;inactif étudiant;21,62386081
+2009;Bretagne;inactif étudiant;21,5855573
+2010;Bretagne;inactif étudiant;12,03852327
+2011;Bretagne;inactif étudiant;9,267912773
+2012;Bretagne;inactif étudiant;14,91039427
+2013;Bretagne;inactif étudiant;15,62288408
+2014;Bretagne;inactif étudiant;13,26932714
+2015;Bretagne;inactif étudiant;11,07240635
+2005;Centre;inactif étudiant;20
+2006;Centre;inactif étudiant;17,8
+2007;Centre;inactif étudiant;19,6
+2008;Centre;inactif étudiant;20,49433574
+2009;Centre;inactif étudiant;20,04132231
+2010;Centre;inactif étudiant;13,11605723
+2011;Centre;inactif étudiant;10,21052632
+2012;Centre;inactif étudiant;13,22001889
+2013;Centre;inactif étudiant;11,82464418
+2014;Centre;inactif étudiant;10,66377132
+2015;Centre;inactif étudiant;9,747438482
+2005;Champagne-Ardenne;inactif étudiant;22,4
+2006;Champagne-Ardenne;inactif étudiant;19,3
+2007;Champagne-Ardenne;inactif étudiant;22,6
+2008;Champagne-Ardenne;inactif étudiant;16,71018277
+2009;Champagne-Ardenne;inactif étudiant;18,9258312
+2010;Champagne-Ardenne;inactif étudiant;10,19607843
+2011;Champagne-Ardenne;inactif étudiant;11,67108753
+2012;Champagne-Ardenne;inactif étudiant;18,86363636
+2013;Champagne-Ardenne;inactif étudiant;11,73682033
+2014;Champagne-Ardenne;inactif étudiant;15,95233348
+2015;Champagne-Ardenne;inactif étudiant;15,00645366
+2005;Corse;inactif étudiant;
+2006;Corse;inactif étudiant;
+2007;Corse;inactif étudiant;
+2008;Corse;inactif étudiant;
+2009;Corse;inactif étudiant;
+2010;Corse;inactif étudiant;
+2011;Corse;inactif étudiant;
+2012;Corse;inactif étudiant;
+2013;Corse;inactif étudiant;
+2014;Corse;inactif étudiant;
+2015;Corse;inactif étudiant;
+2005;Franche-Comté;inactif étudiant;22,1
+2006;Franche-Comté;inactif étudiant;20,9
+2007;Franche-Comté;inactif étudiant;21,2
+2008;Franche-Comté;inactif étudiant;21,8579235
+2009;Franche-Comté;inactif étudiant;17,61658031
+2010;Franche-Comté;inactif étudiant;16,86046512
+2011;Franche-Comté;inactif étudiant;12,5
+2012;Franche-Comté;inactif étudiant;15,01416431
+2013;Franche-Comté;inactif étudiant;11,11192185
+2014;Franche-Comté;inactif étudiant;11,86460203
+2015;Franche-Comté;inactif étudiant;11,17911948
+2005;Haute-Normandie;inactif étudiant;19,4
+2006;Haute-Normandie;inactif étudiant;17
+2007;Haute-Normandie;inactif étudiant;21,4
+2008;Haute-Normandie;inactif étudiant;18,69639794
+2009;Haute-Normandie;inactif étudiant;14
+2010;Haute-Normandie;inactif étudiant;14,6835443
+2011;Haute-Normandie;inactif étudiant;11,9047619
+2012;Haute-Normandie;inactif étudiant;19,38610662
+2013;Haute-Normandie;inactif étudiant;14,98171827
+2014;Haute-Normandie;inactif étudiant;15,54696109
+2015;Haute-Normandie;inactif étudiant;16,09880792
+2005;Ile-de-France;inactif étudiant;12,5
+2006;Ile-de-France;inactif étudiant;15,3
+2007;Ile-de-France;inactif étudiant;19,6
+2008;Ile-de-France;inactif étudiant;19,84472638
+2009;Ile-de-France;inactif étudiant;16,42273332
+2010;Ile-de-France;inactif étudiant;14,15808413
+2011;Ile-de-France;inactif étudiant;9,193245779
+2012;Ile-de-France;inactif étudiant;15,14412417
+2013;Ile-de-France;inactif étudiant;10,97686906
+2014;Ile-de-France;inactif étudiant;9,062973237
+2015;Ile-de-France;inactif étudiant;9,751190546
+2005;Languedoc-Roussillon;inactif étudiant;12,8
+2006;Languedoc-Roussillon;inactif étudiant;13,7
+2007;Languedoc-Roussillon;inactif étudiant;15,5
+2008;Languedoc-Roussillon;inactif étudiant;15,15151515
+2009;Languedoc-Roussillon;inactif étudiant;16,344294
+2010;Languedoc-Roussillon;inactif étudiant;11,96990424
+2011;Languedoc-Roussillon;inactif étudiant;7,867298578
+2012;Languedoc-Roussillon;inactif étudiant;15,5204461
+2013;Languedoc-Roussillon;inactif étudiant;14,74527612
+2014;Languedoc-Roussillon;inactif étudiant;12,13579044
+2015;Languedoc-Roussillon;inactif étudiant;12,7509182
+2005;Limousin;inactif étudiant;
+2006;Limousin;inactif étudiant;
+2007;Limousin;inactif étudiant;
+2008;Limousin;inactif étudiant;
+2009;Limousin;inactif étudiant;
+2010;Limousin;inactif étudiant;9,333333333
+2011;Limousin;inactif étudiant;
+2012;Limousin;inactif étudiant;
+2013;Limousin;inactif étudiant;
+2014;Limousin;inactif étudiant;
+2015;Limousin;inactif étudiant;
+2005;Lorraine;inactif étudiant;16,6
+2006;Lorraine;inactif étudiant;18,6
+2007;Lorraine;inactif étudiant;17,8
+2008;Lorraine;inactif étudiant;20,26726058
+2009;Lorraine;inactif étudiant;23,27394209
+2010;Lorraine;inactif étudiant;19,69230769
+2011;Lorraine;inactif étudiant;9,907834101
+2012;Lorraine;inactif étudiant;16,18435155
+2013;Lorraine;inactif étudiant;12,62532175
+2014;Lorraine;inactif étudiant;12,48393895
+2015;Lorraine;inactif étudiant;11,45029812
+2005;Midi-Pyrénées;inactif étudiant;19,8
+2006;Midi-Pyrénées;inactif étudiant;17
+2007;Midi-Pyrénées;inactif étudiant;18,7
+2008;Midi-Pyrénées;inactif étudiant;20,14324082
+2009;Midi-Pyrénées;inactif étudiant;18,36037575
+2010;Midi-Pyrénées;inactif étudiant;15,12654503
+2011;Midi-Pyrénées;inactif étudiant;9,724473258
+2012;Midi-Pyrénées;inactif étudiant;13,80500431
+2013;Midi-Pyrénées;inactif étudiant;13,51361973
+2014;Midi-Pyrénées;inactif étudiant;11,01763114
+2015;Midi-Pyrénées;inactif étudiant;12,28308432
+2005;Nord-Pas-de-Calais;inactif étudiant;22,6
+2006;Nord-Pas-de-Calais;inactif étudiant;21,3
+2007;Nord-Pas-de-Calais;inactif étudiant;23,6
+2008;Nord-Pas-de-Calais;inactif étudiant;18,75
+2009;Nord-Pas-de-Calais;inactif étudiant;18,89495225
+2010;Nord-Pas-de-Calais;inactif étudiant;15,86239847
+2011;Nord-Pas-de-Calais;inactif étudiant;10,22805805
+2012;Nord-Pas-de-Calais;inactif étudiant;16,88857744
+2013;Nord-Pas-de-Calais;inactif étudiant;16,16850852
+2014;Nord-Pas-de-Calais;inactif étudiant;13,66017371
+2015;Nord-Pas-de-Calais;inactif étudiant;14,72094995
+2005;Pays de la Loire;inactif étudiant;22
+2006;Pays de la Loire;inactif étudiant;18,9
+2007;Pays de la Loire;inactif étudiant;22,7
+2008;Pays de la Loire;inactif étudiant;22,86520819
+2009;Pays de la Loire;inactif étudiant;19,60368011
+2010;Pays de la Loire;inactif étudiant;13,6
+2011;Pays de la Loire;inactif étudiant;10,26536313
+2012;Pays de la Loire;inactif étudiant;13,79076087
+2013;Pays de la Loire;inactif étudiant;16,60932879
+2014;Pays de la Loire;inactif étudiant;12,75486951
+2015;Pays de la Loire;inactif étudiant;14,38303079
+2005;Picardie;inactif étudiant;17,5
+2006;Picardie;inactif étudiant;17,4
+2007;Picardie;inactif étudiant;21,3
+2008;Picardie;inactif étudiant;17,49571184
+2009;Picardie;inactif étudiant;16,16541353
+2010;Picardie;inactif étudiant;12,37373737
+2011;Picardie;inactif étudiant;8,196721311
+2012;Picardie;inactif étudiant;16,50485437
+2013;Picardie;inactif étudiant;18,19647448
+2014;Picardie;inactif étudiant;13,13314345
+2015;Picardie;inactif étudiant;14,49299387
+2005;Poitou-Charentes;inactif étudiant;17,5
+2006;Poitou-Charentes;inactif étudiant;15,1
+2007;Poitou-Charentes;inactif étudiant;17,6
+2008;Poitou-Charentes;inactif étudiant;19,87179487
+2009;Poitou-Charentes;inactif étudiant;18,36065574
+2010;Poitou-Charentes;inactif étudiant;10,41666667
+2011;Poitou-Charentes;inactif étudiant;8,809891808
+2012;Poitou-Charentes;inactif étudiant;11,44827586
+2013;Poitou-Charentes;inactif étudiant;11,41230288
+2014;Poitou-Charentes;inactif étudiant;11,84494626
+2015;Poitou-Charentes;inactif étudiant;13,71670722
+2005;Provence-Alpes-Côte-d'Azur;inactif étudiant;11,8
+2006;Provence-Alpes-Côte-d'Azur;inactif étudiant;12,7
+2007;Provence-Alpes-Côte-d'Azur;inactif étudiant;14,9
+2008;Provence-Alpes-Côte-d'Azur;inactif étudiant;13,18737271
+2009;Provence-Alpes-Côte-d'Azur;inactif étudiant;12,91735085
+2010;Provence-Alpes-Côte-d'Azur;inactif étudiant;11,30149471
+2011;Provence-Alpes-Côte-d'Azur;inactif étudiant;8,762886598
+2012;Provence-Alpes-Côte-d'Azur;inactif étudiant;12,63383298
+2013;Provence-Alpes-Côte-d'Azur;inactif étudiant;11,06213711
+2014;Provence-Alpes-Côte-d'Azur;inactif étudiant;9,053351409
+2015;Provence-Alpes-Côte-d'Azur;inactif étudiant;9,573878305
+2005;Rhône-Alpes;inactif étudiant;18,5
+2006;Rhône-Alpes;inactif étudiant;16
+2007;Rhône-Alpes;inactif étudiant;19,8
+2008;Rhône-Alpes;inactif étudiant;19,68932039
+2009;Rhône-Alpes;inactif étudiant;17,93323864
+2010;Rhône-Alpes;inactif étudiant;13,32675222
+2011;Rhône-Alpes;inactif étudiant;9,915611814
+2012;Rhône-Alpes;inactif étudiant;12,86231884
+2013;Rhône-Alpes;inactif étudiant;12,36199124
+2014;Rhône-Alpes;inactif étudiant;11,05623445
+2015;Rhône-Alpes;inactif étudiant;10,80551534
+2005;Alsace;inactifs non étudiant;21
+2006;Alsace;inactifs non étudiant;22,6
+2007;Alsace;inactifs non étudiant;20,9
+2008;Alsace;inactifs non étudiant;23,95287958
+2009;Alsace;inactifs non étudiant;22,9747676
+2010;Alsace;inactifs non étudiant;24,97824195
+2011;Alsace;inactifs non étudiant;21,14014252
+2012;Alsace;inactifs non étudiant;25,2184769
+2013;Alsace;inactifs non étudiant;27,72556988
+2014;Alsace;inactifs non étudiant;27,55173491
+2015;Alsace;inactifs non étudiant;28,64516736
+2005;Aquitaine;inactifs non étudiant;31,6
+2006;Aquitaine;inactifs non étudiant;29,8
+2007;Aquitaine;inactifs non étudiant;25,3
+2008;Aquitaine;inactifs non étudiant;29,91318074
+2009;Aquitaine;inactifs non étudiant;29,94210091
+2010;Aquitaine;inactifs non étudiant;32,84210526
+2011;Aquitaine;inactifs non étudiant;34,40467495
+2012;Aquitaine;inactifs non étudiant;33,52984525
+2013;Aquitaine;inactifs non étudiant;31,66488528
+2014;Aquitaine;inactifs non étudiant;37,68321282
+2015;Aquitaine;inactifs non étudiant;32,65840086
+2005;Auvergne;inactifs non étudiant;27,1
+2006;Auvergne;inactifs non étudiant;34
+2007;Auvergne;inactifs non étudiant;24,2
+2008;Auvergne;inactifs non étudiant;21,50776053
+2009;Auvergne;inactifs non étudiant;24,94623656
+2010;Auvergne;inactifs non étudiant;26,72672673
+2011;Auvergne;inactifs non étudiant;27,03962704
+2012;Auvergne;inactifs non étudiant;26,68067227
+2013;Auvergne;inactifs non étudiant;34,89736897
+2014;Auvergne;inactifs non étudiant;35,58420652
+2015;Auvergne;inactifs non étudiant;33,33066818
+2005;Basse-Normandie;inactifs non étudiant;28,1
+2006;Basse-Normandie;inactifs non étudiant;30,4
+2007;Basse-Normandie;inactifs non étudiant;22,5
+2008;Basse-Normandie;inactifs non étudiant;26,31578947
+2009;Basse-Normandie;inactifs non étudiant;20,4494382
+2010;Basse-Normandie;inactifs non étudiant;31,61512027
+2011;Basse-Normandie;inactifs non étudiant;32,84313725
+2012;Basse-Normandie;inactifs non étudiant;30,03875969
+2013;Basse-Normandie;inactifs non étudiant;28,86056919
+2014;Basse-Normandie;inactifs non étudiant;34,3721102
+2015;Basse-Normandie;inactifs non étudiant;32,0442473
+2005;Bourgogne;inactifs non étudiant;27,1
+2006;Bourgogne;inactifs non étudiant;24,6
+2007;Bourgogne;inactifs non étudiant;23,4
+2008;Bourgogne;inactifs non étudiant;21,05263158
+2009;Bourgogne;inactifs non étudiant;21,63636364
+2010;Bourgogne;inactifs non étudiant;26,59846547
+2011;Bourgogne;inactifs non étudiant;27,4822695
+2012;Bourgogne;inactifs non étudiant;30,44822257
+2013;Bourgogne;inactifs non étudiant;32,7605904
+2014;Bourgogne;inactifs non étudiant;36,36761995
+2015;Bourgogne;inactifs non étudiant;34,94030988
+2005;Bretagne;inactifs non étudiant;29,6
+2006;Bretagne;inactifs non étudiant;26,3
+2007;Bretagne;inactifs non étudiant;23,2
+2008;Bretagne;inactifs non étudiant;23,94366197
+2009;Bretagne;inactifs non étudiant;25,03924647
+2010;Bretagne;inactifs non étudiant;28,78544676
+2011;Bretagne;inactifs non étudiant;28,34890966
+2012;Bretagne;inactifs non étudiant;28,02867384
+2013;Bretagne;inactifs non étudiant;31,33824963
+2014;Bretagne;inactifs non étudiant;33,93879493
+2015;Bretagne;inactifs non étudiant;35,48331382
+2005;Centre;inactifs non étudiant;30,4
+2006;Centre;inactifs non étudiant;27,5
+2007;Centre;inactifs non étudiant;21,4
+2008;Centre;inactifs non étudiant;22,55406797
+2009;Centre;inactifs non étudiant;26,44628099
+2010;Centre;inactifs non étudiant;27,34499205
+2011;Centre;inactifs non étudiant;24,21052632
+2012;Centre;inactifs non étudiant;26,62889518
+2013;Centre;inactifs non étudiant;28,16327061
+2014;Centre;inactifs non étudiant;31,70913908
+2015;Centre;inactifs non étudiant;33,35696124
+2005;Champagne-Ardenne;inactifs non étudiant;17,5
+2006;Champagne-Ardenne;inactifs non étudiant;23,5
+2007;Champagne-Ardenne;inactifs non étudiant;19,2
+2008;Champagne-Ardenne;inactifs non étudiant;26,63185379
+2009;Champagne-Ardenne;inactifs non étudiant;27,10997442
+2010;Champagne-Ardenne;inactifs non étudiant;32,54901961
+2011;Champagne-Ardenne;inactifs non étudiant;30,23872679
+2012;Champagne-Ardenne;inactifs non étudiant;21,59090909
+2013;Champagne-Ardenne;inactifs non étudiant;26,39393276
+2014;Champagne-Ardenne;inactifs non étudiant;28,98958015
+2015;Champagne-Ardenne;inactifs non étudiant;30,78546981
+2005;Corse;inactifs non étudiant;
+2006;Corse;inactifs non étudiant;
+2007;Corse;inactifs non étudiant;
+2008;Corse;inactifs non étudiant;
+2009;Corse;inactifs non étudiant;
+2010;Corse;inactifs non étudiant;
+2011;Corse;inactifs non étudiant;
+2012;Corse;inactifs non étudiant;
+2013;Corse;inactifs non étudiant;
+2014;Corse;inactifs non étudiant;
+2015;Corse;inactifs non étudiant;
+2005;Franche-Comté;inactifs non étudiant;23,2
+2006;Franche-Comté;inactifs non étudiant;22,6
+2007;Franche-Comté;inactifs non étudiant;21,5
+2008;Franche-Comté;inactifs non étudiant;27,59562842
+2009;Franche-Comté;inactifs non étudiant;28,49740933
+2010;Franche-Comté;inactifs non étudiant;29,84496124
+2011;Franche-Comté;inactifs non étudiant;31,97674419
+2012;Franche-Comté;inactifs non étudiant;29,46175637
+2013;Franche-Comté;inactifs non étudiant;30,17530342
+2014;Franche-Comté;inactifs non étudiant;29,43815438
+2015;Franche-Comté;inactifs non étudiant;34,59238886
+2005;Haute-Normandie;inactifs non étudiant;24
+2006;Haute-Normandie;inactifs non étudiant;24
+2007;Haute-Normandie;inactifs non étudiant;22,4
+2008;Haute-Normandie;inactifs non étudiant;26,24356775
+2009;Haute-Normandie;inactifs non étudiant;24,66666667
+2010;Haute-Normandie;inactifs non étudiant;28,86075949
+2011;Haute-Normandie;inactifs non étudiant;33,16326531
+2012;Haute-Normandie;inactifs non étudiant;28,43295638
+2013;Haute-Normandie;inactifs non étudiant;28,17780456
+2014;Haute-Normandie;inactifs non étudiant;34,63016231
+2015;Haute-Normandie;inactifs non étudiant;32,84022691
+2005;Ile-de-France;inactifs non étudiant;21
+2006;Ile-de-France;inactifs non étudiant;20,7
+2007;Ile-de-France;inactifs non étudiant;20,9
+2008;Ile-de-France;inactifs non étudiant;19,1630373
+2009;Ile-de-France;inactifs non étudiant;20,50940886
+2010;Ile-de-France;inactifs non étudiant;23,72502792
+2011;Ile-de-France;inactifs non étudiant;24,71431008
+2012;Ile-de-France;inactifs non étudiant;22,1286031
+2013;Ile-de-France;inactifs non étudiant;24,77155552
+2014;Ile-de-France;inactifs non étudiant;25,83284577
+2015;Ile-de-France;inactifs non étudiant;25,00465242
+2005;Languedoc-Roussillon;inactifs non étudiant;38,1
+2006;Languedoc-Roussillon;inactifs non étudiant;35,3
+2007;Languedoc-Roussillon;inactifs non étudiant;27,4
+2008;Languedoc-Roussillon;inactifs non étudiant;30,21885522
+2009;Languedoc-Roussillon;inactifs non étudiant;33,5589942
+2010;Languedoc-Roussillon;inactifs non étudiant;34,54172367
+2011;Languedoc-Roussillon;inactifs non étudiant;36,492891
+2012;Languedoc-Roussillon;inactifs non étudiant;34,75836431
+2013;Languedoc-Roussillon;inactifs non étudiant;33,5871413
+2014;Languedoc-Roussillon;inactifs non étudiant;36,73354929
+2015;Languedoc-Roussillon;inactifs non étudiant;35,82866149
+2005;Limousin;inactifs non étudiant;
+2006;Limousin;inactifs non étudiant;
+2007;Limousin;inactifs non étudiant;
+2008;Limousin;inactifs non étudiant;
+2009;Limousin;inactifs non étudiant;
+2010;Limousin;inactifs non étudiant;29,33333333
+2011;Limousin;inactifs non étudiant;
+2012;Limousin;inactifs non étudiant;
+2013;Limousin;inactifs non étudiant;
+2014;Limousin;inactifs non étudiant;
+2015;Limousin;inactifs non étudiant;
+2005;Lorraine;inactifs non étudiant;25,4
+2006;Lorraine;inactifs non étudiant;24,7
+2007;Lorraine;inactifs non étudiant;21,1
+2008;Lorraine;inactifs non étudiant;21,15812918
+2009;Lorraine;inactifs non étudiant;18,59688196
+2010;Lorraine;inactifs non étudiant;26,15384615
+2011;Lorraine;inactifs non étudiant;26,38248848
+2012;Lorraine;inactifs non étudiant;28,83172562
+2013;Lorraine;inactifs non étudiant;27,62554773
+2014;Lorraine;inactifs non étudiant;29,98945611
+2015;Lorraine;inactifs non étudiant;25,57002838
+2005;Midi-Pyrénées;inactifs non étudiant;22,5
+2006;Midi-Pyrénées;inactifs non étudiant;27,3
+2007;Midi-Pyrénées;inactifs non étudiant;24,8
+2008;Midi-Pyrénées;inactifs non étudiant;22,11280215
+2009;Midi-Pyrénées;inactifs non étudiant;24,59436379
+2010;Midi-Pyrénées;inactifs non étudiant;26,66274279
+2011;Midi-Pyrénées;inactifs non étudiant;27,63371151
+2012;Midi-Pyrénées;inactifs non étudiant;26,31578947
+2013;Midi-Pyrénées;inactifs non étudiant;28,82045996
+2014;Midi-Pyrénées;inactifs non étudiant;29,21529004
+2015;Midi-Pyrénées;inactifs non étudiant;31,25980845
+2005;Nord-Pas-de-Calais;inactifs non étudiant;22,5
+2006;Nord-Pas-de-Calais;inactifs non étudiant;25,5
+2007;Nord-Pas-de-Calais;inactifs non étudiant;22,6
+2008;Nord-Pas-de-Calais;inactifs non étudiant;27,58152174
+2009;Nord-Pas-de-Calais;inactifs non étudiant;26,73942701
+2010;Nord-Pas-de-Calais;inactifs non étudiant;28,66698519
+2011;Nord-Pas-de-Calais;inactifs non étudiant;30,82239115
+2012;Nord-Pas-de-Calais;inactifs non étudiant;29,57252978
+2013;Nord-Pas-de-Calais;inactifs non étudiant;28,72800236
+2014;Nord-Pas-de-Calais;inactifs non étudiant;32,68532963
+2015;Nord-Pas-de-Calais;inactifs non étudiant;33,95252826
+2005;Pays de la Loire;inactifs non étudiant;27,7
+2006;Pays de la Loire;inactifs non étudiant;29,1
+2007;Pays de la Loire;inactifs non étudiant;21,7
+2008;Pays de la Loire;inactifs non étudiant;22,58292167
+2009;Pays de la Loire;inactifs non étudiant;24,91153574
+2010;Pays de la Loire;inactifs non étudiant;28,28235294
+2011;Pays de la Loire;inactifs non étudiant;30,23743017
+2012;Pays de la Loire;inactifs non étudiant;26,01902174
+2013;Pays de la Loire;inactifs non étudiant;27,89268799
+2014;Pays de la Loire;inactifs non étudiant;30,41880704
+2015;Pays de la Loire;inactifs non étudiant;27,28109441
+2005;Picardie;inactifs non étudiant;29,7
+2006;Picardie;inactifs non étudiant;27,7
+2007;Picardie;inactifs non étudiant;21,4
+2008;Picardie;inactifs non étudiant;24,69982847
+2009;Picardie;inactifs non étudiant;21,9924812
+2010;Picardie;inactifs non étudiant;27,3989899
+2011;Picardie;inactifs non étudiant;27,6867031
+2012;Picardie;inactifs non étudiant;28,15533981
+2013;Picardie;inactifs non étudiant;29,7432329
+2014;Picardie;inactifs non étudiant;32,94532962
+2015;Picardie;inactifs non étudiant;27,77430472
+2005;Poitou-Charentes;inactifs non étudiant;32,1
+2006;Poitou-Charentes;inactifs non étudiant;34,3
+2007;Poitou-Charentes;inactifs non étudiant;27,7
+2008;Poitou-Charentes;inactifs non étudiant;31,41025641
+2009;Poitou-Charentes;inactifs non étudiant;31,31147541
+2010;Poitou-Charentes;inactifs non étudiant;34,72222222
+2011;Poitou-Charentes;inactifs non étudiant;33,84853168
+2012;Poitou-Charentes;inactifs non étudiant;34,62068966
+2013;Poitou-Charentes;inactifs non étudiant;35,539546
+2014;Poitou-Charentes;inactifs non étudiant;36,73598238
+2015;Poitou-Charentes;inactifs non étudiant;37,63289516
+2005;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;30,2
+2006;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;29,9
+2007;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;27,1
+2008;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;27,49490835
+2009;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;29,7755884
+2010;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;32,73787824
+2011;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;32,68041237
+2012;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;30,78158458
+2013;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;35,05068348
+2014;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;36,17760179
+2015;Provence-Alpes-Côte-d'Azur;inactifs non étudiant;35,09647574
+2005;Rhône-Alpes;inactifs non étudiant;24,9
+2006;Rhône-Alpes;inactifs non étudiant;25,6
+2007;Rhône-Alpes;inactifs non étudiant;19,8
+2008;Rhône-Alpes;inactifs non étudiant;21,74757282
+2009;Rhône-Alpes;inactifs non étudiant;21,91051136
+2010;Rhône-Alpes;inactifs non étudiant;27,07305035
+2011;Rhône-Alpes;inactifs non étudiant;26,93389592
+2012;Rhône-Alpes;inactifs non étudiant;27,06521739
+2013;Rhône-Alpes;inactifs non étudiant;28,76240717
+2014;Rhône-Alpes;inactifs non étudiant;28,83476897
+2015;Rhône-Alpes;inactifs non étudiant;30,91356277
+2005;Alsace;habitués assidus;6,3
+2006;Alsace;habitués assidus;4,6
+2007;Alsace;habitués assidus;4,9
+2008;Alsace;habitués assidus;3,664921466
+2009;Alsace;habitués assidus;4,249667995
+2010;Alsace;habitués assidus;4,612706701
+2011;Alsace;habitués assidus;4,988123515
+2012;Alsace;habitués assidus;2,996254682
+2013;Alsace;habitués assidus;2,264795433
+2014;Alsace;habitués assidus;4,15091928
+2015;Alsace;habitués assidus;5,609559246
+2005;Aquitaine;habitués assidus;7,1
+2006;Aquitaine;habitués assidus;5,8
+2007;Aquitaine;habitués assidus;3,8
+2008;Aquitaine;habitués assidus;3,235990529
+2009;Aquitaine;habitués assidus;4,797353184
+2010;Aquitaine;habitués assidus;5
+2011;Aquitaine;habitués assidus;4,674945215
+2012;Aquitaine;habitués assidus;4,347826087
+2013;Aquitaine;habitués assidus;3,362423436
+2014;Aquitaine;habitués assidus;4,905366965
+2015;Aquitaine;habitués assidus;3,105356418
+2005;Auvergne;habitués assidus;5,2
+2006;Auvergne;habitués assidus;4
+2007;Auvergne;habitués assidus;3,3
+2008;Auvergne;habitués assidus;2,43902439
+2009;Auvergne;habitués assidus;0,64516129
+2010;Auvergne;habitués assidus;1,351351351
+2011;Auvergne;habitués assidus;1,165501166
+2012;Auvergne;habitués assidus;2,731092437
+2013;Auvergne;habitués assidus;3,100292002
+2014;Auvergne;habitués assidus;2,289635249
+2015;Auvergne;habitués assidus;2,888738342
+2005;Basse-Normandie;habitués assidus;3,2
+2006;Basse-Normandie;habitués assidus;2,6
+2007;Basse-Normandie;habitués assidus;1,3
+2008;Basse-Normandie;habitués assidus;3,368421053
+2009;Basse-Normandie;habitués assidus;2,921348315
+2010;Basse-Normandie;habitués assidus;3,951890034
+2011;Basse-Normandie;habitués assidus;2,450980392
+2012;Basse-Normandie;habitués assidus;4,651162791
+2013;Basse-Normandie;habitués assidus;1,191060629
+2014;Basse-Normandie;habitués assidus;3,010088309
+2015;Basse-Normandie;habitués assidus;4,295742565
+2005;Bourgogne;habitués assidus;3,5
+2006;Bourgogne;habitués assidus;3,6
+2007;Bourgogne;habitués assidus;3
+2008;Bourgogne;habitués assidus;2,807017544
+2009;Bourgogne;habitués assidus;2
+2010;Bourgogne;habitués assidus;3,452685422
+2011;Bourgogne;habitués assidus;2,659574468
+2012;Bourgogne;habitués assidus;3,400309119
+2013;Bourgogne;habitués assidus;4,168922407
+2014;Bourgogne;habitués assidus;2,548298976
+2015;Bourgogne;habitués assidus;1,979106655
+2005;Bretagne;habitués assidus;4
+2006;Bretagne;habitués assidus;2,9
+2007;Bretagne;habitués assidus;2,1
+2008;Bretagne;habitués assidus;2,89975145
+2009;Bretagne;habitués assidus;2,747252747
+2010;Bretagne;habitués assidus;3,691813804
+2011;Bretagne;habitués assidus;4,127725857
+2012;Bretagne;habitués assidus;3,655913978
+2013;Bretagne;habitués assidus;4,548595826
+2014;Bretagne;habitués assidus;4,392821592
+2015;Bretagne;habitués assidus;3,733688566
+2005;Centre;habitués assidus;4,5
+2006;Centre;habitués assidus;3,8
+2007;Centre;habitués assidus;3,3
+2008;Centre;habitués assidus;2,677651905
+2009;Centre;habitués assidus;4,23553719
+2010;Centre;habitués assidus;4,372019078
+2011;Centre;habitués assidus;3,789473684
+2012;Centre;habitués assidus;3,871576959
+2013;Centre;habitués assidus;3,427943738
+2014;Centre;habitués assidus;4,0955537
+2015;Centre;habitués assidus;3,418481281
+2005;Champagne-Ardenne;habitués assidus;1,2
+2006;Champagne-Ardenne;habitués assidus;2,7
+2007;Champagne-Ardenne;habitués assidus;2,2
+2008;Champagne-Ardenne;habitués assidus;2,088772846
+2009;Champagne-Ardenne;habitués assidus;3,836317136
+2010;Champagne-Ardenne;habitués assidus;2,941176471
+2011;Champagne-Ardenne;habitués assidus;2,387267905
+2012;Champagne-Ardenne;habitués assidus;2,045454545
+2013;Champagne-Ardenne;habitués assidus;2,907220254
+2014;Champagne-Ardenne;habitués assidus;3,442526489
+2015;Champagne-Ardenne;habitués assidus;2,772316131
+2005;Corse;habitués assidus;
+2006;Corse;habitués assidus;
+2007;Corse;habitués assidus;
+2008;Corse;habitués assidus;
+2009;Corse;habitués assidus;
+2010;Corse;habitués assidus;
+2011;Corse;habitués assidus;
+2012;Corse;habitués assidus;
+2013;Corse;habitués assidus;
+2014;Corse;habitués assidus;
+2015;Corse;habitués assidus;
+2005;Franche-Comté;habitués assidus;4,8
+2006;Franche-Comté;habitués assidus;3,1
+2007;Franche-Comté;habitués assidus;2,2
+2008;Franche-Comté;habitués assidus;1,639344262
+2009;Franche-Comté;habitués assidus;2,849740933
+2010;Franche-Comté;habitués assidus;1,937984496
+2011;Franche-Comté;habitués assidus;2,325581395
+2012;Franche-Comté;habitués assidus;4,249291785
+2013;Franche-Comté;habitués assidus;3,499271777
+2014;Franche-Comté;habitués assidus;4,28381027
+2015;Franche-Comté;habitués assidus;4,275275957
+2005;Haute-Normandie;habitués assidus;4,8
+2006;Haute-Normandie;habitués assidus;3,1
+2007;Haute-Normandie;habitués assidus;3,5
+2008;Haute-Normandie;habitués assidus;3,259005146
+2009;Haute-Normandie;habitués assidus;3,833333333
+2010;Haute-Normandie;habitués assidus;3,924050633
+2011;Haute-Normandie;habitués assidus;4,421768707
+2012;Haute-Normandie;habitués assidus;4,038772213
+2013;Haute-Normandie;habitués assidus;5,027372886
+2014;Haute-Normandie;habitués assidus;7,113388199
+2015;Haute-Normandie;habitués assidus;4,632550999
+2005;Ile-de-France;habitués assidus;13,3
+2006;Ile-de-France;habitués assidus;10,9
+2007;Ile-de-France;habitués assidus;9,1
+2008;Ile-de-France;habitués assidus;8,558985041
+2009;Ile-de-France;habitués assidus;8,952670595
+2010;Ile-de-France;habitués assidus;9,604169252
+2011;Ile-de-France;habitués assidus;9,79020979
+2012;Ile-de-France;habitués assidus;9,379157428
+2013;Ile-de-France;habitués assidus;8,285398284
+2014;Ile-de-France;habitués assidus;9,731230617
+2015;Ile-de-France;habitués assidus;9,341822944
+2005;Languedoc-Roussillon;habitués assidus;5,2
+2006;Languedoc-Roussillon;habitués assidus;3,6
+2007;Languedoc-Roussillon;habitués assidus;3,1
+2008;Languedoc-Roussillon;habitués assidus;2,272727273
+2009;Languedoc-Roussillon;habitués assidus;3,094777563
+2010;Languedoc-Roussillon;habitués assidus;3,283173735
+2011;Languedoc-Roussillon;habitués assidus;2,938388626
+2012;Languedoc-Roussillon;habitués assidus;3,810408922
+2013;Languedoc-Roussillon;habitués assidus;4,314929434
+2014;Languedoc-Roussillon;habitués assidus;4,463947291
+2015;Languedoc-Roussillon;habitués assidus;3,688055051
+2005;Limousin;habitués assidus;
+2006;Limousin;habitués assidus;
+2007;Limousin;habitués assidus;
+2008;Limousin;habitués assidus;
+2009;Limousin;habitués assidus;
+2010;Limousin;habitués assidus;2,666666667
+2011;Limousin;habitués assidus;
+2012;Limousin;habitués assidus;
+2013;Limousin;habitués assidus;
+2014;Limousin;habitués assidus;
+2015;Limousin;habitués assidus;
+2005;Lorraine;habitués assidus;6,4
+2006;Lorraine;habitués assidus;5
+2007;Lorraine;habitués assidus;5
+2008;Lorraine;habitués assidus;3,006681514
+2009;Lorraine;habitués assidus;1,893095768
+2010;Lorraine;habitués assidus;3,230769231
+2011;Lorraine;habitués assidus;3,571428571
+2012;Lorraine;habitués assidus;3,32261522
+2013;Lorraine;habitués assidus;3,648865694
+2014;Lorraine;habitués assidus;3,082055224
+2015;Lorraine;habitués assidus;4,21182243
+2005;Midi-Pyrénées;habitués assidus;5
+2006;Midi-Pyrénées;habitués assidus;3,4
+2007;Midi-Pyrénées;habitués assidus;3,8
+2008;Midi-Pyrénées;habitués assidus;3,491495076
+2009;Midi-Pyrénées;habitués assidus;5,550811272
+2010;Midi-Pyrénées;habitués assidus;5,356091819
+2011;Midi-Pyrénées;habitués assidus;5,429497569
+2012;Midi-Pyrénées;habitués assidus;5,435720449
+2013;Midi-Pyrénées;habitués assidus;3,876663327
+2014;Midi-Pyrénées;habitués assidus;5,498309815
+2015;Midi-Pyrénées;habitués assidus;3,679825761
+2005;Nord-Pas-de-Calais;habitués assidus;3,5
+2006;Nord-Pas-de-Calais;habitués assidus;2,7
+2007;Nord-Pas-de-Calais;habitués assidus;2,5
+2008;Nord-Pas-de-Calais;habitués assidus;2,581521739
+2009;Nord-Pas-de-Calais;habitués assidus;3,410641201
+2010;Nord-Pas-de-Calais;habitués assidus;3,631151457
+2011;Nord-Pas-de-Calais;habitués assidus;4,561161023
+2012;Nord-Pas-de-Calais;habitués assidus;4,625087596
+2013;Nord-Pas-de-Calais;habitués assidus;5,133523269
+2014;Nord-Pas-de-Calais;habitués assidus;4,877520675
+2015;Nord-Pas-de-Calais;habitués assidus;5,253435518
+2005;Pays de la Loire;habitués assidus;4,3
+2006;Pays de la Loire;habitués assidus;3,7
+2007;Pays de la Loire;habitués assidus;3
+2008;Pays de la Loire;habitués assidus;2,822865208
+2009;Pays de la Loire;habitués assidus;2,760084926
+2010;Pays de la Loire;habitués assidus;3,152941176
+2011;Pays de la Loire;habitués assidus;2,793296089
+2012;Pays de la Loire;habitués assidus;3,940217391
+2013;Pays de la Loire;habitués assidus;3,285970779
+2014;Pays de la Loire;habitués assidus;4,40031503
+2015;Pays de la Loire;habitués assidus;4,321546408
+2005;Picardie;habitués assidus;3,2
+2006;Picardie;habitués assidus;1,6
+2007;Picardie;habitués assidus;1,7
+2008;Picardie;habitués assidus;2,058319039
+2009;Picardie;habitués assidus;1,879699248
+2010;Picardie;habitués assidus;2,272727273
+2011;Picardie;habitués assidus;2,9143898
+2012;Picardie;habitués assidus;3,883495146
+2013;Picardie;habitués assidus;3,185224338
+2014;Picardie;habitués assidus;3,877093734
+2015;Picardie;habitués assidus;4,176880946
+2005;Poitou-Charentes;habitués assidus;4,4
+2006;Poitou-Charentes;habitués assidus;4
+2007;Poitou-Charentes;habitués assidus;3
+2008;Poitou-Charentes;habitués assidus;2,884615385
+2009;Poitou-Charentes;habitués assidus;1,967213115
+2010;Poitou-Charentes;habitués assidus;1,62037037
+2011;Poitou-Charentes;habitués assidus;2,163833076
+2012;Poitou-Charentes;habitués assidus;4,275862069
+2013;Poitou-Charentes;habitués assidus;3,808155903
+2014;Poitou-Charentes;habitués assidus;5,314839788
+2015;Poitou-Charentes;habitués assidus;5,008023121
+2005;Provence-Alpes-Côte-d'Azur;habitués assidus;5,3
+2006;Provence-Alpes-Côte-d'Azur;habitués assidus;3,6
+2007;Provence-Alpes-Côte-d'Azur;habitués assidus;3,9
+2008;Provence-Alpes-Côte-d'Azur;habitués assidus;3,615071283
+2009;Provence-Alpes-Côte-d'Azur;habitués assidus;3,612479475
+2010;Provence-Alpes-Côte-d'Azur;habitués assidus;4,374772147
+2011;Provence-Alpes-Côte-d'Azur;habitués assidus;4,175257732
+2012;Provence-Alpes-Côte-d'Azur;habitués assidus;4,122055675
+2013;Provence-Alpes-Côte-d'Azur;habitués assidus;4,319439479
+2014;Provence-Alpes-Côte-d'Azur;habitués assidus;4,331926933
+2015;Provence-Alpes-Côte-d'Azur;habitués assidus;4,191735586
+2005;Rhône-Alpes;habitués assidus;5
+2006;Rhône-Alpes;habitués assidus;4,5
+2007;Rhône-Alpes;habitués assidus;3,7
+2008;Rhône-Alpes;habitués assidus;3,45631068
+2009;Rhône-Alpes;habitués assidus;4,6875
+2010;Rhône-Alpes;habitués assidus;4,466929911
+2011;Rhône-Alpes;habitués assidus;5,063291139
+2012;Rhône-Alpes;habitués assidus;4,239130435
+2013;Rhône-Alpes;habitués assidus;4,218846541
+2014;Rhône-Alpes;habitués assidus;4,494214826
+2015;Rhône-Alpes;habitués assidus;4,773880528
+2005;Alsace;habitués réguliers;38,7
+2006;Alsace;habitués réguliers;31,3
+2007;Alsace;habitués réguliers;28,9
+2008;Alsace;habitués réguliers;25,91623037
+2009;Alsace;habitués réguliers;28,81806109
+2010;Alsace;habitués réguliers;28,72062663
+2011;Alsace;habitués réguliers;27,31591449
+2012;Alsace;habitués réguliers;25,71785268
+2013;Alsace;habitués réguliers;20,51697235
+2014;Alsace;habitués réguliers;25,21136362
+2015;Alsace;habitués réguliers;24,57143754
+2005;Aquitaine;habitués réguliers;36,4
+2006;Aquitaine;habitués réguliers;31,3
+2007;Aquitaine;habitués réguliers;33
+2008;Aquitaine;habitués réguliers;27,4664562
+2009;Aquitaine;habitués réguliers;29,19768404
+2010;Aquitaine;habitués réguliers;29,47368421
+2011;Aquitaine;habitués réguliers;27,24616508
+2012;Aquitaine;habitués réguliers;29,91893884
+2013;Aquitaine;habitués réguliers;25,75472521
+2014;Aquitaine;habitués réguliers;29,17467891
+2015;Aquitaine;habitués réguliers;27,88354807
+2005;Auvergne;habitués réguliers;25,2
+2006;Auvergne;habitués réguliers;25,4
+2007;Auvergne;habitués réguliers;27,3
+2008;Auvergne;habitués réguliers;25,49889135
+2009;Auvergne;habitués réguliers;27,74193548
+2010;Auvergne;habitués réguliers;26,72672673
+2011;Auvergne;habitués réguliers;25,40792541
+2012;Auvergne;habitués réguliers;27,31092437
+2013;Auvergne;habitués réguliers;24,54707136
+2014;Auvergne;habitués réguliers;29,74641512
+2015;Auvergne;habitués réguliers;23,26024384
+2005;Basse-Normandie;habitués réguliers;34,4
+2006;Basse-Normandie;habitués réguliers;30,9
+2007;Basse-Normandie;habitués réguliers;26,6
+2008;Basse-Normandie;habitués réguliers;25,68421053
+2009;Basse-Normandie;habitués réguliers;28,08988764
+2010;Basse-Normandie;habitués réguliers;30,06872852
+2011;Basse-Normandie;habitués réguliers;27,20588235
+2012;Basse-Normandie;habitués réguliers;26,35658915
+2013;Basse-Normandie;habitués réguliers;25,0167135
+2014;Basse-Normandie;habitués réguliers;23,95200991
+2015;Basse-Normandie;habitués réguliers;24,10079175
+2005;Bourgogne;habitués réguliers;28,5
+2006;Bourgogne;habitués réguliers;26,6
+2007;Bourgogne;habitués réguliers;23,7
+2008;Bourgogne;habitués réguliers;22,45614035
+2009;Bourgogne;habitués réguliers;23,09090909
+2010;Bourgogne;habitués réguliers;24,55242967
+2011;Bourgogne;habitués réguliers;20,74468085
+2012;Bourgogne;habitués réguliers;22,7202473
+2013;Bourgogne;habitués réguliers;23,74452006
+2014;Bourgogne;habitués réguliers;24,38915473
+2015;Bourgogne;habitués réguliers;24,67406819
+2005;Bretagne;habitués réguliers;31,6
+2006;Bretagne;habitués réguliers;26,9
+2007;Bretagne;habitués réguliers;28
+2008;Bretagne;habitués réguliers;28,58326429
+2009;Bretagne;habitués réguliers;27,55102041
+2010;Bretagne;habitués réguliers;25,14713751
+2011;Bretagne;habitués réguliers;25,23364486
+2012;Bretagne;habitués réguliers;32,40143369
+2013;Bretagne;habitués réguliers;25,9449986
+2014;Bretagne;habitués réguliers;27,46397241
+2015;Bretagne;habitués réguliers;25,51788015
+2005;Centre;habitués réguliers;30,5
+2006;Centre;habitués réguliers;26,7
+2007;Centre;habitués réguliers;25,7
+2008;Centre;habitués réguliers;24,92276004
+2009;Centre;habitués réguliers;29,1322314
+2010;Centre;habitués réguliers;25,59618442
+2011;Centre;habitués réguliers;26,52631579
+2012;Centre;habitués réguliers;26,44003777
+2013;Centre;habitués réguliers;26,73972561
+2014;Centre;habitués réguliers;23,86189272
+2015;Centre;habitués réguliers;26,7133903
+2005;Champagne-Ardenne;habitués réguliers;26,3
+2006;Champagne-Ardenne;habitués réguliers;24
+2007;Champagne-Ardenne;habitués réguliers;21,2
+2008;Champagne-Ardenne;habitués réguliers;20,88772846
+2009;Champagne-Ardenne;habitués réguliers;18,9258312
+2010;Champagne-Ardenne;habitués réguliers;27,45098039
+2011;Champagne-Ardenne;habitués réguliers;25,46419098
+2012;Champagne-Ardenne;habitués réguliers;24,09090909
+2013;Champagne-Ardenne;habitués réguliers;21,11840183
+2014;Champagne-Ardenne;habitués réguliers;19,56227331
+2015;Champagne-Ardenne;habitués réguliers;29,71904243
+2005;Corse;habitués réguliers;
+2006;Corse;habitués réguliers;
+2007;Corse;habitués réguliers;
+2008;Corse;habitués réguliers;
+2009;Corse;habitués réguliers;
+2010;Corse;habitués réguliers;
+2011;Corse;habitués réguliers;
+2012;Corse;habitués réguliers;
+2013;Corse;habitués réguliers;
+2014;Corse;habitués réguliers;
+2015;Corse;habitués réguliers;
+2005;Franche-Comté;habitués réguliers;33,6
+2006;Franche-Comté;habitués réguliers;27,1
+2007;Franche-Comté;habitués réguliers;32,9
+2008;Franche-Comté;habitués réguliers;27,04918033
+2009;Franche-Comté;habitués réguliers;29,01554404
+2010;Franche-Comté;habitués réguliers;33,33333333
+2011;Franche-Comté;habitués réguliers;33,43023256
+2012;Franche-Comté;habitués réguliers;28,89518414
+2013;Franche-Comté;habitués réguliers;19,88255589
+2014;Franche-Comté;habitués réguliers;25,13403458
+2015;Franche-Comté;habitués réguliers;24,92994807
+2005;Haute-Normandie;habitués réguliers;33,6
+2006;Haute-Normandie;habitués réguliers;27,7
+2007;Haute-Normandie;habitués réguliers;24
+2008;Haute-Normandie;habitués réguliers;24,52830189
+2009;Haute-Normandie;habitués réguliers;26,16666667
+2010;Haute-Normandie;habitués réguliers;24,05063291
+2011;Haute-Normandie;habitués réguliers;26,02040816
+2012;Haute-Normandie;habitués réguliers;28,75605816
+2013;Haute-Normandie;habitués réguliers;25,26887779
+2014;Haute-Normandie;habitués réguliers;26,23175593
+2015;Haute-Normandie;habitués réguliers;24,18918384
+2005;Ile-de-France;habitués réguliers;38,4
+2006;Ile-de-France;habitués réguliers;35,4
+2007;Ile-de-France;habitués réguliers;35,5
+2008;Ile-de-France;habitués réguliers;33,76254497
+2009;Ile-de-France;habitués réguliers;33,64379396
+2010;Ile-de-France;habitués réguliers;34,21019978
+2011;Ile-de-France;habitués réguliers;33,39587242
+2012;Ile-de-France;habitués réguliers;35,78713969
+2013;Ile-de-France;habitués réguliers;32,72292626
+2014;Ile-de-France;habitués réguliers;34,25315143
+2015;Ile-de-France;habitués réguliers;33,71662502
+2005;Languedoc-Roussillon;habitués réguliers;33,5
+2006;Languedoc-Roussillon;habitués réguliers;29,6
+2007;Languedoc-Roussillon;habitués réguliers;31,1
+2008;Languedoc-Roussillon;habitués réguliers;31,14478114
+2009;Languedoc-Roussillon;habitués réguliers;30,85106383
+2010;Languedoc-Roussillon;habitués réguliers;29,13816689
+2011;Languedoc-Roussillon;habitués réguliers;28,43601896
+2012;Languedoc-Roussillon;habitués réguliers;27,78810409
+2013;Languedoc-Roussillon;habitués réguliers;22,92934278
+2014;Languedoc-Roussillon;habitués réguliers;28,24428225
+2015;Languedoc-Roussillon;habitués réguliers;30,79786955
+2005;Limousin;habitués réguliers;
+2006;Limousin;habitués réguliers;
+2007;Limousin;habitués réguliers;
+2008;Limousin;habitués réguliers;
+2009;Limousin;habitués réguliers;
+2010;Limousin;habitués réguliers;17,66666667
+2011;Limousin;habitués réguliers;
+2012;Limousin;habitués réguliers;
+2013;Limousin;habitués réguliers;
+2014;Limousin;habitués réguliers;
+2015;Limousin;habitués réguliers;
+2005;Lorraine;habitués réguliers;31,5
+2006;Lorraine;habitués réguliers;29,2
+2007;Lorraine;habitués réguliers;27,6
+2008;Lorraine;habitués réguliers;28,28507795
+2009;Lorraine;habitués réguliers;28,9532294
+2010;Lorraine;habitués réguliers;28,46153846
+2011;Lorraine;habitués réguliers;28,80184332
+2012;Lorraine;habitués réguliers;27,11682744
+2013;Lorraine;habitués réguliers;24,03322339
+2014;Lorraine;habitués réguliers;27,26849225
+2015;Lorraine;habitués réguliers;28,86273829
+2005;Midi-Pyrénées;habitués réguliers;35,1
+2006;Midi-Pyrénées;habitués réguliers;32,1
+2007;Midi-Pyrénées;habitués réguliers;28,4
+2008;Midi-Pyrénées;habitués réguliers;26,32050134
+2009;Midi-Pyrénées;habitués réguliers;28,35183604
+2010;Midi-Pyrénées;habitués réguliers;29,13478517
+2011;Midi-Pyrénées;habitués réguliers;27,22852512
+2012;Midi-Pyrénées;habitués réguliers;28,55910267
+2013;Midi-Pyrénées;habitués réguliers;27,82851815
+2014;Midi-Pyrénées;habitués réguliers;30,7447015
+2015;Midi-Pyrénées;habitués réguliers;27,68034827
+2005;Nord-Pas-de-Calais;habitués réguliers;31,6
+2006;Nord-Pas-de-Calais;habitués réguliers;27,8
+2007;Nord-Pas-de-Calais;habitués réguliers;27,7
+2008;Nord-Pas-de-Calais;habitués réguliers;23,30163043
+2009;Nord-Pas-de-Calais;habitués réguliers;28,24010914
+2010;Nord-Pas-de-Calais;habitués réguliers;24,27138079
+2011;Nord-Pas-de-Calais;habitués réguliers;21,83828611
+2012;Nord-Pas-de-Calais;habitués réguliers;27,89067975
+2013;Nord-Pas-de-Calais;habitués réguliers;22,54401126
+2014;Nord-Pas-de-Calais;habitués réguliers;25,9652711
+2015;Nord-Pas-de-Calais;habitués réguliers;27,75610986
+2005;Pays de la Loire;habitués réguliers;31,4
+2006;Pays de la Loire;habitués réguliers;29,7
+2007;Pays de la Loire;habitués réguliers;28,5
+2008;Pays de la Loire;habitués réguliers;24,48835568
+2009;Pays de la Loire;habitués réguliers;31,42250531
+2010;Pays de la Loire;habitués réguliers;29,64705882
+2011;Pays de la Loire;habitués réguliers;28,28212291
+2012;Pays de la Loire;habitués réguliers;27,85326087
+2013;Pays de la Loire;habitués réguliers;26,99221911
+2014;Pays de la Loire;habitués réguliers;24,58531019
+2015;Pays de la Loire;habitués réguliers;27,64696671
+2005;Picardie;habitués réguliers;28,9
+2006;Picardie;habitués réguliers;25,4
+2007;Picardie;habitués réguliers;23
+2008;Picardie;habitués réguliers;24,01372213
+2009;Picardie;habitués réguliers;20,30075188
+2010;Picardie;habitués réguliers;22,34848485
+2011;Picardie;habitués réguliers;19,85428051
+2012;Picardie;habitués réguliers;25,63106796
+2013;Picardie;habitués réguliers;20,91113679
+2014;Picardie;habitués réguliers;23,21965438
+2015;Picardie;habitués réguliers;26,24313225
+2005;Poitou-Charentes;habitués réguliers;28,6
+2006;Poitou-Charentes;habitués réguliers;27,8
+2007;Poitou-Charentes;habitués réguliers;26,3
+2008;Poitou-Charentes;habitués réguliers;25,48076923
+2009;Poitou-Charentes;habitués réguliers;24,26229508
+2010;Poitou-Charentes;habitués réguliers;23,72685185
+2011;Poitou-Charentes;habitués réguliers;23,18392581
+2012;Poitou-Charentes;habitués réguliers;24,68965517
+2013;Poitou-Charentes;habitués réguliers;26,9291515
+2014;Poitou-Charentes;habitués réguliers;27,85358423
+2015;Poitou-Charentes;habitués réguliers;31,52202238
+2005;Provence-Alpes-Côte-d'Azur;habitués réguliers;33,8
+2006;Provence-Alpes-Côte-d'Azur;habitués réguliers;32,5
+2007;Provence-Alpes-Côte-d'Azur;habitués réguliers;28,7
+2008;Provence-Alpes-Côte-d'Azur;habitués réguliers;26,6802444
+2009;Provence-Alpes-Côte-d'Azur;habitués réguliers;29,61138478
+2010;Provence-Alpes-Côte-d'Azur;habitués réguliers;29,45679913
+2011;Provence-Alpes-Côte-d'Azur;habitués réguliers;28,35051546
+2012;Provence-Alpes-Côte-d'Azur;habitués réguliers;27,94432548
+2013;Provence-Alpes-Côte-d'Azur;habitués réguliers;25,54384713
+2014;Provence-Alpes-Côte-d'Azur;habitués réguliers;28,47195027
+2015;Provence-Alpes-Côte-d'Azur;habitués réguliers;28,1160547
+2005;Rhône-Alpes;habitués réguliers;32,8
+2006;Rhône-Alpes;habitués réguliers;30,3
+2007;Rhône-Alpes;habitués réguliers;29,4
+2008;Rhône-Alpes;habitués réguliers;26,6407767
+2009;Rhône-Alpes;habitués réguliers;28,76420455
+2010;Rhône-Alpes;habitués réguliers;28,15893386
+2011;Rhône-Alpes;habitués réguliers;27,70745429
+2012;Rhône-Alpes;habitués réguliers;30,28985507
+2013;Rhône-Alpes;habitués réguliers;26,43403741
+2014;Rhône-Alpes;habitués réguliers;25,9082153
+2015;Rhône-Alpes;habitués réguliers;26,04947206
+2005;Alsace;occasionnels;55
+2006;Alsace;occasionnels;61,5
+2007;Alsace;occasionnels;65
+2008;Alsace;occasionnels;70,41884817
+2009;Alsace;occasionnels;66,93227092
+2010;Alsace;occasionnels;66,66666667
+2011;Alsace;occasionnels;67,695962
+2012;Alsace;occasionnels;71,28589263
+2013;Alsace;occasionnels;77,21823221
+2014;Alsace;occasionnels;70,6377171
+2015;Alsace;occasionnels;69,81900321
+2005;Aquitaine;occasionnels;56,6
+2006;Aquitaine;occasionnels;59,8
+2007;Aquitaine;occasionnels;60,8
+2008;Aquitaine;occasionnels;69,29755328
+2009;Aquitaine;occasionnels;66,00496278
+2010;Aquitaine;occasionnels;65,52631579
+2011;Aquitaine;occasionnels;68,0788897
+2012;Aquitaine;occasionnels;65,73323508
+2013;Aquitaine;occasionnels;70,88285135
+2014;Aquitaine;occasionnels;65,91995412
+2015;Aquitaine;occasionnels;69,01109552
+2005;Auvergne;occasionnels;69,6
+2006;Auvergne;occasionnels;68,5
+2007;Auvergne;occasionnels;67,2
+2008;Auvergne;occasionnels;72,06208426
+2009;Auvergne;occasionnels;71,61290323
+2010;Auvergne;occasionnels;71,92192192
+2011;Auvergne;occasionnels;73,42657343
+2012;Auvergne;occasionnels;69,95798319
+2013;Auvergne;occasionnels;72,35263664
+2014;Auvergne;occasionnels;67,96394963
+2015;Auvergne;occasionnels;73,85101782
+2005;Basse-Normandie;occasionnels;62,4
+2006;Basse-Normandie;occasionnels;64,4
+2007;Basse-Normandie;occasionnels;69,8
+2008;Basse-Normandie;occasionnels;70,94736842
+2009;Basse-Normandie;occasionnels;68,98876404
+2010;Basse-Normandie;occasionnels;65,97938144
+2011;Basse-Normandie;occasionnels;70,34313725
+2012;Basse-Normandie;occasionnels;68,99224806
+2013;Basse-Normandie;occasionnels;73,79222587
+2014;Basse-Normandie;occasionnels;73,03790178
+2015;Basse-Normandie;occasionnels;71,60346569
+2005;Bourgogne;occasionnels;68
+2006;Bourgogne;occasionnels;67,2
+2007;Bourgogne;occasionnels;70,1
+2008;Bourgogne;occasionnels;74,73684211
+2009;Bourgogne;occasionnels;74,90909091
+2010;Bourgogne;occasionnels;71,99488491
+2011;Bourgogne;occasionnels;76,59574468
+2012;Bourgogne;occasionnels;73,87944359
+2013;Bourgogne;occasionnels;72,08655754
+2014;Bourgogne;occasionnels;73,06254629
+2015;Bourgogne;occasionnels;73,34682516
+2005;Bretagne;occasionnels;64,3
+2006;Bretagne;occasionnels;67,7
+2007;Bretagne;occasionnels;67,8
+2008;Bretagne;occasionnels;68,51698426
+2009;Bretagne;occasionnels;69,70172684
+2010;Bretagne;occasionnels;71,16104869
+2011;Bretagne;occasionnels;70,63862928
+2012;Bretagne;occasionnels;63,94265233
+2013;Bretagne;occasionnels;69,50640557
+2014;Bretagne;occasionnels;68,14320599
+2015;Bretagne;occasionnels;70,74843128
+2005;Centre;occasionnels;65,1
+2006;Centre;occasionnels;66,3
+2007;Centre;occasionnels;68,1
+2008;Centre;occasionnels;72,39958805
+2009;Centre;occasionnels;66,6322314
+2010;Centre;occasionnels;70,0317965
+2011;Centre;occasionnels;69,68421053
+2012;Centre;occasionnels;69,68838527
+2013;Centre;occasionnels;69,83233065
+2014;Centre;occasionnels;72,04255358
+2015;Centre;occasionnels;69,86812841
+2005;Champagne-Ardenne;occasionnels;72,4
+2006;Champagne-Ardenne;occasionnels;70,3
+2007;Champagne-Ardenne;occasionnels;73,1
+2008;Champagne-Ardenne;occasionnels;77,02349869
+2009;Champagne-Ardenne;occasionnels;77,23785166
+2010;Champagne-Ardenne;occasionnels;69,60784314
+2011;Champagne-Ardenne;occasionnels;72,14854111
+2012;Champagne-Ardenne;occasionnels;73,86363636
+2013;Champagne-Ardenne;occasionnels;75,97437791
+2014;Champagne-Ardenne;occasionnels;76,9952002
+2015;Champagne-Ardenne;occasionnels;67,50864144
+2005;Corse;occasionnels;
+2006;Corse;occasionnels;
+2007;Corse;occasionnels;
+2008;Corse;occasionnels;
+2009;Corse;occasionnels;
+2010;Corse;occasionnels;
+2011;Corse;occasionnels;
+2012;Corse;occasionnels;
+2013;Corse;occasionnels;
+2014;Corse;occasionnels;
+2015;Corse;occasionnels;
+2005;Franche-Comté;occasionnels;61,6
+2006;Franche-Comté;occasionnels;67,6
+2007;Franche-Comté;occasionnels;63,2
+2008;Franche-Comté;occasionnels;71,31147541
+2009;Franche-Comté;occasionnels;68,13471503
+2010;Franche-Comté;occasionnels;64,72868217
+2011;Franche-Comté;occasionnels;64,24418605
+2012;Franche-Comté;occasionnels;66,85552408
+2013;Franche-Comté;occasionnels;76,61817234
+2014;Franche-Comté;occasionnels;70,58215515
+2015;Franche-Comté;occasionnels;70,79477597
+2005;Haute-Normandie;occasionnels;61,6
+2006;Haute-Normandie;occasionnels;67
+2007;Haute-Normandie;occasionnels;70,1
+2008;Haute-Normandie;occasionnels;72,21269297
+2009;Haute-Normandie;occasionnels;70
+2010;Haute-Normandie;occasionnels;72,02531646
+2011;Haute-Normandie;occasionnels;69,55782313
+2012;Haute-Normandie;occasionnels;67,20516963
+2013;Haute-Normandie;occasionnels;69,70374932
+2014;Haute-Normandie;occasionnels;66,65485587
+2015;Haute-Normandie;occasionnels;71,17826516
+2005;Ile-de-France;occasionnels;48,3
+2006;Ile-de-France;occasionnels;52
+2007;Ile-de-France;occasionnels;53,4
+2008;Ile-de-France;occasionnels;57,67846999
+2009;Ile-de-France;occasionnels;57,40353545
+2010;Ile-de-France;occasionnels;56,18563097
+2011;Ile-de-France;occasionnels;56,81391779
+2012;Ile-de-France;occasionnels;54,83370288
+2013;Ile-de-France;occasionnels;58,99167545
+2014;Ile-de-France;occasionnels;56,01561795
+2015;Ile-de-France;occasionnels;56,94155203
+2005;Languedoc-Roussillon;occasionnels;61,2
+2006;Languedoc-Roussillon;occasionnels;64,4
+2007;Languedoc-Roussillon;occasionnels;63
+2008;Languedoc-Roussillon;occasionnels;66,58249158
+2009;Languedoc-Roussillon;occasionnels;66,05415861
+2010;Languedoc-Roussillon;occasionnels;67,57865937
+2011;Languedoc-Roussillon;occasionnels;68,62559242
+2012;Languedoc-Roussillon;occasionnels;68,40148699
+2013;Languedoc-Roussillon;occasionnels;72,75572779
+2014;Languedoc-Roussillon;occasionnels;67,29177046
+2015;Languedoc-Roussillon;occasionnels;65,5140754
+2005;Limousin;occasionnels;
+2006;Limousin;occasionnels;
+2007;Limousin;occasionnels;
+2008;Limousin;occasionnels;
+2009;Limousin;occasionnels;
+2010;Limousin;occasionnels;79,66666667
+2011;Limousin;occasionnels;
+2012;Limousin;occasionnels;
+2013;Limousin;occasionnels;
+2014;Limousin;occasionnels;
+2015;Limousin;occasionnels;
+2005;Lorraine;occasionnels;62,1
+2006;Lorraine;occasionnels;63,5
+2007;Lorraine;occasionnels;65,7
+2008;Lorraine;occasionnels;68,70824053
+2009;Lorraine;occasionnels;69,15367483
+2010;Lorraine;occasionnels;68,30769231
+2011;Lorraine;occasionnels;67,62672811
+2012;Lorraine;occasionnels;69,56055734
+2013;Lorraine;occasionnels;72,31791092
+2014;Lorraine;occasionnels;69,64945253
+2015;Lorraine;occasionnels;66,92543928
+2005;Midi-Pyrénées;occasionnels;60
+2006;Midi-Pyrénées;occasionnels;62,1
+2007;Midi-Pyrénées;occasionnels;65,5
+2008;Midi-Pyrénées;occasionnels;70,18800358
+2009;Midi-Pyrénées;occasionnels;66,09735269
+2010;Midi-Pyrénées;occasionnels;65,50912301
+2011;Midi-Pyrénées;occasionnels;67,34197731
+2012;Midi-Pyrénées;occasionnels;66,00517688
+2013;Midi-Pyrénées;occasionnels;68,29481853
+2014;Midi-Pyrénées;occasionnels;63,75698868
+2015;Midi-Pyrénées;occasionnels;68,63982597
+2005;Nord-Pas-de-Calais;occasionnels;64,8
+2006;Nord-Pas-de-Calais;occasionnels;67,5
+2007;Nord-Pas-de-Calais;occasionnels;65,7
+2008;Nord-Pas-de-Calais;occasionnels;74,11684783
+2009;Nord-Pas-de-Calais;occasionnels;68,34924966
+2010;Nord-Pas-de-Calais;occasionnels;72,09746775
+2011;Nord-Pas-de-Calais;occasionnels;73,60055287
+2012;Nord-Pas-de-Calais;occasionnels;67,48423266
+2013;Nord-Pas-de-Calais;occasionnels;72,32246547
+2014;Nord-Pas-de-Calais;occasionnels;69,15720822
+2015;Nord-Pas-de-Calais;occasionnels;66,99045462
+2005;Pays de la Loire;occasionnels;64,3
+2006;Pays de la Loire;occasionnels;64,4
+2007;Pays de la Loire;occasionnels;66,2
+2008;Pays de la Loire;occasionnels;72,68877911
+2009;Pays de la Loire;occasionnels;65,81740977
+2010;Pays de la Loire;occasionnels;67,2
+2011;Pays de la Loire;occasionnels;68,92458101
+2012;Pays de la Loire;occasionnels;68,20652174
+2013;Pays de la Loire;occasionnels;69,72181012
+2014;Pays de la Loire;occasionnels;71,01437478
+2015;Pays de la Loire;occasionnels;68,03148688
+2005;Picardie;occasionnels;67,9
+2006;Picardie;occasionnels;70,2
+2007;Picardie;occasionnels;71,6
+2008;Picardie;occasionnels;73,92795883
+2009;Picardie;occasionnels;77,81954887
+2010;Picardie;occasionnels;75,37878788
+2011;Picardie;occasionnels;77,23132969
+2012;Picardie;occasionnels;70,48543689
+2013;Picardie;occasionnels;75,90363887
+2014;Picardie;occasionnels;72,90325189
+2015;Picardie;occasionnels;69,57998681
+2005;Poitou-Charentes;occasionnels;67
+2006;Poitou-Charentes;occasionnels;66,7
+2007;Poitou-Charentes;occasionnels;67,6
+2008;Poitou-Charentes;occasionnels;71,63461538
+2009;Poitou-Charentes;occasionnels;73,7704918
+2010;Poitou-Charentes;occasionnels;74,65277778
+2011;Poitou-Charentes;occasionnels;74,65224111
+2012;Poitou-Charentes;occasionnels;71,03448276
+2013;Poitou-Charentes;occasionnels;69,26269259
+2014;Poitou-Charentes;occasionnels;66,83157598
+2015;Poitou-Charentes;occasionnels;63,4699545
+2005;Provence-Alpes-Côte-d'Azur;occasionnels;60,9
+2006;Provence-Alpes-Côte-d'Azur;occasionnels;61,2
+2007;Provence-Alpes-Côte-d'Azur;occasionnels;65,1
+2008;Provence-Alpes-Côte-d'Azur;occasionnels;69,70468432
+2009;Provence-Alpes-Côte-d'Azur;occasionnels;66,77613574
+2010;Provence-Alpes-Côte-d'Azur;occasionnels;66,16842873
+2011;Provence-Alpes-Côte-d'Azur;occasionnels;67,4742268
+2012;Provence-Alpes-Côte-d'Azur;occasionnels;67,93361884
+2013;Provence-Alpes-Côte-d'Azur;occasionnels;70,13671339
+2014;Provence-Alpes-Côte-d'Azur;occasionnels;67,1961228
+2015;Provence-Alpes-Côte-d'Azur;occasionnels;67,69220971
+2005;Rhône-Alpes;occasionnels;62,2
+2006;Rhône-Alpes;occasionnels;62,9
+2007;Rhône-Alpes;occasionnels;64,2
+2008;Rhône-Alpes;occasionnels;69,90291262
+2009;Rhône-Alpes;occasionnels;66,54829545
+2010;Rhône-Alpes;occasionnels;67,37413623
+2011;Rhône-Alpes;occasionnels;67,22925457
+2012;Rhône-Alpes;occasionnels;65,47101449
+2013;Rhône-Alpes;occasionnels;69,34711605
+2014;Rhône-Alpes;occasionnels;69,59756988
+2015;Rhône-Alpes;occasionnels;69,17664742

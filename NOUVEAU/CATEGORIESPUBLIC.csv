@@ -1,0 +1,15 @@
+nomCategorie;typeCategorie
+hommes;sexe
+femmes;sexe
+enfants (3-14 ans);age
+jeunes (15-24 ans);age
+adultes (25-34 ans);age
+séniors (35-49 ans);age
+vétérans (50 ans et plus);age
+CSP+;categorie socioprofessionnelle
+CSP-;categorie socioprofessionnelle
+inactif étudiant;categorie socioprofessionnelle
+inactifs non étudiant;categorie socioprofessionnelle
+habitués assidus;habitudes
+habitués réguliers;habitudes
+occasionnels;habitudes
